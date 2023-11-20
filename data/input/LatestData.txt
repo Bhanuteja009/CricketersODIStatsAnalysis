@@ -1,0 +1,2484 @@
+Aamer Hameed	0	38	0	0	0	2	0	11	0	1	137
+Aamer Hanif	0	30	44	36*	4	0	2	21.4	89	4	42
+Aamer Malik	0	28.67	25.27	90	23	1	1	20	556	3	91
+Aamer Yamin	0	77	95	62	3	1	2	26	95	2	108
+Aamir Nazir	0	31.45	13	9*	3	1	2	69.3	13	11	12
+Aamir Sohail	5	43.56	31.87	134	155	17	5	806	4780	85	73
+Aaqib Javed	0	31.43	10.68	45*	51	98	26	1335.2	267	182	33
+Aarif Sheikh	0	0	18.8	29	6	0	1	2	94	0	58
+Varun R Aaron	0	38.09	8	6*	3	1	2	63.2	8	11	126
+Josephat Ababu	0	85	9.67	17	5	3	2	48	29	3	19
+Kyle J Abbott	0	30.91	8.44	23	13	13	4	217.1	76	34	106
+Sean A Abbott	0	25	3	3	1	0	0	5	3	1	75
+Abdul Jabbar	0	0	29.5	44	2		0	1	59	0	98
+Abdul Qadir	0	26.17	15.26	41*	68	54	26	850	641	132	49
+Abdul Razzaq	3	31.84	29.71	112	228	106	57	1823.3	5080	269	83
+Abdul Rehman	0	0	1	1	1		0		1	0	144
+Abdul Shakoor	0	0	18	24	3		0	2	54	0	10
+Abdullah Mazari	0	24.5	3	3	1	1	0	16	3	2	61
+Abdur Rauf	0	26.5	0	0	0	1	0	35.4	0	8	138
+Abdur Razzak	0	29.3	13.67	53*	97	70	40	1327.3	779	207	23
+Abdur Rehman	0	38.07	8.35	31	23	12	6	270.4	142	30	134
+Syed Abid Ali	0	26.71	31	70	3	10	0	56	93	7	54
+Shafiek Abrahams	0	0	0	16*	1	0	1	10	16	0	87
+Abu Hider	0	29.67	1	1	1	2	0	18	1	3	36
+Abul Hasan	0	0	3.67	7	3	1	0	36	11	0	121
+Andre R Adams	0	31	17.46	45	34	16	10	314.1	419	53	7
+Christopher J Adams	0	0	17.75	42	4		0	3	71	0	68
+James C Adams	0	34.35	28.62	82	105	12	28	305.2	2204	43	116
+Paul R Adams	0	28.1	16.5	33*	9	7	5	184.5	66	29	29
+Adeel Raja	0	40.59	2.8	8*	12	6	2	141	28	17	148
+Adnan Akmal	0	0	20.67	27	4		1		62	0	26
+Adnan Mufti	0	0	27.5	57*	16		4	4	330	0	102
+Afsar Zazai	0	0	17.6	60	16		1		264	0	80
+Aftab Ahmed	0	54.67	24.73	92	85	0	6	123.1	1954	12	15
+Aftab Alam	0	28.59	15.25	16*	12	10	8	156.3	61	27	131
+Afzaal Haider	0	56.75	7.33	22	4	1	1	30	22	4	44
+Rageg G Aga	0	40	16.67	86	9	2	0	67	150	8	92
+Ashton C Agar	0	51.75	20.57	46	8	2	1	72	144	8	69
+Ajit B Agarkar	0	27.85	14.59	95	113	100	26	1580.4	1269	288	6
+Jonathan P Agnew	0	40	0	2*	1	0	1	21	2	3	57
+Franklyn S Ahangama	0	0	0	0	0	0	0	3	0	0	146
+Khaleel Khursheed Ahmed	0	30.73	4.5	5	3	2	1	63	9	11	31
+Ahmed Kamal	0	39	11	11	1	0	0	5	11	1	110
+Ahmed Raza	0	36.56	12.89	50	22	9	4	220.5	232	25	20
+Ahmed Shah	0	0	2	2	1	0	0	1	2	0	76
+Ahmed Shehzad	6	70	32.56	124	81	0	1	19.1	2605	2	134
+Ahsan Malik	0	34	0	10*	5	1	5	78.3	14	12	17
+Aijaz Ali	0	0	2.5	4	2		0	1	5	0	103
+Dipendra Singh Airee	0	51	18	40	6	2	0	13	108	1	56
+Aizaz Cheema	0	25.78	8.67	9*	6	3	3	109.4	26	23	79
+Aizaz Khan	0	42.5	20	44	15	2	2	121.2	260	16	40
+Ajmal Shahzad	0	28.82	6.5	9	8	5	2	98	39	17	112
+Akhtar Sarfraz	0	0	16.5	25	4		0		66	0	8
+Akram Khan	0	0	23.24	65	44	0	2	19.3	976	0	66
+Akram Raza	0	42.39	17.55	33*	25	15	14	433.3	193	38	119
+Al Sahariar Rokon	0	0	13.36	62*	29		1	7	374	0	24
+Alam Talukdar	0	0	0	7*	1	0	1	7	7	0	142
+Al-Amin Hossain	0	24.9	2	2*	7	7	5	100.3	4	21	52
+Alawi Shukri	0	0	1	1	1		0		1	0	95
+Terence Michael Alderman	0	23.1	2.67	9*	18	75	6	561.5	32	89	35
+Graeme W Aldridge	0	98	0	0	0	1	0	19	0	1	129
+Rohan P Alexander	0	0	17	26	2		0		34	0	4
+Moeen Munir Ali	3	47.03	26.11	128	74	10	11	702.4	1645	78	70
+Rajab W Ali	0	23.18	0	6*	3	4	3	56.2	7	11	115
+Ali Asad	0	36.5	21	12	2	2	1	20	21	2	28
+Duncan I Allan	0	40	14.2	27	5	0	0	18.4	71	2	150
+Fabian Anthony Allen	0	0	6.25	10	4	0	0	23	25	0	21
+Mark W Alleyne	0	28	21.57	53	8	1	1	61	151	10	99
+Michael J D Allingham	0	0	3.67	6	3		0	1	11	0	72
+Geoffrey I Allott	0	23.21	3.4	7*	11	17	6	254.4	17	52	14
+Paul J W Allott	0	36.8	3.75	8	6	19	2	136.3	15	15	63
+Alok Kapali	1	52.29	19.6	115	66	8	3	242	1235	24	140
+Kaushik N Amalean	0	23	7.5	9	3	7	1	53	15	9	37
+Mohammad Aman Ali	0	0	0	0	1	0	0	2	0	0	107
+Mohinder Amarnath	2	42.85	30.54	102*	75	17	12	450.2	1924	46	82
+Surinder Amarnath	0	0	33.33	62	3		0	1	100	0	11
+Sunil Walford Ambris	0	0	0	38*	1		1		38	0	47
+Curtly E L Ambrose	0	24.13	10.65	31*	96	192	36	1558.5	639	225	127
+Timothy R Ambrose	0	0	2.5	6	5		1		10	0	18
+Merenna K D I Amerasinghe	0	40.33	0	5*	4	6	4	71	6	9	105
+Charles J A Amini	0	27	24.2	61*	6	0	1	44	121	7	74
+Christopher R Amini	0	26.33	0	3*	1	1	1	18	3	3	97
+Aminul Islam	0	57.14	23.35	70	39	0	5	67.2	794	7	50
+Aminul Islam Jnr	0	33	0	1*	1	1	1	5	1	1	85
+Amir Hamza	0	25.4	3.29	7	16	22	9	258.4	23	40	141
+Amir Hayat	0	34.73	10.33	24*	6	4	3	74.5	31	11	9
+Dennis L Amiss	4	0	47.72	137	18		0	2	859	0	60
+Amjad Ali	0	0	30.59	98	17		0	7	520	0	137
+Amjad Javed	0	67.56	19.92	56	13	4	1	103	239	9	22
+Praveen K Amre	0	0	20.52	84*	30	0	5	0.2	513	0	133
+Anamul Haque	3	0	30.53	120	34		0	4	1038	0	55
+Corey J Anderson	1	25.03	27.73	131*	44	10	4	247.3	1109	60	89
+John Anderson	0	0	18.88	39	8	0	0	5	151	0	34
+James M Anderson	0	29.22	7.58	28	79	125	43	1597.2	273	269	123
+Robert W Anderson	0	0	16	12	2		1	1	16	0	5
+Joseph O Angara	0	40.64	3.83	6	11	8	5	98	23	14	67
+Jo Angel	0	28.25	0	0	1	3	0	27	0	4	118
+Anisur Rehman	0	0	1	2	2	0	0	8	2	0	30
+Salil A Ankola	0	47.31	3.78	9	13	4	4	134.3	34	13	147
+Ankur Vasishta	0	0	12	18	4		1	1	36	0	25
+Zafar S Ansari	0	0	0	0	0		0		0	0	101
+Anshuman Rath	1	11.93	51.75	143*	18	8	2	56.1	828	14	78
+Hamish A G Anthony	0	47.67	7.67	21	3	0	0	26	23	3	13
+Sangarange D Anurasiri	0	45.75	10.33	11	18	14	12	350	62	32	62
+Anwar Ali	0	52.44	29.18	43*	16	1	5	154.3	321	18	139
+Anwar Hossain	0	0	42	42	1		0		42	0	38
+Anwar Hossain Monir	0	0	0	0*	1	0	1	8	0	0	109
+Gerald J A F Aponso	0	128.5	30	58	4	0	0	40.2	120	2	84
+M Amila Aponso	0	37.7	3.33	4	7	1	4	70.3	10	10	16
+Arafat Sunny	0	25	12	15	11	8	7	138.2	48	24	42
+Ariful Haque	0	0	0	0	0	0	0	3	0	0	124
+Geoffrey G Arnold	0	17.84	16	18*	6	19	3	115.4	48	19	39
+Russel P Arnold	1	43.48	35.27	103	155	8	43	359.3	3950	40	114
+Kevin J Arnott	0	0	23.8	60	12		2	3	238	0	81
+Arshad Ali	0	105	13.5	41	4	0	0	17	54	1	145
+Arshad Ayub	0	39.23	11.6	31*	17	17	7	294.5	116	31	32
+Arshad Khan	0	34.79	12.09	20	29	27	18	470.3	133	56	111
+Arshad Laeeq	0	198	20.2	43*	6	0	1	33	101	1	71
+Arshad Pervez	0	0	5.5	8	2		0		11	0	16
+Keith L T Arthurton	0	27.6	26.08	84	93	4	20	230.4	1904	42	125
+Bharathi Arun	0	103	10.5	8	3	0	1	17	21	1	46
+Arun Lal	0	0	9.38	51	13		0	4	122	0	93
+Asad Ali	0	57.5	6.5	11	2	6	0	30	13	2	64
+Asad Shafiq	0	0	24.74	84	58	0	4	2	1336	0	120
+Mohammad Asghar Afghan	1	30.33	21.71	101	90	1	7	23.1	1802	3	27
+Asghar Ali	0	0	7	14	2		0		14	0	149
+Ashfaq Ahmed	0	0	0	0	0	2	0	17	0	0	48
+Ashfaq Ahmed	0	40.5	27.08	92	12	1	0	33.1	325	4	86
+Ashraf Ali	0	0	17.25	19*	9		5		69	0	41
+Ravichandran Ashwin	0	32.91	16.07	65	61	35	19	1003.3	675	150	113
+Asif Ali	0	0	28.57	50*	8		1	2	200	0	7
+Asif Iqbal	0	23.63	55	62	8	7	2	97	330	16	54
+Asif Iqbal	0	0	8	8	1	0	0	4	8	0	136
+Asif Mahmood	0	0	7	14	2		0		14	0	21
+Asif Masood	0	46.8	5	6	3	8	1	62	10	5	130
+Mohammad Asif Mujtaba	1	94	26.05	113*	55	2	14	126	1068	7	36
+Asim Butt	0	37	5.75	11	4	6	0	37	23	4	99
+Asim Saeed	0	40	6	12	2	2	0	9	12	1	11
+Nathan J Astle	16	38.47	34.93	145*	217	28	14	808.2	7090	99	75
+Todd Duncan Astle	0	24.6	26.33	49	5	1	2	45	79	10	109
+Marvan S Atapattu	11	0	37.57	132*	259	0	32	8.3	8529	0	18
+Ata-Ur-Rehman	0	43.93	4.86	11*	13	7	6	248.4	34	27	131
+Athar Ali Khan	0	60.83	29.56	82	19	1	1	70	532	6	59
+Michael A Atherton	2	0	35.12	127	54		3	15	1791	0	128
+Charles W J Athey	2	0	31.41	142*	30	0	3	1	848	0	44
+Atiq-Uz-Zaman	0	0	17	18	3		1		34	0	84
+James J Atkinson	0	0	27.78	59	9		0		250	0	30
+Ian D Austin	0	60	6.8	11*	6	2	1	79.1	34	6	141
+Richard A Austin	0	0	8	8	1	0	0	1	8	0	23
+Kirtivardhan Azad	0	39	14.16	39*	21	4	2	65	269	7	98
+Azam Khan	0	0	23.2	72	5		0	2	116	0	55
+Azeem Hafeez	0	39.07	15	15	10	3	7	119.5	45	15	87
+Azhar Ali	3	65	36.9	102	53	0	3	43	1845	4	20
+Azhar Hossain	0	52.25	13.71	54	7	1	0	43.5	96	4	104
+Azhar Mahmood	0	39.13	18.11	67	110	56	26	1040.2	1521	123	37
+Azhar Saeed	0	35.5	8.71	32	7	2	0	45.1	61	6	137
+Mohammad Azharuddin	7	39.92	36.92	153*	308	1	54	92	9378	12	6
+Azmat Rana	0	0	42	22*	2		1		42	0	77
+Babar Azam	8	0	51.29	125*	57		9	29	2462	0	112
+Babar Hayat	0	0	39.2	89	22	0	2	1	784	0	17
+Sheik F A F Bacchus	0	0	26.61	80*	26		3	10	612	0	129
+Adam M Bacher	0	21.33	20.77	56	13	0	0	18	270	3	41
+Hemang K Badani	1	49.67	33.35	100	36	0	10	30.3	867	3	96
+Subramaniam Badrinath	0	0	15.8	27*	6		1	2	79	0	53
+Ashish Bagai	2	0	37.06	137*	60		7	1	1964	0	82
+Sairaj V Bahutule	0	141.5	7.67	11	4	0	1	49	23	2	28
+Harvir S Baidwan	0	30.64	14.67	33	22	13	7	258.3	220	44	119
+George John Bailey	3	0	40.59	156	85		10	48	3044	0	9
+Mark D Bailey	0	0	0	0	0		0		0	0	71
+Robert J Bailey	0	0	68.5	43*	4	0	2	6	137	0	138
+David L Bairstow	0	0	14.71	23*	20		6		206	0	19
+Jonathan M Bairstow	6	0	46.04	141*	54		8	16	2118	0	135
+Lionel S Baker	0	32.27	6.5	11*	4	6	2	71	13	11	60
+Paul-Jan Bakker	0	71.67	0	1*	1	2	1	43	1	3	124
+Showkat Baksh	0	0	0	0	1		0		0	0	35
+Lakshmipathy Balaji	0	39.53	12	21*	16	12	6	241.1	120	34	94
+W Dorakanti Balaji Rao	0	37.33	7.38	24	8	1	0	79	59	12	12
+Andrew Balbirnie	2	34	27.13	105	49	0	3	10	1248	2	69
+Jacob T Ball	0	46.67	9.5	28	6	5	2	157.5	38	21	142
+Gary S Ballance	0	0	21.21	79	15		1	8	297	0	26
+C Malinga Bandara	0	34.22	12.31	31	17	3	4	245	160	36	107
+Konara Mudiyanselage Chaminda Bandara	0	83	0	1*	1	0	1	10	1	1	72
+M R C Niroshan Bandarathilake	0	55.5	0	0	1	0	0	24	0	2	14
+Subroto T Banerjee	0	40.4	24.5	25*	5	4	3	40	49	5	122
+Sanjay B Bangar	0	54.86	13.85	57*	15	2	2	73.4	180	7	43
+Omari A C Banks	0	27	16.6	33	5	1	0	45	83	7	89
+Eldine A E Baptiste	0	41.97	15.33	31	16	30	4	369	184	36	31
+Adrian B Barath	1	0	30.31	113	14		1	3	394	0	146
+Graham D Barlow	0	0	29.8	80*	6		1	4	149	0	22
+Geoffrey E F  Barnett	0	0	20.68	77	22		0	7	455	0	101
+Kim J Barnett	0	0	84	84	1		0		84	0	78
+Wesley Barresi	1	0	34.64	137*	29	0	4	4	866	0	10
+Oronde Bascombe	0	0	10.83	20	6	0	0	3	65	0	63
+Dwight M Basden	0	0	6	7	2	5	0	1/0/1	12	0	134
+Basit Ali	1	21	34.19	127*	43	0	6	5	1265	1	25
+Trevin C Bastiampillai	0	0	14.15	49	13	0	0	4	184	0	105
+Michael D Bates	0	26	13	13	1	1	0	14	13	2	68
+Gareth J Batty	0	73.2	5	17	8	1	2	73.2	30	5	13
+Indika P P Batuwitarachchi	0	0	7	14	2		0	2	14	0	81
+Dogodo Bau	0	0	18.89	46	10		1	1	170	0	132
+Sese Bau	0	31.5	19.69	59	16	0	0	13	315	2	38
+Carlton S Baugh	0	0	20.08	49	35		11		482	0	118
+Temba Bavuma	1	0	80.5	113	2		0	1	161	0	61
+Bazid Khan	0	0	26.2	66	5	0	0	2	131	0	15
+Graeme R Beard	0	17.5	0	0	0	3	0	18.4	0	4	133
+Ronsford Rodwick Beaton	0	102	15	12*	2	1	1	17	15	1	52
+Atul C Bedade	0	0	22.57	51	10		3	4	158	0	90
+Bishen S Bedi	0	48.57	6.2	13	7	17	2	96	31	7	24
+Farhaan Behardien	0	51.36	30.69	70	49	2	14	124.4	1074	14	144
+Jason Paul Behrendorff	0	45.67	0	1*	1	3	1	28.2	1	3	33
+Ian R Bell	4	14.67	37.87	141	157	0	14	14.4	5416	6	100
+Matthew D Bell	0	0	19	66	7		0	1	133	0	74
+Joseph E Benjamin	0	47	0	0	1	0	0	12	0	1	8
+Kenneth C G Benjamin	0	27.97	10.83	17	13	12	7	219.5	65	33	57
+Winston K M Benjamin	0	30.79	7.45	31	52	58	12	740.2	298	100	140
+Dale M Benkenstein	0	11	17.94	69	20	1	3	10.5	305	4	29
+Sulieman J Benn	0	49.05	7.91	31	30	15	7	397.5	182	39	114
+Hamish K Bennett	0	23	5	4*	7	4	5	119.4	10	27	65
+Murray J Bennett	0	68.75	3	6*	4	6	1	68	9	4	16
+Mark R Benson	0	0	24	24	1		0		24	0	123
+Andri R Berenger	0	0	20.5	66	10		0	2	205	0	47
+David E Bernard	0	37.57	14.1	38	12	5	2	104	141	14	91
+Richard D Berrington	1	36	27.07	101*	65	7	6	210.2	1597	31	34
+Carlisle A Best	1	0	24.89	100	23	0	4	3.1	473	0	139
+Tino L Best	0	34.03	9.5	24	16	9	8	216.4	76	34	56
+Michael G Bevan	6	45.97	53.58	108*	196	4	67	327.4	6912	36	102
+Amit Bhandari	0	21.2	0	0*	1	0	1	17.4	0	5	76
+Binod Bhandari	0	0	11.67	21	3		0		35	0	9
+Lalit Singh Bhandari	0	21.5	0	4*	1	0	1	9	4	2	67
+Vijay R R Bhardwaj	0	19.19	27.2	41*	9	3	4	62	136	16	143
+Rustam A Bhatti	0	0	0	3*	1		1		3	0	40
+Umar Bhatti	0	34.82	17.18	46	30	31	8	271.4	378	33	116
+Rajesh L Bhudia	0	50.33	24.4	47	5	3	0	30	122	3	75
+Bhupinder Singh	0	26	6	6	1	1	0	17	6	3	4
+Andrew John Bichel	0	31.58	20.48	64	36	28	13	542.5	471	78	59
+Martin P Bicknell	0	26.69	24	31*	6	3	2	68.5	96	13	137
+Bilal Asif	0	19.2	13.33	38	3	1	0	22	40	5	20
+Bilawal Bhatti	0	73.17	14.83	39	7	4	1	68.1	89	6	112
+Ian S Billcliff	0	0	28	93	19		0	7	532	0	87
+Samuel William Billings	0	0	22.58	62	12		0	9	271	0	24
+Roger M H Binny	0	29.35	16.13	57	49	37	10	492.5	629	77	133
+Stuart T R Binny	0	21.95	28.75	77	11	4	3	81.4	230	20	48
+Devendra Bishoo	0	43.89	10	22*	25	8	10	337	150	38	107
+Glenn A Bishop	0	0	6.5	7	2		0	1	13	0	68
+Ian R Bishop	0	26.5	16.2	33*	44	49	19	722	405	118	13
+Marlon I Black	0	0	2	4	2	1	0	38	4	0	89
+Ian D Blackwell	0	36.58	14.93	82	29	8	2	205	403	24	141
+Jermaine Blackwood	0	0	5.5	9	2	0	0	3	11	0	32
+John A R Blain	0	28.61	14.95	41	25	12	6	221.3	284	41	118
+Tony E Blain	0	0	16.37	49*	38		11	1	442	0	61
+Bruce R Blair	0	34	14.5	29*	14	0	2	5	174	1	15
+Donovan L Blake	0	0	0	0	1	0	0	1	0	0	124
+Glenn Blakeney	0	0	36	42	2		0		72	0	43
+Richard J Blakey	0	0	12.5	25	2		0		25	0	94
+Gregory Scott Blewett	0	46.14	20.41	57*	30	3	3	124.5	551	14	37
+Arnoldus M Blignaut	0	41.26	18.97	63*	41	12	8	391.2	626	50	143
+Gulam H Bodi	0	0	41.5	51	2	0	0	1	83	0	58
+Nico Boje	2	35.57	26.68	129	71	22	18	756.5	1414	96	96
+Scott M Boland	0	45.31	3	4	4	3	1	119.2	9	16	45
+Douglas E Bollinger	0	23.9	8.33	30	8	28	2	323.4	50	62	103
+Shane E Bond	0	20.88	16.22	31*	40	87	22	715.5	292	147	8
+Stephen L Boock	0	34.2	15	12	7	5	5	116.4	30	15	66
+David C Boon	5	0	37.04	122	177	0	16	13.4	5964	0	134
+Ravinda S Bopara	1	39.05	30.63	101*	109	11	21	310	2695	39	27
+Delyone C Borden	0	26.13	14	24	11	0	4	68.3	98	15	119
+Allan R Border	3	28.1	30.63	127*	252	11	39	440.1	6524	73	76
+Peter W Borren	0	35.22	22.31	96	50	10	5	329.5	1004	46	10
+Scott G Borthwick	0	0	9	15	2	0	0	9	18	0	53
+Tertius Bosch	0	0	0	0	0	0	0	8.3	0	0	125
+Gopalkrishna Bose	0	39	13	13	1	2	0	11	13	1	34
+Lungile L  Bosman	0	0	25.08	88	12		0	3	301	0	99
+Jayawardene W H D Boteju	0	0	3	2	2	1	1	17	3	0	83
+Andre C Botha	0	27	19.59	56	38	22	4	260	666	42	19
+Johan Botha	0	40.5	19.03	46	50	13	18	637.1	609	72	106
+Ian Terence Botham	0	28.54	23.22	79	106	108	15	1032.3	2113	145	49
+Mark V Boucher	1	0	28.57	147*	221		57	1	4686	0	88
+Trent Alexander Boult	0	24.71	9.6	21*	35	54	20	715	144	147	41
+Keith D Boyce	0	24.08	14.25	34	4	4	0	76	57	13	111
+Geoffrey Boycott	1	21	36.07	105	34	1	4	28	1082	5	65
+Brendon P Bracewell	0	41	0	0*	1	0	1	11	0	1	17
+Douglas A J Bracewell	0	34.7	15.8	57	12	15	2	155.2	158	23	132
+John G Bracewell	0	57.09	16.52	43	43	20	12	407.5	512	33	52
+Nathan W Bracken	0	24.37	11.65	21*	35	90	18	959.5	198	174	91
+Grant E Bradburn	0	53	8.57	30	10	5	3	64.1	60	6	36
+Ian D R Bradshaw	0	29.47	12.48	37	34	38	11	528.4	287	78	147
+David H Brain	0	40.43	8.36	27	18	14	4	181.5	117	21	26
+Eddo A Brandes	0	32.37	13.03	55	41	38	10	471.2	404	70	108
+Carlos Ricardo Brathwaite	0	43.61	14.41	50	29	11	2	246.4	389	31	72
+Kraigg Clairmonte Brathwaite	0	140	27.8	78	10	0	0	25.2	278	1	12
+Dwayne J J Bravo	2	29.52	25.37	112*	141	41	24	1085.1	2968	199	63
+Jeremy P Bray	2	0	28.64	116	15		1	5	401	0	140
+John M Brearley	0	0	24.29	78	24		3	12	510	0	29
+Gary B Brent	0	37.01	12	59*	54	40	20	565	408	75	117
+Timothy T Bresnan	0	34.98	19.8	80	64	35	20	703.3	871	109	74
+Gavin A Briant	0	0	13	16	5		2		39	0	5
+Danny R Briggs	0	19.5	0	0	0	0	0	10	0	2	57
+Raymond J Bright	0	116.67	16.5	19*	8	3	4	74.4	66	3	138
+James E Brinkley	0	58.5	10.4	23	5	0	0	28	52	2	21
+Samuel A Britton	0	0	0	0	0	0	0	6	0	0	109
+Brian C Broad	1	0	40.03	106	34	0	0	1	1361	0	67
+Stuart C J  Broad	0	30.13	12.3	45*	68	56	25	1018.1	529	178	14
+Neil Trevor Broom	1	0	26.94	109*	39		4	9	943	0	120
+Alistair D Brown	1	0	22.13	118	16	0	0	1	354	0	51
+Darryl Brown	0	24.8	10	9	2	3	1	25	10	5	95
+Douglas R Brown	0	41.77	17.72	50*	24	6	6	158.5	319	22	35
+Robin D Brown	0	0	15.71	38	7		0	5	110	0	130
+Vaughan R Brown	0	75	14.67	32	3	0	0	11	44	1	55
+Barrington S Browne	0	78	8	8*	3	0	2	30	8	2	103
+Courtney O Browne	0	0	17.29	46*	32		8		415	0	39
+Patrick A Browne	0	0	33.5	49*	5		1		134	0	122
+Dean Graham Brownlie	0	0	25.79	63	15		1	6	361	0	22
+Glen K Bruk-Jackson	0	0	12	12	1		0		12	0	137
+Henderson R Bryan	0	43.17	7.17	11	8	5	2	120.2	43	12	44
+Rudi E Bryson	0	46.14	32	17*	4	1	3	63	32	7	104
+Dylan Evers Budge	0	0	11	11	1		0		11	0	80
+Carl E Bulfin	0	0	9	7*	2	1	1	17	9	0	11
+Jasprit J Bumrah	0	21.24	2.75	10*	6	26	2	378.4	11	80	64
+Andries J Burger	0	34.67	33.17	85	6	0	0	16	199	3	135
+Louis J Burger	0	49.5	2.2	5	6	3	1	55	11	6	28
+Sarel F Burger	0	0	5.5	6	2	0	0	11	11	0	121
+Mark G Burgess	0	69	16.8	47	20	0	0	12	336	1	75
+Ryan Ponsonby Burl	0	40.5	15.44	30*	11	0	2	13.4	139	2	6
+Mark G Burmester	0	42.6	18.17	39	7	0	1	34.5	109	5	58
+Joseph A Burns	0	0	24.33	69	6		0	2	146	0	139
+Iain P Butchart	0	53.33	18	54	16	6	2	117	252	12	23
+Alan R Butcher	0	0	14	14	1		0		14	0	114
+Roland O Butcher	0	0	19.33	52	3		0		58	0	61
+Deighton C Butler	0	62.67	25	13*	4	3	3	41	25	3	16
+Ian G Butler	0	37.07	10.5	25	13	6	5	184.5	84	28	129
+K Hussain Butt	0	0	4	4	2		0	1	8	0	50
+Joseph C Buttler	7	0	40.81	150	105		22		3387	0	90
+Atse F Buurman	0	0	15.56	34	11		2	2	140	0	30
+Andrew R Caddick	0	28.48	12.45	36	38	66	18	489.3	249	69	141
+Bernard L Cairns	0	30.53	16.73	60	65	77	6	658.3	987	89	19
+Christopher L Cairns	4	32.81	29.46	115	193	80	25	1361.2	4950	201	106
+David J Callaghan	1	36.5	25.95	169*	25	2	6	74	493	10	36
+Ian W Callen	0	29.6	6	3*	3	2	2	30	6	5	121
+Robert G Callender	0	26	0	0	2	1	0	9	0	1	70
+Scott James Cameron	0	41	9	8*	2	1	1	18.1	9	3	9
+James Cameron-Dow	0	0	0	0	0	0	0	4	0	0	47
+Alistair D R Campbell	7	36.17	30.5	131*	184	3	14	84.5	5185	12	128
+Gegory D Campbell	0	22.44	3	4*	3	9	1	102.1	6	18	32
+John Dillon Campbell	0	0	17.25	30	4	0	0	1	69	0	110
+Ryan J Campbell	0	0	27	38	2		0		54	0	76
+Sherwin L Campbell	2	21.25	26.24	105	87	0	0	32.4	2283	8	12
+Lionel O B Cann	0	129	26.82	52	25	0	3	16.4	590	1	61
+Tamahau K Canning	0	40.6	17.33	23*	4	1	1	34	52	5	138
+Peter E Cantrell	0	56.67	32	47	5	0	0	31	160	3	23
+David J Capel	0	47.35	19.24	50*	19	12	2	173	327	17	113
+Michael A Carberry	0	0	19	63	6	0	0	1	114	0	66
+Alex Tyson Carey	0	0	31.33	47	10		1		282	0	15
+Philip H Carlson	0	35	5.5	11	2	3	0	21	11	2	143
+Kenneth E D Carroll	0	0	11.67	28	6	0	0	1	70	0	55
+Christopher Carter	0	0	12.67	43	9		0	1	114	0	102
+Jonathan Lyndon Carter	0	47	22.78	54	25	0	2	20.4	524	3	27
+Neil M Carter	0	26.4	0	0	1	1	0	29.1	0	5	124
+Hilton W R Cartwright	0	0	1	1	2		0	1	2	0	7
+James J Celestine	0	0	7.5	20	8		0	2	60	0	69
+Yuzvendra S Chahal	0	23.83	11.33	18*	6	12	3	352.1	34	71	136
+Deepak Lokandersingh Chahar	0	37	12	12	1	0	0	4	12	1	20
+Regis W Chakabva	0	0	15.13	45	31		1	12	454	0	107
+Stuart J Chalmers	0	49	0	9*	1	0	1	10	9	1	73
+Pathira Vasan Dushmantha Chameera	0	41.89	13.14	18*	14	7	7	149.1	92	19	14
+Umagiliya D U Chandana	0	31.91	17.31	89	111	20	17	1023.4	1627	151	123
+Shivnarine Chanderpaul	11	45.43	41.6	150	251	0	40	123.2	8778	14	48
+Lokuge Dinesh Chandimal	4	0	32.42	111	132		21	28	3599	0	91
+Bhagwat S Chandrasekhar	0	12	0	11*	1	0	1	7	11	3	38
+Vakkadai B Chandrasekhar	0	0	12.57	53	7		0		88	0	133
+Mark S Chapman	1	0	40	124*	5		1	1	160	0	64
+Christopher J D Chappell	0	0	12.67	19	3		0		38	0	10
+Gregory S Chappell	3	29.13	40.19	138*	72	41	14	512.2	2331	72	52
+Ian M Chappell	0	11.5	48.07	86	16	1	2	7	673	2	131
+Trevor M Chappell	1	28.32	17.62	110	13	4	0	122.4	229	19	21
+Glen Chapple	0	0	14	14	1	0	0	4	14	0	98
+Brian B Chari	0	0	13.1	39	10		0	1	131	0	42
+Johnson Charles	2	0	27.71	130	48	0	0	0.5	1330	0	115
+Peter K D Chase	0	39.88	3.5	14	16	2	6	206.2	35	34	81
+Roston L Chase	0	49.67	14.63	33*	9	2	1	26.5	117	3	17
+Tendai Larry Chatara	0	31	6.63	23	41	39	17	506.1	159	85	130
+Ewen J Chatfield	0	25.84	10.73	19*	48	155	37	1010.5	118	140	58
+Sewnarine Chattergoon	0	48	24.67	54*	17	0	2	13.2	370	1	99
+Utpal Chatterjee	0	39	6	3*	2	0	1	26.5	6	3	78
+Chetandra P S Chauhan	0	0	21.86	46	7		0	2	153	0	16
+Rajesh K Chauhan	0	41.93	10.15	32	18	12	5	272.2	132	29	145
+Piyush Pramod Chawla	0	34.91	5.43	13*	12	6	5	218.4	38	32	40
+Manoj Cheruparambil	0	0	15	30	2		0		30	0	111
+C Justice Chibhabha	0	46.2	23.65	99	103	12	2	277.5	2389	35	67
+Elton Chigumbura	2	42.32	25.23	117	198	23	26	723.1	4340	101	11
+Michael T Chinouya	0	50	6	6*	2	0	1	11	6	1	54
+Chirag Suri	0	0	17.25	65	8		0	2	138	0	137
+Tendai S Chisoro	0	27.8	16.75	42*	14	7	6	128	134	20	26
+Nikhil Chopra	0	27.96	15.5	61	26	21	6	305.5	310	46	119
+Daniel T Christian	0	29.75	21	39	18	4	5	121.1	273	20	72
+Kyle Christie	0	0	0	0	1	0	0	1	0	0	4
+Dipak N Chudasama	1	0	22.84	122	19		0	4	434	0	79
+Desmond R Chumney	0	0	20.89	48	21		2	2	397	0	120
+Stuart R Clark	0	27.87	13.8	16*	12	18	7	304.5	69	53	31
+Wayne M Clark	0	20.33	0	0	0	3	0	16.4	0	3	114
+Michael J Clarke	8	37.65	44.59	130	223	7	44	430.5	7981	57	69
+Nolan E Clarke	0	0	10	32	5		0	3	50	0	15
+Rikki Clarke	0	37.73	11.08	39	13	3	0	78.2	144	11	132
+Sylvester T Clarke	0	18.85	10	20	8	13	2	87.2	60	13	56
+D Brian Close	0	0	16.33	43	3	0	0	3	49	0	95
+Austin Codrington	0	26.5	5.88	16	8	4	0	50	47	10	37
+George R Codrington	0	36.06	19.67	45*	15	9	3	121.5	236	16	125
+Kyle James Coetzer	4	203	42.8	156	48	1	2	29.5	1969	1	8
+Freddie R J Coleman	0	0	15.07	70	14		0	8	211	0	65
+David J Colley	0	0	0	0	0	1	0	11	0	0	141
+Richard O Collinge	0	26.61	5.67	9	9	19	3	129.1	34	18	25
+Paul D Collingwood	5	38.68	35.36	120*	181	14	37	864.2	5092	111	109
+Pedro T Collins	0	31.08	4.29	10*	12	18	5	262.5	30	39	74
+Corey D Collymore	0	35.23	5.78	13*	35	45	17	679	104	83	13
+Peter G Coman	0	0	20.67	38	3		0	2	62	0	62
+Jeremy V Coney	0	37.76	30.72	66*	80	24	19	488.3	1874	54	138
+Bevan E Congdon	1	41	56.33	101	9	8	3	64.3	338	7	29
+Peter Connell	0	39.85	20	22*	5	5	3	94	40	13	116
+Alan N Connolly	0	0	0	0	0	0	0	8	0	0	63
+Alastair N Cook	5	0	36.41	137	92		4	36	3204	0	18
+Geoffrey Cook	0	0	17.67	32	6		0	2	106	0	127
+Nicholas G B Cook	0	19	0	0	0	1	0	24	0	5	46
+Stephen J Cook	0	0	16.75	35	4		0	1	67	0	101
+Benjamin N Cooper	0	0	29	74	4		0	1	116	0	35
+Tom L W Cooper	1	33.69	48.8	101	22	5	2	92.1	976	13	140
+Geoffrey A Cope	0	17.5	0	1*	1	0	1	14	1	2	58
+Dominic G Cork	0	33.37	10	31*	21	18	3	295.2	180	41	97
+Mark J Cosgrove	0	13	37.33	74	3	0	0	5	112	1	33
+Garry J Cosier	0	17.71	30.8	84	7	9	2	60.7	154	14	147
+Sheldon S Cottrell	0	26.8	7	8	5	0	3	64.4	14	15	22
+Nathan M Coulter-Nile	0	26.43	13.45	34	16	7	5	197.2	148	40	108
+Charles K Coventry	1	0	24.38	194*	35		1	19	829	0	67
+Norman G Cowans	0	39.7	2.6	4*	8	17	3	213.4	13	23	12
+Christopher S Cowdrey	0	27.5	25.5	46*	3	0	1	8.4	51	2	56
+Michael C Cowdrey	0	0	1	1	1		0		1	0	134
+Royston T Crandon	0	0	5	5	1		0		5	0	28
+John P Crawley	0	0	21.36	73	12		1	1	235	0	118
+Alexander Graeme Cremer	0	30.23	14.59	58	71	28	20	780	744	119	73
+Gary J Crocker	0	29.71	24.5	50	5	1	1	39.4	98	7	14
+Fiqre S Crockwell	0	0	34	45	2		0		68	0	53
+Colin E H Croft	0	20.67	9	8	6	21	4	178.2	18	30	130
+Robert D B Croft	0	38.73	14.38	32	36	25	12	411	345	45	44
+Wessel J Cronje	2	34.79	38.65	112	175	33	31	892.5	5565	114	104
+Derek N Crookes	0	40.44	14.8	54	23	5	3	203.3	296	25	79
+Matthew Henry Cross	2	0	22.76	114	39		1		865	0	9
+Jeffrey J Crowe	0	0	25.73	88*	71	0	12	1	1518	0	60
+Martin D Crowe	4	32.9	38.56	107*	140	21	18	216	4704	29	136
+Cameron E Cuffy	0	35.02	4.43	17*	22	41	8	358.5	62	41	20
+Daniel J Cullen	0	73.5	0	2*	1	4	1	35.3	2	2	116
+Daryll J Cullinan	3	24.8	32.99	124	133	0	16	29	3860	5	41
+Craig D Cumming	0	0	13.42	45*	13	0	1	3	161	0	131
+Anderson Cleophas Cummins	0	31.63	13.5	44*	49	29	13	627.5	486	91	63
+Miguel L Cummins	0	52.67	5	5	3	3	1	75	10	9	16
+Patrick J Cummins	0	30.45	11.86	36	24	19	10	374	166	65	122
+Kevin M Curran	0	44.22	26.09	73	11	3	0	84.2	287	9	47
+Samuel Matthew Curran	0	45	8.5	15	2	0	0	12	17	2	92
+Thomas Kevin Curran	0	30.94	23.67	35	8	3	5	92.5	71	18	32
+Alex R Cusack	0	23.97	22.58	71	47	24	14	325.3	745	63	142
+Benjamin C J Cutting	0	31.6	26.5	27	2	1	0	36	53	5	18
+Keith M Dabengwa	0	40.7	19.04	45	34	2	7	184.5	514	23	107
+Damodar Daesrath	0	24	31.67	40	3	0	0	12	95	2	78
+Vijay Dahiya	0	0	16.62	51	15		2		216	0	22
+Mahuru D Dai	0	37.5	28.31	76*	18	6	2	159	453	18	149
+Carl Junior Dala	0	121	8	5	2	0	1	17	8	1	55
+Adam C Dale	0	30.59	19.5	15*	12	34	8	266	78	32	101
+Anil Dalpat	0	0	12.43	37	10		3		87	0	30
+James W M Dalrymple	0	47.57	19.48	67	26	2	1	140	487	14	145
+Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya	0	26.93	15.33	50*	23	4	5	240.2	276	46	48
+Wayne W Daniel	0	25.87	49	16*	5	17	4	152	49	23	86
+Warrick M Darling	0	0	21.35	74	18		1	6	363	0	39
+Shiv S Das	0	0	13	30	4		1		39	0	112
+Deep Dasgupta	0	0	17	24*	4		1		51	0	74
+Pubudu B Dassanayake	0	0	10.63	20*	10		2		85	0	13
+Joshua H Davey	0	21.57	22.43	64	26	18	5	199.5	471	47	67
+Noel A David	0	33.25	0	8*	2	1	2	32	9	4	135
+Ramesh R David	0	37	27.33	48	3	0	0	16	82	2	26
+Henry Davids	0	0	4	7	2		0		8	0	121
+Alec G Davies	0	0	20.75	32	5		1		83	0	72
+Sean G Davies	0	0	16.75	45	4		0		67	0	10
+Steven M Davies	0	0	30.5	87	8		0		244	0	59
+Heath Te-Ihi-O-Te-Ra Davis	0	39.64	6.5	7*	6	1	4	72	13	11	140
+Ian C Davis	0	0	6	11*	3		1		12	0	23
+Simon P Davis	0	26.35	5	6	11	46	7	336	20	43	115
+Winston W Davis	0	33.38	14	10	5	31	3	320.3	28	39	62
+John M Davison	1	29.64	26.63	111	32	17	2	239.1	799	36	19
+Dawlat Ahmadzai	0	121	0	0	0	1	0	18.4	0	1	146
+Dawlat Zadran	0	29.49	20.83	47*	49	40	25	554.4	500	100	34
+Jawad J Dawood	0	0	0	25*	1		1		25	0	97
+Alan C Dawson	0	34.05	23	23*	7	11	4	150.1	69	21	42
+Liam A Dawson	0	32	7	10	2	0	0	14	14	3	133
+Ronald G De Alwis	0	0	21.11	59*	27		8		401	0	75
+Phillip A J De Freitas	0	32.83	16.05	67	66	113	23	952	690	115	7
+Colin de Grandhomme	0	46.11	29.53	74*	21	4	6	164.2	443	18	50
+Richard P De Groen	0	59.75	2.4	7*	8	4	3	91.3	12	8	128
+Nicholas A De Groot	0	29.33	7.33	17	6	0	0	13.3	44	3	29
+Tom N de Grooth	0	2	17.14	97	32	0	4	1	480	1	113
+Quinton de Kock	13	0	44.26	178	101		5		4249	0	70
+Con de Wet de Lange	0	23.19	20.5	26*	10	4	4	91	123	16	11
+Marchant de Lange	0	19.8	0	0	0	1	0	34.5	0	10	63
+Bas de Leede	0	15	15	30	2	0	0	3.5	30	1	137
+Timotheus B M de Leede	0	34.45	16.67	58*	25	6	1	189.5	400	29	24
+Ashantha L F De Mel	0	37.92	14.56	36	41	47	9	455.5	466	59	109
+Samantha I De Saram	0	0	16.64	38	13		2	9	183	0	76
+Ashley M de Silva	0	0	6	8	2		0		12	0	15
+Deva L S De Silva	0	27	10	10	1	2	0	20	10	2	123
+Dhananjaya Maduranga de Silva	0	46.4	26.95	84	26	0	4	86	593	10	49
+Dandeniyage S De Silva	0	48.66	19.53	37*	29	22	10	346	371	32	94
+Ellawalakankanamage De Silva	0	56.88	9.86	19*	20	8	6	229	138	17	37
+Granville N De Silva	0	0	9	7	2	1	1	32.2	9	0	144
+Ginigalgodage R A de Silva	0	29.11	4.5	6*	4	3	2	50.5	9	9	66
+Karunakalage S C de Silva	0	25.44	6.5	13*	19	10	13	269.5	39	52	8
+Pinnaduwage A de Silva	11	39.41	34.9	145	296	27	30	858	9284	106	55
+Pinnaduwage Chaturanga de Silva	0	51.2	15.67	44	7	2	1	52.4	94	5	139
+Pinnaduwage Wanidu Hasaranga de Silva	0	32.89	10.5	22	7	0	1	43.1	63	9	30
+Sanjeewa K L de Silva	0	0	53.67	57	6		3		161	0	120
+Abraham B de Villiers	25	28.86	53.5	176	218	0	39	32	9577	7	85
+Petrus Stephanus De Villiers	0	27.75	8.1	20*	36	86	15	737	170	95	17
+Mark H Dekker	0	32.22	18.95	79	22	0	2	57.5	379	9	104
+Joseph L Denly	0	0	29.78	67	9		0	5	268	0	40
+Franklym A Dennis	0	0	15.67	25	3		0		47	0	113
+Narsingh Deonarine	0	79.17	26.23	65*	29	2	3	83.3	682	6	67
+Jade W Dernbach	0	42.19	2.71	5	8	6	1	205.4	19	31	14
+Jignesh H Desai	0	0	16	16	1		0	1	16	0	52
+Parth A Desai	0	40.42	2.67	3*	8	8	5	102	8	12	130
+Anton P Devcich	0	72.75	17.73	58	11	3	0	54	195	4	25
+Sunil Dhaniram	0	30.24	24.49	92	41	16	4	294.5	906	41	111
+Rajindra Dhanraj	0	17	8	8	2	2	1	44	8	10	76
+Pankaj Dharmani	0	0	8	8	1		0		8	0	12
+Handunnettige Deepthi Priyantha Kumar Dharmasena	0	36.22	22.63	69*	87	40	33	1168.1	1222	138	58
+Rishi Dhawan	0	160	12	9	2	0	1	25	12	1	136
+Shikhar Dhawan	15	0	44.64	137	123		7	60	5178	0	19
+Haninder S Dhillon	0	0	7	13	2		0		14	0	106
+Dhiman Ghosh	0	0	14	30	12		3		126	0	72
+Mahendra Singh Dhoni	10	31	51.09	183*	287	0	82	6	10474	1	15
+Michael J Di Venuto	0	0	26.78	89	9		0	1	241	0	132
+Brendon J Diamanti	0	0	0	26*	1	0	1	2	26	0	41
+Roy L Dias	2	23.33	31.46	121	55	0	5	9.2	1573	3	93
+Dickwella Patabendige Dilantha Niroshan Dickwella	2	0	34.56	116	46		1	1	1555	0	37
+Wilfred P Diepeveen	0	0	6	6	1		0		6	0	147
+Sameer S Dighe	0	0	23.27	94*	17		6		256	0	60
+Loku Hettige D Dilhara	0	43.5	9.22	29	9	3	0	55	83	6	10
+Graham R Dilley	0	26.9	11.4	31*	18	33	8	340.3	114	48	51
+Merwyn V Dillon	0	32.45	7.32	21*	51	71	20	913.2	227	130	126
+Tillakaratne Mudiyanselage Dilshan	22	45.08	39.27	161*	303	23	41	980	10290	106	32
+Ashok B Dinda	0	51	4.2	16	5	2	0	99	21	12	110
+Hendrik H Dippenaar	4	0	42.23	125*	95		14	34	3421	0	80
+George Henry Dockrell	0	35.16	16.89	62*	50	29	22	645.1	473	85	9
+Anthony I C Dodemaide	0	20.92	13.78	30	16	30	7	221.1	124	36	64
+Xavier J Doherty	0	40.44	14.43	15*	23	17	16	465.2	101	55	141
+Dolar Mahmud	0	32.25	15.25	41	4	1	0	35	61	8	27
+Basil L D'Oliveira	0	46.67	10	17	4	3	1	32	30	3	118
+Allan A Donald	0	21.79	4.32	13	40	101	18	1426.5	95	272	78
+Brett R Dorey	0	73	2	2	1	2	0	27	2	2	16
+Kiplin Dorriga	0	0	34.75	89*	5		1	1	139	0	55
+Dilip R Doshi	0	23.82	3	5*	5	8	2	132	9	22	139
+Chris R M Douglas	0	0	61	69	2		0		122	0	21
+Mark W Douglas	0	0	9.17	30	6		0	2	55	0	108
+Simon B Doull	0	40.53	12.29	22	27	25	13	290.5	172	36	65
+Travis M Dowlin	1	0	25.33	100*	11		2	2	228	0	14
+Paul R Downton	0	0	16.13	44*	20		5		242	0	123
+Vasbert C Drakes	0	25.35	7.83	25	17	22	5	273.2	94	51	44
+Rahul Dravid	12	42.5	39.17	153	318	1	40	31	10889	4	92
+Christopher J Drum	0	65.25	0	7*	2	3	2	36	9	4	38
+Gordon D Drummond	0	37.28	18.46	35*	20	22	7	210.3	240	25	143
+Francois du Plessis	10	94.5	45.54	185	123	0	17	32	4827	2	58
+Ben M Duckett	0	0	41	63	3		0		123	0	99
+Kevin G Duers	0	85.33	7	5	2	2	1	50	7	3	34
+Terrence Duffin	0	0	23.74	88	23		0	6	546	0	142
+Peter Jeffrey Leroy Dujon	0	0	23.15	82*	120		36		1945	0	22
+Shaukat F Dukanwala	0	25.5	42	40*	4	1	2	33	84	6	101
+Jean-Paul Duminy	4	45.45	37.16	150*	174	9	39	569.3	5016	67	74
+Chamara I Dunusinghe	0	0	1	1	1		0		1	0	11
+Hasan Durham	0	28.58	8.75	11	7	1	3	66.4	35	12	57
+Nikhil Dutta	0	0	0	0	0	0	0	6	0	0	135
+Gregory C Dyer	0	0	15.82	45*	13		2		174	0	24
+Nicholas R Dyer	0	23.4	3	2*	4	2	3	26	3	5	119
+Geoffrey Dymock	0	27.47	11.67	14*	7	16	4	123	35	15	61
+John Dyson	0	0	32.83	79	27		4	12	755	0	17
+Philip S Eaglestone	0	60	4	4	1	0	0	7	4	1	144
+Mark A Ealham	0	32.79	17.46	45	45	32	4	537.5	716	67	53
+Dion D Ebrahim	1	0	20.61	121	76	0	6	0.5	1443	0	89
+Bruce A Edgar	1	0	30.75	102*	64	0	5	2	1814	0	35
+Phillippe H Edmonds	0	37.12	10.55	20	18	19	7	246.2	116	26	131
+Jekon Edness	0	0	28	72	11		2		252	0	73
+John H Edrich	0	0	37.17	90	6	8	0	1/0/0	223	0	8
+Fidel H Edwards	0	30.2	9.13	13	22	23	14	356.2	73	60	49
+Graham N Edwards	0	5	23	41	6	0	0	1	138	1	138
+Kirk A Edwards	1	0	23.64	123*	16		2	2	331	0	30
+Ross Edwards	0	0	36.43	80*	8		1		255	0	115
+Scott Andrew Edwards	0	0	13.5	18	2		0		27	0	68
+Walter J Edwards	0	0	2	2	1	0	0	0.1	2	0	16
+Ehsan Adil	0	55.75	9	15	4	0	1	37.3	27	4	132
+Ehsan Khan	0	20.48	11.11	27*	12	7	3	134.3	100	29	56
+Ehsan Nawaz	0	28.56	5	11	10	3	4	85.3	30	16	97
+Ehsanul Haque	0	37.67	9.5	20	6	0	0	23.3	57	3	38
+Clive E Eksteen	0	90.5	0	6*	2	2	2	37	6	2	120
+Dean Elgar	0	33.5	17.33	42	7	1	1	16	104	2	7
+Elias Sunny	0	32.2	1	1*	4	2	2	34	2	5	63
+Grant D Elliott	2	28.82	34.07	115	69	7	11	207	1976	39	145
+Matthew T G Elliott	0	0	1	1	1		0		1	0	26
+Andrew M Ellis	0	35.42	13.91	33	12	3	1	80	153	12	110
+Richard M Ellison	0	42.5	10.75	24	12	9	4	116	86	12	77
+Steven Elworthy	0	28.07	12.5	23	16	29	8	283.4	100	44	14
+John E Emburey	0	30.87	14.31	34	45	39	10	570.5	501	76	51
+Philip A Emery	0	0	0	11*	1		1		11	0	125
+Rayad R Emrit	0	0	13	13	2	0	1	14	13	0	33
+Enamul Haque	0	30.14	3	5	5	3	1	96	12	14	96
+Enamul Haque	0	60.17	11.24	32	26	3	5	206.2	236	18	82
+Farokh M Engineer	0	0	38	54*	4		1		114	0	20
+Ranaweera Mudiyanselage Shaminda Eranga	0	32.67	11.33	12*	11	4	8	119.2	34	21	108
+Craig Richard Ervine	2	0	31.09	130*	81		11	39	2176	0	57
+Sean M Ervine	1	38.07	25.85	100	34	10	7	274.5	698	41	104
+Jacob-Jan Esmeijer	0	0	2.5	7	5	0	1	38	10	0	39
+Ebrahim A Essop-Adam	0	0	0	14*	1		1	2	14	0	116
+Alasdair C Evans	0	28.44	13.43	28	15	14	8	238.5	94	43	66
+Craig Neil Evans	0	40.38	18.19	96*	47	4	5	160.4	764	21	12
+Gavin M Ewing	0	47.2	13.86	46	7	0	0	52	97	5	70
+Fahad Alhashmi	0	33.67	0	0	3	2	0	37.2	0	6	138
+Fahad Nawaz	0	0	1	2	2		0		2	0	28
+Fahad Usman	0	0	4.5	9	2		0	1	9	0	118
+Faheem Ashraf	0	28.06	11.56	23	11	6	2	112.3	104	18	67
+Fahim Muntasir	0	0	3	5	3	0	1	28.1	6	0	10
+Neil H Fairbrother	1	0	39.47	113	71	0	18	1	2092	0	55
+Faisal Athar	0	0	9	9	1		0		9	0	142
+Faisal Hossain	0	53	10.75	17	5	0	1	12.1	43	1	23
+Faisal Iqbal	1	0	22.43	100*	16	0	2	3	314	0	106
+Fakhar Zaman	3	88	53.41	210*	31	0	4	18.3	1442	1	75
+Fareed Ahmad	0	28.8	0	1*	2	0	2	25	1	5	13
+Farhad Reza	0	46.23	16.48	50	31	12	6	189.5	412	22	62
+Abdus S Faridi	0	0	9.5	16	2	0	0	10	19	0	134
+Faruk Ahmed	0	0	15	57	7		0	2	105	0	19
+James Peter Faulkner	1	30.85	34.4	116	52	12	22	535.1	1032	96	109
+Fawad Ahmed	0	48.33	0	4*	1	0	1	24	4	3	74
+Fawad Alam	1	75.4	40.25	114*	36	0	12	66.2	966	5	11
+Fayyaz Ahmed	0	0	47	37*	3	1	2	27	47	0	50
+Faiz Yakub Fazal	0	0	0	55*	1		1		55	0	130
+Fazle Mahmud	0	0	0	0	2	0	0	3	0	0	35
+Fazl-E-Akbar	0	0	7	7	1	2	0	12	7	0	122
+Callum J Ferguson	0	0	41.44	71*	25		9	7	663	0	65
+Lachlan Hammond Ferguson	0	27.96	8.29	19	13	3	6	234	58	47	15
+Nizel Fernandes	0	0	5	5	1		0		5	0	133
+Asitha Madusanka Fernando	0	0	0	0	0	0	0	2	0	0	54
+Congenige Randhi Dilhara Fernando	0	30.2	9.19	20	61	54	35	1084.3	239	187	95
+Edward R Fernando	0	0	15.67	22	3		0		47	0	40
+Ellukutige R N S Fernando	0	0	20.2	36	5		0		101	0	143
+Kandage H R K Fernando	0	26.5	21.5	23*	5	4	3	39	43	6	58
+Kandana A D M Fernando	0	6.5	0	0	0	2	0	7	0	2	100
+Muthuthanthrige Vishwa Thilina Fernando	0	82.33	13.5	7*	6	4	4	39.3	27	3	31
+Thudellage C B Fernando	0	39.07	7.25	14*	10	7	6	116.4	29	15	145
+Thewarathantrige L Fernando	0	16	8	8	1	0	0	3	8	1	62
+Ungamandadige N K Fernando	0	0	0	20*	2		2		22	0	7
+Weerahandige Inol Avishka Fernando	0	0	0	0	1		0		0	0	68
+Aaron James Finch	11	68.5	36.25	148	96	0	1	26.2	3444	2	131
+Shawn E Findlay	0	0	20.86	59*	8		1	5	146	0	24
+Steven Thomas Finn	0	29.37	8	35	30	38	13	591.4	136	102	112
+Ryan Flannigan	0	0	0	0	1		0		0	0	79
+Damien W Fleming	0	25.39	11.69	29	31	61	18	769.5	152	134	15
+Matthew V Fleming	0	25.53	15.44	33	10	3	1	87.1	139	17	50
+Stephen P Fleming	8	28	32.41	134*	269	0	21	4.5	8037	1	124
+Andre D S Fletcher	0	0	14.16	54	25	0	0	4.4	354	0	33
+Duncan A G Fletcher	0	31.57	47.75	71*	6	5	2	50.1	191	7	99
+Andrew Flintoff	3	24.38	32.02	123	122	67	16	937.2	3394	169	83
+Andrew Flower	4	0	35.34	145	208	0	16	5	6786	0	18
+Grant W Flower	6	40.63	33.53	142*	214	11	18	910.2	6571	104	126
+Daniel R Flynn	0	0	15.2	35	17	0	2	4	228	0	45
+Christopher R Foggo	0	0	26.5	60	4	0	0	0.1	106	0	103
+Peter J Forrest	1	0	26.29	104	14		0	4	368	0	38
+James S Foster	0	0	13.67	13	6		3		41	0	142
+Maurice L C Foster	0	11	25	25	1	0	0	5	25	2	56
+Neil A Foster	0	31.12	11.54	24	25	25	12	437.5	150	59	9
+Marthinus J Fourie	0	128	21	19*	5	1	3	29.5	42	1	61
+Graeme Fowler	0	0	31	81*	26		2	2	744	0	138
+James E C Franklin	0	41.41	23.98	98*	80	34	27	641.2	1271	81	29
+Trevor J Franklin	0	0	9	21	3		0		27	0	116
+Paul J Franks	0	0	4	4	1	0	0	9	4	0	71
+Frasat Ali	0	0	19	45	3	1	0	24	57	0	12
+Angus R C Fraser	0	30.04	12.82	38*	20	57	9	398.4	141	47	53
+Roy C Fredericks	1	5	25.92	105	12	0	0	1.4	311	2	135
+Alexander N French	0	67	12	14	2	0	0	12	24	1	27
+Bruce N French	0	0	6.8	9*	8		3		34	0	119
+Travis J Friend	0	48.08	16.12	91	39	13	5	321.4	548	37	60
+Peter G Fulton	1	0	32.54	112	46		5	18	1334	0	16
+Richard S Gabriel	0	0	15.18	41	11		0	1	167	0	124
+Shannon Terry Gabriel	0	34	3.5	12*	13	5	7	139.5	21	23	46
+Anshuman D Gaekwad	0	39	20.69	78*	14	0	1	8	269	1	105
+Indika S Gallage	0	38.33	17	14	2	2	1	24	17	3	35
+Janak C Gamage	0	34.67	0	7*	2	2	2	22	8	3	129
+Panagamuwa Lahiru Sampath Gamage	0	39.2	2	3	5	3	3	67	4	10	8
+Gautam Gambhir	11	0	39.68	150*	143	0	11	1	5238	0	67
+Devang J Gandhi	0	0	16.33	30	3		0		49	0	141
+Withanaarchchige C A Ganegama	0	44	3.5	7	2	0	0	11	7	2	22
+Doddanarasiah Ganesh	0	20	4	4	1	0	0	5	4	1	107
+Darren Ganga	0	0	25.55	71	34	0	1	0.1	843	0	75
+Sourav C Ganguly	22	38.49	41.02	183	300	30	23	760.1	11363	100	13
+Hamish J W Gardiner	0	0	23.82	96	11		0	4	262	0	52
+Joel Garner	0	18.85	9.15	37	40	145	14	888.2	238	146	128
+Leon V Garrick	0	0	33	76	3		0		99	0	31
+Trevor N Garwe	0	50	0	0	0	0	0	6	0	1	114
+Michael William Gatting	1	33.6	29.51	115*	88	4	17	65	2095	10	63
+Shakti P Gauchan	0	0	0	9*	1	0	1	4	9	0	17
+Rohan S Gavaskar	0	74	18.88	54	10	0	2	12	151	1	144
+Sunil M Gavaskar	1	25	35.14	103*	102	0	14	3.2	3092	1	40
+Willie T Gavera	0	32	0	4*	1	2	1	32	4	5	94
+Christopher H Gayle	25	35.43	38.16	215	283	39	17	1222.2	10151	165	37
+Gazi Ashraf	0	16.5	8.43	18	7	0	0	8.3	59	2	146
+Brett Geeves	0	26	0	10*	2	0	2	15	10	3	59
+Lee K Germon	0	0	19.96	89	31		5		519	0	6
+Rajinder S Ghai	0	86.67	1	1	1	1	0	45.5	1	3	70
+Karsan D Ghavri	0	47.2	11.4	20	16	12	6	172.1	114	15	130
+Gholam Nousher	0	62.8	8	4	3	5	2	68	8	5	23
+Ghulam Ali	0	0	17.67	38	3		0		53	0	109
+Ghulam Shabber	0	0	22.32	90	19		0		424	0	78
+Treadwell Gibbons	0	0	16.5	33	2		0		33	0	15
+Herschelle Herman Gibbs	21	0	36.13	175	240		16	108	8094	0	122
+Lancelot Richard Gibbs	0	29.5	0	0*	1	4	1	26	0	2	49
+Ottis D Gibson	0	18.26	14.1	52	11	8	1	123.1	141	34	98
+Norman Gifford	0	12.5	0	0	1	1	0	20	0	4	34
+David R Gilbert	0	30.67	7.8	8	8	4	3	114	39	18	139
+Adam C Gilchrist	16	0	35.89	172	279		11		9619	0	57
+Ashley F Giles	0	37.62	17.5	41	35	17	13	476	385	55	10
+Jason N Gillespie	0	25.43	12.57	44*	39	80	16	857.2	289	142	64
+Mark R Gillespie	0	37	15.5	28	14	29	8	253.3	93	37	132
+Peter G Gillespie	0	0	0.5	2	4		0		2	0	20
+Stuart R Gillespie	0	32	11.67	18*	11	12	5	160.3	70	23	117
+Gary J Gilmour	0	10.31	42	28*	2	9	1	46	42	16	73
+Golam Faruq	0	58	22	23*	4	3	2	31	44	2	14
+Hilary A Gomes	1	24.1	28.88	101	64	10	15	214.1	1415	41	51
+Dhiren M Gondaria	0	0	3.5	6	2		0	2	7	0	126
+Manpreet Gony	0	38	0	0	0	1	0	13	0	2	28
+Graham A Gooch	8	42.11	36.98	142	122	26	6	344	4290	36	113
+Murray W Goodwin	2	52.5	27.13	112*	70	1	3	41.2	1818	4	79
+Yohan Goonasekera	0	35	23	35	3	0	0	6	69	1	11
+Frederick R M D Goonatillake	0	0	0	0	0	1	0	9	0	0	66
+Hettiarachige M Goonatillake	0	0	31	14*	4		3		31	0	135
+Jeremy O A G Gordon	0	31.83	3.5	4	4	3	2	34	7	6	22
+Tyson G Gordon	0	0	5.4	9	5	0	0	2.3	27	0	105
+Gordon Goudie	0	27.09	10	23	11	8	3	121.3	80	23	74
+Darren Gough	0	26.42	12.43	46*	87	120	38	1411.4	609	235	16
+Eric Gouka	0	51	19	19	2	0	1	3.4	19	1	142
+Ian J Gould	0	0	12.92	42	14		2		155	0	36
+David I Gower	7	0	30.78	158	111	0	8	0.5	3170	0	91
+Shaun F Graf	0	43.13	4	8	6	4	0	87	24	8	41
+Victor Grandia	0	40	0	0	1	0	0	5	0	1	121
+Anthony H Gray	0	18.98	8.5	10*	11	16	5	211.4	51	44	64
+Evan J Gray	0	35.75	16.33	38	7	5	1	64.2	98	8	9
+Adrian P Grayson	0	20	3	6	2	0	0	15	6	3	53
+Mark J Greatbatch	2	0	28.28	111	83	0	5	1	2206	0	140
+Alvin E Greenidge	0	0	23	23	1		0		23	0	30
+Cuthbert Gordon Greenidge	11	45	45.04	133*	127	0	13	10	5134	1	118
+Anthony W Greig	0	32.58	16.81	48	19	10	3	148.2	269	19	67
+Adrian F G Griffith	0	0	14.14	47	8		1	5	99	0	13
+Trevor R Gripper	0	38	10	26	8	5	0	20	80	2	58
+Timothy J G  Gruitjers	0	39.5	22.67	32	4	1	1	20	68	2	131
+Runish D Gudhka	0	60	17	10	2	0	1	13	17	1	24
+Gulbadin Naib	0	34.33	23.03	82*	43	9	8	259.4	806	39	112
+Downdegedara Asela Sampath Gunaratne	1	32.86	27.38	114*	25	3	4	139	575	22	76
+Pulasthi W Gunaratne	0	33.63	7.2	15*	8	6	3	159.5	36	27	10
+Ruvindu Gunasekera	0	0	23.95	72	19		0	7	455	0	60
+Mashtayage Danushka Gunathilaka	1	48	32.41	116	35	1	1	49	1102	6	137
+Aruna A W Gunawardene	0	0	2	2	1		0		2	0	31
+Dihan Avishka Gunawardene	1	0	28.47	132	61		1	13	1708	0	114
+Sandeep K Gupta	0	0	13.44	41	10		1		121	0	75
+Martin J Guptill	16	24.5	43.51	237*	166	0	18	18.1	6440	4	11
+Gurdeep Singh	0	0	1	1	1		0		1	0	54
+Gurkeerat Singh	0	0	6.5	8	3	0	1	10	13	0	133
+Harry F Gurney	0	39.27	7.5	6*	6	4	4	75.5	15	11	26
+Gursharan Singh	0	0	4	4	1		0	1	4	0	108
+Asanka Manjula Guruge	0	28.08	0	10*	4	2	4	58.3	16	12	70
+Asanka Pradeep Gurusinha	2	52.08	28.28	117*	143	8	5	264.1	3902	26	14
+Haafiz Shahid	0	37.33	11	7*	3	1	2	21.1	11	3	123
+Habibul Bashar	0	142	21.68	78	105	0	5	29.1	2168	1	47
+Bradley James Haddin	2	0	31.54	110	115		16		3122	0	95
+Barry G Hadlee	0	0	26	19	2		1		26	0	39
+Dayle R Hadlee	0	18.2	8	20	7	7	2	90	40	20	120
+Richard John Hadlee	0	21.56	21.62	79	98	185	17	1019.4	1751	158	68
+Hafizur Rahman	0	0	8	8	1		0		8	0	5
+Ryan S Haire	0	0	28	54	2		0	1	56	0	75
+Oli J Hairs	0	0	13.6	27	5		0		68	0	125
+Alexander D Hales	6	0	37.8	171	67		3	27	2419	0	32
+Andrew J Hall	0	26.47	21.05	81	56	30	13	556.5	905	95	111
+James D Hall	0	0	9.33	15	3		0		28	0	81
+Hamid Hassan	0	20.59	7.08	17	17	20	4	253	92	56	17
+Gavin M Hamilton	2	53.33	35.17	119	38	4	3	36.4	1231	3	50
+Lance J Hamilton	0	143	0	2*	2	0	2	18	3	1	137
+Hammad Azam	0	84.5	16	36	7	0	2	33	80	2	23
+Jeffrey R Hammond	0	41	0	15*	1	1	1	9	15	1	107
+John H Hampshire	0	0	24	25*	3		1		48	0	66
+Hamza Tariq	0	0	16.57	71	7		0		116	0	12
+Peter Stephen Patrick Handscomb	0	0	29	82	11		0	2	319	0	57
+Hannan Sarkar	0	0	19.15	61	20	0	0	0.3	383	0	136
+Amarbir S Hansra	0	59	23.39	70*	22	1	4	74.1	421	7	21
+Rana M Haq	0	32.92	16.65	71	40	14	6	438.5	566	60	106
+Harbhajan Singh	0	33.36	13.3	49	128	83	35	2079.5	1237	269	79
+Harilal Shah	0	0	2	6	3	6	0	3/0/3	6	0	16
+Haris Sohail	0	50.3	43.64	89*	25	0	3	88	960	10	128
+Stephen J Harmison	0	32.64	8.27	18*	25	29	14	483.1	91	76	42
+Haroon Rashid	0	0	20.75	63*	10		2	3	166	0	97
+Roger A Harper	0	34.31	16.13	45*	73	47	20	862.3	855	100	37
+Chris Zinzan Harris	1	37.5	29	130	213	82	62	1777.5	4379	203	141
+Paul L Harris	0	27.67	0	0	0	4	0	30	0	3	60
+Ryan James Harris	0	18.91	8	21	13	13	7	171.5	48	44	11
+Matthew N Hart	0	28.69	7.63	16	8	5	0	95.2	61	13	48
+Robert G Hart	0	0	0	0	1		0		0	0	129
+Ronald T Hart	0	0	3	3	1		0		3	0	35
+Blair R Hartland	0	0	20.73	68*	16		1	5	311	0	114
+Harun-Ur-Rashid	0	0	0	0	2		0		0	0	83
+Ian J Harvey	0	30.32	17.88	48*	51	29	11	546.3	715	85	14
+Harvinder Singh	0	25.38	1.5	3*	5	6	1	114.2	6	24	58
+Shane M Harwood	0	28.5	0	0	1	0	0	10	0	2	143
+Hasan Ali	0	24.05	12.69	59	22	13	6	352.1	203	77	27
+Hasan Jamil	0	19.25	22.2	28	5	3	0	35	111	8	102
+Hasan Raza	0	0	18.62	77	13		0	1	242	0	71
+Haseeb Amjad	0	26.18	22.4	42	6	7	1	57	112	11	9
+Hashmatullah Shahidi	0	0	33.45	97*	27	0	5	3	736	0	53
+Hasibul Hussain	0	46.1	8.6	21*	26	13	6	229.1	172	29	133
+Mark J Haslam	0	28	9	9	1	0	0	5	9	1	18
+Hasti Gul	0	24.33	0	23*	1	1	1	19	23	3	108
+Brian F Hastings	0	0	18.88	37	9		1	4	151	0	69
+John W Hastings	0	29.9	27.1	51	21	7	11	247.4	271	42	15
+Upul Chandika Hathurusingha	0	50.64	20.91	66	33	9	1	159	669	14	127
+Nathan M Hauritz	0	34.16	22.4	53*	32	12	17	454	336	63	41
+Matthew L Hayden	10	0	43.81	181*	155	0	15	1	6133	0	95
+Frank C Hayes	0	0	25.6	52	6		1		128	0	38
+Roydon L Hayes	0	0	13	13	1	0	0	7	13	0	144
+Desmond L Haynes	17	0	41.38	152*	237	0	28	15	8648	0	63
+Robert C Haynes	0	44.8	5.2	18	6	1	1	45	26	5	8
+Mornantau Hayward	0	40.86	3	4	5	5	1	165.3	12	21	52
+Josh Reginald Hazlewood	0	25.15	18.5	11*	13	25	11	382.2	37	72	135
+Hazratullah Zazai	0	0	26.75	67	4		0		107	0	30
+Travis M Head	1	61.42	34.41	128	39	0	2	127.3	1273	12	117
+Dean W Headley	0	47.27	11	10*	6	2	4	99	22	11	76
+Ronald G A Headley	0	0	19	19	1		0		19	0	13
+Ian A Healy	0	0	21	56	120		36		1764	0	61
+Stewart P Heaney	0	0	10.25	19	4		0	3	41	0	138
+Samuel Daly Heazlett	0	0	4	4	1		0		4	0	26
+Thomas J Heggelman	0	17.2	5.4	22	5	0	0	17	27	5	113
+Edward E Hemmings	0	34.97	5	8*	12	16	6	292	30	37	72
+David L Hemp	1	119	33.74	102*	22	0	3	19	641	1	16
+Chandrapaul Hemraj	0	0	13.67	32	6	0	0	1.1	82	0	122
+Claude W Henderson	0	18.86	0	0	0	2	0	36.1	0	7	49
+Michael Hendrick	0	19.46	1.2	2*	10	36	5	196	6	35	98
+Beuran E Hendricks	0	81	0	2*	1	0	1	16	2	1	37
+Reeza R Hendricks	1	47	30.54	102	14	0	1	7	397	1	147
+Moises C Henriques	0	43.71	9	18	10	1	1	59	81	7	65
+Cornelius C Henry	0	26.5	6	5	2	0	1	15	6	2	7
+Matthew J Henry	0	26.22	19.3	48*	16	22	6	370.1	193	78	70
+Omar Henry	0	62.5	10	11	3	0	1	24.5	20	2	140
+Herath Mudiyanselage Rangana Keerthi Bandara Herath	0	31.92	9.33	17*	30	18	15	540.2	140	74	23
+Jack G Heron	0	0	8.33	18	6		0	1	50	0	111
+Shimron Odilon Hetmeyer	4	0	40.86	127	24		2	13	899	0	78
+Peter D Heyn	0	0	1.5	2	2		0	1	3	0	19
+Graeme A Hick	5	34.2	37.34	126*	118	6	15	206	3846	30	125
+Ryan S Higgins	0	29.23	2.5	7*	8	6	2	90.4	15	13	44
+Andrew M J Hilditch	0	0	28.25	72	8		0	1	226	0	103
+Benjamin William Hilfenhaus	0	37.07	9.67	16	11	16	8	202.4	29	29	38
+Ryan O Hinds	0	58.33	16.83	18*	9	0	3	67.5	101	6	121
+Wavell W Hinds	5	29.89	28.51	127*	111	3	10	157.3	2880	28	66
+Hiri Hiri	0	0	13	11	3	0	1	3	26	0	15
+Narendra D Hirwani	0	31.26	2	4	7	6	3	160	8	23	54
+Paul A Hitchcock	0	39	10.25	11*	7	5	3	92	41	12	137
+Bradley J Hodge	1	51	30.26	123	21	0	2	11	575	1	29
+Kyle C Hodsoll	0	33.33	2	2*	2	1	1	17	2	3	116
+Paul J C  Hoffmann	0	34.69	7.73	31	14	5	3	123.5	85	16	67
+Thomas G Hogan	0	24.96	9	27	12	12	4	152.5	72	23	10
+George B Hogg	0	26.85	20.26	71*	65	36	26	927.2	790	156	132
+Rodney M Hogg	0	28.45	9.13	22	35	57	20	610.5	137	85	56
+Vincent R Hogg	0	0	0	7*	1	4	1	15	7	0	9
+Matthew J Hoggard	0	36	4.25	7	6	13	2	217.4	17	32	65
+Jason Omar Holder	0	33.06	26.27	99*	73	40	17	710	1471	119	134
+Roland I C Holder	0	0	23.96	65	31		6	8	599	0	20
+Vanburn A Holder	0	23.89	12.8	30	6	9	1	110.5	64	19	110
+Michael A Holding	0	21.37	9.1	64	42	99	11	912.1	282	142	73
+Robert G Holland	0	49.5	0	0	0	2	0	21	0	2	16
+Adam J Hollioake	0	31.84	25.25	83*	30	3	6	201.2	606	32	145
+Ben C Hollioake	0	66.5	20.6	63	17	3	2	107	309	8	52
+Delano W Hollis	0	0	0	15*	1	0	1	7	15	0	99
+Douglas T Hondo	0	35.59	7.47	17	29	21	12	396.5	127	61	32
+David W Hookes	0	28	24.29	76	36	0	2	4.5	826	1	147
+Calvert K Hooper	0	60.33	16.33	27	5	1	2	28.1	49	3	21
+Carl L Hooper	7	36.05	35.34	113*	206	53	43	1595.3	5761	193	114
+Kyle Antonio Hope	0	0	23	46	6		0	1	138	0	68
+Shai Diego Hope	4	0	45.56	146*	45		6		1777	0	11
+James R Hopes	0	35.58	25.02	63*	61	32	8	526.1	1326	67	56
+Gareth J Hopkins	0	0	14.75	45	17		1		236	0	141
+Matthew J Horne	0	0	20.42	74	48		0	12	980	0	27
+Philip A Horne	0	0	12.5	18	4		0		50	0	120
+David L Houghton	1	19	26.38	142	60	0	2	2	1530	1	75
+Jamie M How	1	0	29.06	139	37		1	19	1046	0	13
+Geoffrey Philip Howarth	0	22.67	23.07	76	65	0	5	15	1384	3	66
+Hedley J Howarth	0	25.45	6	11	5	9	2	77	18	11	133
+Llorne G Howell	0	0	23.92	68	12		0	2	287	0	24
+Adam G Huckle	0	94.43	2.25	5*	8	4	4	143	9	7	118
+Andrew C Hudson	2	0	29.41	161	88	0	1	1	2559	0	79
+Kimberley John Hughes	0	0	24	98	88	0	6	0.1	1968	0	15
+Mervyn Gregory Hughes	0	29.34	11.11	20	17	22	8	273.1	100	38	122
+Phillip Joel Hughes	2	0	35.91	138*	24		1	5	826	0	48
+Humayun Farhat	0	0	20	39	3		0		60	0	93
+Geoffrey W Humpage	0	0	5.5	6	2		0		11	0	39
+Kevin A D Hurdle	0	36.17	10.63	22	13	7	5	150.5	85	23	128
+Ryan O Hurley	0	62.6	3.25	6	4	2	0	63	13	5	58
+Alan G Hurst	0	16.92	0	3*	4	11	4	58.2	7	12	9
+Nasser Hussain	1	0	30.29	115	87		10	40	2332	0	54
+Rana Omer Hussain	0	0	9	17	8		1	1	63	0	137
+Hussain Talat	0	0	2	2	1	0	0	2	2	0	30
+David J Hussey	1	38.78	32.65	111	61	1	6	133.4	1796	18	115
+Michael E K Hussey	3	117.5	48.16	109*	157	2	44	40	5442	2	71
+Danza P Hyatt	0	0	14	39	9		1	1	112	0	14
+Nicholas Ifill	0	0	5.33	9	3	0	0	12	16	0	59
+Iftikhar Ahmed	0	49	4	5	2	0	0	10	8	1	142
+Iftikhar Anjum	0	31.56	15.6	32	34	41	19	493.2	234	77	22
+Alan P Igglesden	0	61	10	18	3	4	1	28	20	2	107
+Ihsanullah Janat	0	0	21.93	57*	16		2	10	307	0	80
+Ijaz Ahmed	0	25	0	3*	1	0	1	5	3	1	17
+Ijaz Ahmed	10	95.2	32.33	139*	232	1	29	106.1	6564	5	50
+Ijaz Faqih	0	63	12.31	42*	19	6	3	186	197	13	124
+Ikram Ali Khil	0	0	0	5*	1		1		5	0	34
+Raymond Illingworth	0	21	2.5	4	2	2	0	19	5	4	97
+Richard K Illingworth	0	35.3	11.33	14	11	13	5	250.1	68	30	85
+Ilyas Gul	0	28.25	8.5	16	2	0	0	19	17	4	19
+Imad Wasim	0	38.33	43.85	63*	24	4	11	254.3	570	30	134
+Imam-ul-Haq	5	0	60.56	128	21		3	4	1090	0	63
+Imran Abbas	0	0	14.5	28	2		0	1	29	0	8
+Imran Farhat	1	18.33	30.7	107	58	2	2	19.2	1719	6	53
+Imran Haider	0	23.53	11	18*	10	6	6	138	44	30	138
+Imran Khan	1	26.62	33.41	102*	151	124	40	1241.1	3709	182	29
+Imran Nazir	2	48	24.61	160	79	0	2	8.1	1895	1	112
+Mohammad Imran Tahir	0	24.88	8.06	29	31	33	13	813.3	145	153	74
+Imrul Kayes	4	0	32.03	144	78		2	21	2434	0	12
+Imtiaz Abbasi	0	0	6	6*	6		4		12	0	61
+Colin A Ingram	3	0	32.42	124	29	0	3	1	843	0	146
+Peter J Ingram	0	0	27.57	69	7		0	3	193	0	26
+Intikhab Alam	0	29.5	8.5	10	2	2	0	23	17	4	103
+Inzamam-ul-Haq	10	21.33	39.53	137*	350	1	53	9.4	11739	3	69
+Moneeb M Iqbal	0	67.5	24	63	12	0	4	45	192	4	16
+Tariq Iqbal	0	0	8.5	16	2		0		17	0	129
+Mohammad Iqbal Qasim	0	41.67	6.5	13	7	12	1	106	39	12	43
+Iqbal Sikander	0	49	0	1*	1	2	1	35	1	3	98
+Ronald C Irani	0	41.21	14.4	53	30	5	5	213.5	360	24	35
+Anthony J Ireland	0	29.34	3.75	8*	13	14	5	221	30	38	142
+Irfan Ahmed	0	37.38	16.5	37	6	1	0	48.2	99	8	60
+Irfan Bhatti	0	11	0	0	0	0	0	8	0	2	10
+Irfan Fazil	0	0	15	15	1	0	0	6	15	0	51
+Irfan Sajid	0	0	2	2	1	0	0	5	2	0	136
+Ishtiaq Muhammad	0	0	0	0*	1	0	1	3	0	0	31
+Shreyas S Iyer	0	0	42	88	5	0	0	1	210	0	117
+Izatullah Dawlatzai	0	18.25	3.5	6*	3	4	1	35	7	8	78
+Steven D Jack	0	28.67	3.5	6	2	0	0	18	7	3	14
+Robin D Jackman	0	31.47	6.75	14	9	13	1	145.3	54	19	65
+Ridley D Jacobs	0	0	23.31	80*	112		32		1865	0	132
+Ajaysinhji Jadeja	6	54.7	37.48	119	179	2	36	207.4	5359	20	23
+Ravindrasinh Anirudhsinh Jadeja	0	35.6	30.62	87	98	49	33	1248.1	1990	171	109
+Kedar M Jadhav	2	31.54	47.09	120	36	1	13	165.5	1083	26	76
+Wasim Jaffer	0	0	5	10	2		0		10	0	15
+Jahangir Alam	0	0	1.33	3	3		0		4	0	55
+Jahangir Shah	0	86	8	8*	4	3	2	39	16	2	140
+Jahurul Islam	0	0	22.5	53	13		1	3	270	0	25
+Jalaluddin	0	15.07	2.5	5	2	7	0	51	5	14	120
+Jamaluddin Ahmed	0	0	0	18*	1	1	1	4	18	0	67
+Wayne Robert James	0	0	14.43	29	8		1	3	101	0	10
+John A Jameson	0	0	20	28	3	1	0	2	60	0	62
+Floris Jansen	0	62	0	0	0	0	0	9	0	1	139
+Philip A Jaques	0	0	20.83	94	6		0	3	125	0	28
+Kyle M Jarvis	0	40.27	7.29	37	28	15	7	322.4	153	45	115
+Malcolm P Jarvis	0	50.11	18.5	17	5	6	3	100.1	37	9	73
+Paul W Jarvis	0	28	5.17	16*	8	8	2	146.3	31	24	12
+Javed Ahmadi	0	36.75	24.92	81	38	0	0	60.5	947	8	53
+Javed Miandad	8	42.43	41.7	119*	218	3	41	64	7381	7	134
+Javed Omar	0	0	23.85	85*	59	0	4	1.2	1312	0	21
+Javed Qadeer	0	0	12	12	1		0		12	0	105
+Jawahir Shah	0	0	15.33	37	3		0		46	0	79
+W Saman Jayantha	0	0	26.67	74*	17	0	2	9.1	400	0	17
+Pradeep S Jayaprakashdaran	0	21	0	0	0	1	0	6	0	1	123
+Rohan S A Jayasekera	0	0	17	17	1		0		17	0	46
+Sunil A Jayasinghe	0	0	1	1	1		0		1	0	92
+Gampalage Shehan Naveendra De Fonseka Gunawarna Jayasuriya	0	67	13.83	31	7	0	1	26	83	2	37
+Neketh Gedara Roshan Prabath Jayasuriya	0	0	11	11*	2	0	1	16	11	0	143
+Sanath Teran Jayasuriya	28	36.75	32.36	189	433	45	18	2479	13430	323	57
+Denagamage Proboth Mahela de Silva Jayawardene	19	70.38	33.38	144	418	1	39	98.5	12650	8	6
+Hewasandatchige Asiri Prasanna Wishvanath Jayawardene	0	0	5.4	20	5		0		27	0	69
+Sridharan Jeganathan	0	41.6	8.33	20*	4	2	1	46	25	5	130
+Terrence J Jenner	0	0	12	12	1	1	0	8	12	0	19
+Kerry C B Jeremy	0	40.75	8.5	8*	4	1	2	32	17	4	113
+Trevor E Jesty	0	93	21.17	52*	10	0	4	18	127	1	80
+Karun Jethi	0	42.5	43.5	46*	3	2	1	17	87	2	15
+Joginder Sharma	0	115	35	29*	3	3	2	25	35	1	51
+Vinothen Bede John	0	48.68	9.33	15	19	44	10	385.1	84	34	124
+Howard R Johnson	0	69	9	9	2	1	1	10	9	1	34
+Leon R Johnson	0	0	16.33	51	6		0	2	98	0	99
+Mitchell G Johnson	0	25.26	16.12	73*	91	74	32	1248.1	951	239	84
+Mark R Johnson	0	0	10	20	2		0		20	0	18
+Neil C Johnson	4	34.86	36.5	132*	48	9	2	250.3	1679	35	131
+Richard L Johnson	0	21.73	5.33	10	4	7	1	67	16	11	42
+David Trent Johnston	0	32.05	19.55	45*	53	46	15	488.2	743	66	94
+Andrew H Jones	0	54	35.69	93	87	1	9	51	2784	4	38
+Dean M Jones	7	27	44.62	145	161	0	25	17.4	6068	3	147
+Geraint O Jones	0	0	24.63	80	43		8		862	0	61
+Michael Alexander Jones	0	0	38.8	87	5		0	2	194	0	8
+Malachi O Jones	0	60.25	11.3	27	12	4	2	76.2	113	8	47
+Nigel G Jones	0	23.4	14.8	25*	9	6	4	64.5	74	10	136
+Richard A Jones	0	0	33.6	63	5		0		168	0	27
+Simon P Jones	0	39.29	1	1	1	9	0	58	1	7	116
+Luke M Jongwe	0	30.36	15.47	46	19	11	4	143.5	232	25	75
+Christiaan Jonker	0	0	15.5	25	2		0		31	0	14
+Mark B S Jonkman	0	21.8	10.75	15	8	12	4	113.5	43	25	58
+Maurits M A Jonkman	0	19.14	12	16	3	1	0	28.4	36	7	143
+Sundeep Jora	0	0	19	19	1		0		19	0	24
+Christopher J Jordan	0	34.52	12.07	38*	21	6	7	254.2	169	44	111
+Alzarri S Joseph	0	34.08	33.67	27	8	3	5	126.1	101	24	78
+Davis Joseph	0	34	0	9*	3	3	3	31	13	5	11
+Sylvester C Joseph	0	0	16.1	58	11		1	4	161	0	64
+Sunil B Joshi	0	36.36	17.18	61*	45	33	11	564.2	584	69	132
+Dominick I Joyce	0	0	9.67	18	3		0	1	29	0	18
+Edmund Christopher Joyce	6	0	38	160*	77		8	27	2622	0	109
+Jubair Hossain	0	28.5	5	5	1	0	0	19	5	4	72
+Brendon P Julian	0	45.32	13.18	35	17	9	0	191	224	22	15
+Bernard D Julien	0	25.72	14.33	26*	8	21	2	127	86	18	126
+Junaid Khan	0	27.85	4.85	25	28	32	15	554.1	63	104	49
+Junaid Siddique	1	0	23	100	53	0	1	2	1196	0	96
+Junaid Siddiqui	0	75.5	13.4	25	8	3	3	66.4	67	4	41
+Junaid Zia	0	42.33	2	2*	2	1	1	24.1	2	3	121
+Sandeep Jyoti	1	90	22	117	13	1	1	20	264	1	67
+Kabir Ali	0	34.1	15.5	39*	9	4	3	112.1	93	20	9
+Kabir Khan	0	25.25	10	5	5	4	4	61.5	10	12	50
+Roy Kaia	0	0	0	0	0		0		0	0	138
+Mohammad Kaif	2	0	32.01	111*	110		24	55	2753	0	30
+Abhijit V Kale	0	0	10	10	1		0		10	0	114
+Alvin I Kallicharran	0	21.33	34.42	78	28	3	4	17.3	826	3	81
+Jacques H Kallis	17	31.79	44.36	139	314	79	53	1791.4	11579	273	16
+Ruwan S Kalpage	0	40.75	20.59	51	69	20	28	660	844	73	52
+Lalith W Kaluperuma	0	68.5	0	14*	3	2	3	34.4	33	2	136
+Sanath M S Kaluperuma	0	0	5.5	7	2	0	0	1	11	0	23
+Romesh S Kaluwitharana	2	0	22.22	102*	181		14	1	3711	0	105
+James K Kamande	0	45.19	17.3	74	72	19	11	436.4	1055	48	74
+Vinod G Kambli	2	7	32.59	106	97	0	21	0.4	2477	1	12
+Kamran Akmal	5	0	26.1	124	138		14	1	3236	0	66
+Kamran Hussain	0	22.33	0	28*	1	0	1	17	28	3	143
+Kamran Shahzad	0	29.86	11	13	3	1	1	37	22	7	31
+Tafadzwa Kamungozi	0	45.67	5.4	12*	11	1	6	106	27	12	118
+Tinashe Stephen Kamunhukamwe	0	0	18.5	34	2		0		37	0	69
+Kenneth Kamyuka	0	11.75	2	2	1	0	0	7.5	2	4	16
+Sahan Hewa Thilina Kandamby	0	86.5	29	93*	36	1	6	29	870	2	130
+Arvindah L Kandappah	0	0	97	69*	2	0	1	0.1	97	0	45
+Danish Kaneria	0	45.53	6	6*	10	11	8	142.2	12	15	101
+Hrishikesh H Kanitkar	0	47.24	17.84	57	27	4	8	167.4	339	17	38
+Kapil Dev	1	27.45	23.79	175*	198	235	39	1867	3783	253	142
+Aashish R Kapoor	0	76.5	7.17	19	6	5	0	150	43	8	62
+Chamara Kantha Kapugedera	0	112.5	21.09	95	84	0	7	44	1624	2	7
+Karan Khatri Chhetri	0	39.8	5.25	18	4	4	0	39	21	5	68
+Morne Karg	0	0	22.5	41	2		0		45	0	133
+Aasif Y Karim	0	41.26	12.67	53	24	21	6	261.2	228	27	26
+Irfan A Karim	2	0	44	112	9		0	4	396	0	110
+Saba Karim	0	0	15.74	55	27		4		362	0	75
+Karim Janat	0	0	9	9	1	0	0	4	9	0	14
+Karim Sadiq	2	33.5	23.75	114*	22	3	2	53.2	475	6	55
+Shaul H U Karnain	0	31.56	19.08	41*	17	4	5	105.5	229	16	139
+Krishnakumar Dinesh Karthik	0	0	31.04	79	77		21	26	1738	0	21
+Murali Kartik	0	43.57	14	32*	14	19	5	317.5	126	37	106
+Frank Dimuth Madushanka Karunaratne	0	0	15.83	60	13	0	1	1.4	190	0	79
+Kashif Raza	0	36	0	2*	1	0	1	5	2	1	16
+Michael S Kasprowicz	0	24.99	18.5	28*	13	28	9	370.5	74	67	132
+Friday Kasteni	0	0	6	9	3		0		18	0	46
+Eion Katchay	0	35.75	11.5	12	3	4	1	29	23	4	91
+Simon M Katich	1	0	35.78	107*	42		5	13	1324	0	37
+Siddarth Kaul	0	0	0.5	1	2	0	0	27	1	0	143
+Paskuwal Handi Tharindu Kaushal	0	0	0	0	1	0	0	6	0	0	58
+Stefan K W Kelly	0	28.54	0	7*	6	3	6	64.5	14	13	9
+Justin M Kemp	1	31.72	31.5	100*	66	10	18	217.1	1512	32	70
+Robert J Kennedy	0	56.6	17	8*	4	2	3	52	17	5	136
+John C Kent	0	0	0	0	0	0	0	8	0	0	23
+Martin F Kent	0	0	19.5	33	5		1	4	78	0	107
+Robert B Kerr	0	0	32.33	87*	4		1	1	97	0	76
+Alexei N Kervezee	0	0	28	92	36	0	3	4	924	0	15
+Shaheed Keshvani	0	0	10.5	17	2	0	0	8	21	0	50
+Daniel Keulder	0	0	22	52	6		0	3	132	0	127
+Robert W T Key	0	0	10.8	19	5		0		54	0	32
+Paras Khadka	1	18.22	39.17	115	6	1	0	43	235	9	113
+Subash Prasad Khakurel	0	0	34.5	50	2		0		69	0	84
+Khaled Mahmud	0	42.76	14.36	50	72	30	3	564.1	991	67	13
+Khaled Mashud	0	0	21.9	71*	110		27		1818	0	62
+Khalid Khan	0	31	2.5	3	2	2	0	18	5	3	140
+Khalid Latif	0	0	29.4	64	5		0	1	147	0	25
+Khaliq Dad	0	16.67	13.33	20	4	4	1	42	40	9	114
+Zaheer Khan	0	29.44	12	34*	101	117	35	1682.5	792	282	65
+Surinder C Khanna	0	0	22	56	10		2		176	0	18
+Usman T Khawaja	0	0	33.32	98	21		2	5	633	0	145
+Gagan K Khoda	0	0	57.5	89	2		0		115	0	54
+Amay R Khurasiya	0	0	13.55	57	11		0	3	149	0	94
+Khurram Chohan	0	28.61	13.75	35*	19	12	7	197.4	165	36	36
+Khurram Khan	1	36	41.57	132*	16	1	2	83	582	12	125
+Khurram Manzoor	0	0	33.71	83	7		0	3	236	0	66
+Gary E Kidd	0	172	15	15	1	1	0	36	15	1	12
+Craig Kieswetter	1	0	30.11	107	40		5	1	1054	0	61
+Jason Kila	0	0	17	21	2	2	0	5	34	0	136
+Collis L King	0	48.09	23.33	86	14	7	2	124	280	11	29
+Reon D King	0	23.78	7.22	12*	23	41	14	433.5	65	76	117
+Vivian J Kingma	0	0	0	0	0	0	0	2	0	0	71
+Syed M H Kirmani	0	0	20.72	48*	31		13		373	0	10
+Gary Kirsten	13	0	40.95	188*	185	1	19	5	6798	0	57
+Peter N Kirsten	0	25.33	38.03	97	40	1	6	30.3	1293	6	142
+Robert J Kirtley	0	53.44	1	1	2	4	0	91.3	2	9	24
+Heinrich Klaasen	0	0	22.82	59	13		2	5	251	0	110
+Frederick Jack Klaassen	0	11.33	12	13	2	2	0	20	24	6	78
+Rory K Kleinveldt	0	37.33	15	43	7	6	0	85.3	105	12	11
+Jan F Kloppenburg	1	23.88	27.5	121	6	0	0	40.2	165	8	64
+Lance Klusener	2	29.95	41.1	103*	137	46	50	1222.4	3576	192	134
+Nicholas V Knight	5	0	40.41	125*	100		10	44	3637	0	20
+Alan P E Knott	0	0	20	50	14		4		200	0	109
+Louis J Koen	0	0	16.4	28	5		0	3	82	0	73
+Virat Kohli	39	166.25	59.42	183	215	1	37	106.5	10577	4	17
+Bjorn L Kotze	0	92	9	24*	4	2	1	43	27	3	122
+Deon B Kotze	0	128	16.4	27	6	0	1	47	82	2	47
+Jason J Krejza	0	47.29	13	7	2	0	1	70.5	13	7	91
+Krishna Chandran	0	61.57	16.75	43	10	3	2	69.4	134	7	39
+Pallemoni Krishnamurthy	0	0	6	6	1		0		6	0	144
+Bradley P Kruger	0	43.67	10.67	15	3	1	0	30.4	32	3	58
+Courtney K Kruger	0	0	1.5	3	2		0		3	0	8
+Garnett J-P Kruger	0	69.5	0	0*	2	1	1	23	0	2	69
+Neil Kruger	0	0	19.5	34	2		0	2	39	0	130
+Christopher M Kuggeleijn	0	50.33	15.78	40	11	5	2	136.1	142	12	21
+Scott Christopher Kuggeleijn	0	11.6	0	11*	1	2	1	14	11	5	114
+Adrian P Kuiper	0	28.78	33.69	63*	23	0	7	98	539	18	77
+Chamith K B Kulasekara	0	0	12.67	19	3	0	0	13	38	0	16
+Kulasekara Mudiyanselage Dinesh Nuwan Kulasekara	0	33.92	15.43	73	123	106	37	1377.1	1327	199	50
+Kuldeep Yadav	0	20.71	15.6	19	14	10	9	343	78	79	138
+Dhawal S Kulkarni	0	26.74	0	25*	2	5	2	99.4	27	19	31
+Nilesh M Kulkarni	0	32.45	5.5	5*	5	3	3	67	11	11	112
+Rajiv R Kulkarni	0	34.5	16.5	15	5	4	3	74	33	10	83
+Bhuvneshwar Kumar	0	35.91	14.88	53*	47	65	15	820.5	476	114	13
+Nitish R Kumar	0	31.5	15.5	38	15	0	1	11	217	2	57
+Praveenkumar Sakat Singh	0	36.03	13.9	54*	33	45	12	540.2	292	77	144
+Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara	0	49.5	8	7*	5	0	3	51.4	16	8	26
+Thirunavukkar A S U Kumaran	0	38.67	6.33	8	3	4	0	63	19	9	109
+Anil  Kumble	0	30.9	10.54	26	136	109	47	2416	938	337	74
+Don S B P Kuruppu	0	0	20.04	72	52		1	4	1022	0	11
+Abey Kuruvilla	0	35.6	3.71	7	11	18	4	188.3	26	25	60
+Kwame Tucker	0	0	9.5	34	12		2	1	95	0	135
+Graeme F Labrooy	0	41.69	8.59	33	36	18	7	384.4	249	45	22
+Bruce M Laird	1	0	29.7	117*	23		3	5	594	0	107
+Ranasinghe Arachchige Suranga Lakmal	0	31.93	8.2	26	44	35	19	614.2	205	104	79
+Materba K G C P Lakshitha	0	31.75	7	4	2	2	1	50	7	8	16
+S B Lama	0	0	0	16*	1		1		16	0	125
+Allan J Lamb	4	0	39.31	118	118	0	16	1	4010	0	49
+Gregory A Lamb	0	38.92	17.91	37	14	3	3	107	197	12	92
+Raman Lamba	1	20	27	102	31	0	2	3.1	783	1	38
+Clayton B Lambert	1	0	33.92	119	12	0	0	12	407	0	146
+Sandeep Lamichhane	0	14.8	10	15	5	4	1	53.1	40	15	60
+John P R Lamsam	0	0	12	16	2	0	0	6	24	0	7
+Justin L Langer	0	0	32	36	7		2	1	160	0	72
+Charl K Langeveldt	0	29.62	6.64	12	21	28	10	581.3	73	100	132
+Dave Langford-Smith	0	31.88	15.78	31*	17	12	8	157	142	25	24
+Brian C Lara	19	15.25	40.49	169	289	0	32	8.1	10405	4	113
+Wayne Larkins	1	0	24.63	124	24	0	0	2.3	591	0	70
+Gavin Rolf Larsen	0	35.4	14.63	37	70	90	27	1061.2	629	113	14
+Rodney T Latham	0	35.09	20.1	60	33	2	4	75	583	11	58
+Thomas William Maxwell Latham	4	0	33.73	137	79		8	26	2395	0	139
+Ben Laughlin	0	54.75	0	1*	1	1	1	37.2	1	4	30
+Trevor J Laughlin	0	28	26.25	74	5	3	1	45.2	105	8	115
+Stuart G Law	1	52.92	26.89	110	51	3	5	134.3	1237	12	64
+David V Lawrence	0	16.75	0	0	0	1	0	11	0	4	17
+Geoffrey Francis Lawson	0	29.79	11.12	33*	52	94	18	709.5	378	87	126
+Jermaine J C Lawson	0	29.29	6	8	5	5	2	93	18	17	51
+Vangipurappu Venkata Sai Laxman	6	0	30.76	131	83	0	7	7	2338	0	95
+Michael A Leask	0	62.93	24.17	59*	24	1	6	160.2	435	14	37
+Brett Lee	0	23.36	17.82	59	110	141	44	1864.1	1176	380	142
+Shane Lee	0	25.94	17.67	47	35	14	8	284.2	477	48	56
+Warren K Lees	0	0	11.32	26	24		5		215	0	11
+Roland P Lefebvre	0	38.44	28.5	45	11	6	5	89	171	9	66
+Darren S Lehmann	4	27.79	38.96	119	101	3	22	298.5	3078	52	137
+John K Lever	0	29.71	8	27*	11	19	4	181	56	24	26
+Peter Lever	0	23.73	17	8*	3	3	2	68	17	11	109
+Russell D M Leverock	0	33.15	11.2	20*	19	38	9	280.4	112	34	78
+Clairmonte C Lewis	0	29.42	14.38	33	40	29	14	437.3	374	66	13
+Evin Lewis	2	0	32.58	176*	32		1	12	1010	0	53
+Johnathan Lewis	0	27.61	8.33	17	8	13	2	119.2	50	18	131
+Michael L  Lewis	0	55.86	0	4*	1	1	1	56.5	4	7	35
+Rawl N Lewis	0	44.68	18.19	49	21	2	5	191.4	291	22	120
+Liaqat Ali	0	55.5	7	7	1	4	0	29	7	2	67
+Gerhardus F J Liebenberg	0	0	23.5	39	4		0		94	0	16
+Dennis K Lillee	0	20.83	9.23	42*	34	80	8	596.1	240	103	123
+Liton Das	1	0	19.54	121	27		1	8	508	0	42
+Dulip K Liyanage	0	51	16	43	11	5	2	107	144	10	98
+Clive H Lloyd	1	26.25	39.54	102	69	7	19	58.4	1977	8	37
+David Lloyd	1	3	40.71	116*	8	1	1	2	285	1	144
+Graham D Lloyd	0	0	9.75	22	5		1	2	39	0	56
+Timothy A Lloyd	0	0	33.67	49	3		0		101	0	9
+Alan C I Lock	0	27.38	8	5	3	4	2	48.1	8	8	69
+Douglas R Lockhart	0	0	24.22	46	11		2	1	218	0	134
+Augustine L Logie	1	0	28.96	109*	133	0	36	4	2809	0	27
+Kaushal S Lokuarachchi	0	23.39	14	69	18	7	3	168.3	210	31	114
+Christopher H Lonsdale	0	0	4	4	1	0	0	2	4	0	72
+Bernard P Loots	0	47.83	5.33	9*	5	1	2	46.4	16	6	14
+Alexander G R Loudon	0	0	0	0	1	0	0	6	0	0	60
+Johann Louw	0	74	23	23	1	1	0	26	23	2	139
+Jan L Louw	0	60	0	0	0	0	0	10	0	1	23
+James D Love	0	0	20.33	43	3		0	1	61	0	105
+Malachy B Loye	0	0	20.29	45	7		0		142	0	76
+Steven W Lubbers	0	37.4	8	9	4	0	1	36	24	5	19
+Brian W Luckhurst	0	0	5	14	3		0		15	0	128
+Michael J Lumb	1	0	55	106	3		0	1	165	0	49
+Alfred S Luseno	0	35.11	17	16*	9	1	7	55	34	9	94
+Monte A Lynch	0	0	2.67	6	3		0	1	8	0	35
+Christopher A Lynn	0	0	18.75	44	4		0	3	75	0	147
+Nathan Michael Lyon	0	42.83	20.67	30	9	10	6	157	62	18	59
+Ross T Lyons	0	45.05	22.5	28	14	9	10	182.1	90	20	8
+Stuart C G MacGill	0	17.5	1	1	2	4	1	30	1	6	51
+Matthew W Machan	1	42.67	33.36	114	22	2	0	67	734	9	140
+Angus J Mackay	0	0	0	0	0	0	0	22	0	0	33
+John A Maclean	0	0	11	11	1		0		11	0	118
+Kenneth H MacLeay	0	41.73	12.64	41	13	8	2	142.5	139	15	80
+Calum Scott MacLeod	7	77.25	37.82	175	55	2	6	112.2	1853	8	16
+Neil J MacRae	0	0	5	8	2		0		10	0	57
+Sharma Madan Lal	0	29.27	19.1	53*	35	44	14	523.4	401	73	136
+Darren L Maddy	0	0	18.83	53	6		0	1	113	0	21
+Trevor N Madondo	0	0	15.92	71	13		1	2	191	0	107
+Ranjan Senerath Madugalle	0	0	18.63	73	56	0	5	0.4	950	0	72
+Arachchige W R Madurasinghe	0	71.6	10.5	8*	6	4	4	80	21	5	10
+Devapurage Shehan Madushanka Kumara	0	8.67	7	7	1	1	0	6.1	7	3	63
+Lahiru Dilshan Madushanka	0	43	4.67	7	4	0	1	24	14	4	144
+Neville Madziva	0	25.95	6.89	25	12	2	3	86.4	62	20	29
+Mafizur Rahman	0	0	17.67	16	4	0	1	11	53	0	112
+John N Maguire	0	40.47	7	14*	11	12	5	168.1	42	19	77
+Roshan Siriwardene Mahanama	4	0	29.5	119*	198	0	23	0.2	5162	0	12
+Keshav A Maharaj	0	27.67	12.5	17	2	0	0	31.1	25	6	50
+Mohamed Farveez Maharoof	0	28.07	19.53	69*	75	50	18	773.2	1113	135	130
+Mahbubul Alam	0	40	40.5	59	2	2	0	37	81	7	18
+Mahbubur Rahman	0	0	3	3	1		0		3	0	108
+James P Maher	0	0	25.76	95	20		3	10	438	0	67
+Sajid I Mahmood	0	38.97	7.73	22*	15	7	4	199.3	85	30	15
+Mahmood Hamid	0	0	1	1	1		0		1	0	124
+Mohammad Mahmudullah	3	46.07	33.39	128*	148	14	38	677.4	3673	76	47
+Ngonidzashe B Mahwire	0	36.9	10.64	22*	19	12	8	147.3	117	21	92
+Gregor I Maiden	0	0	21	31	6	0	2	8	84	0	37
+Majid Khan	1	28.77	37.43	109	22	11	1	107	786	13	141
+Devon E Malcolm	0	25.25	3	4	5	8	2	87.4	9	16	58
+Ashok Malhotra	0	0	30.47	65	19	1	4	1	457	0	6
+Separamadu Lasith Malinga	0	28.76	7.12	56	109	97	34	1712.2	534	318	75
+Gyanendra Malla	0	0	23.83	51	6		0	2	143	0	132
+Ashley A Mallett	0	31	7	8	3	7	1	78	14	11	22
+Michael F Malone	0	28.64	9	15*	7	16	3	102	36	11	115
+Maninder Singh	0	31.3	12.25	8*	18	33	14	522.1	49	66	78
+Sanjay Vijay Manjrekar	1	10	33.23	105	70	0	10	1.2	1994	1	14
+Manjural Islam	0	53.5	5.89	13	22	24	13	265.1	53	24	52
+Manjural Islam Rana	0	29.96	20.69	63	21	9	5	166	331	23	137
+Ashok V Mankad	0	47	44	44	1	0	0	5.5	44	1	26
+Graham A Manou	0	0	7	7	1		0		7	0	113
+Mansoor Akhtar	0	55	17.44	47	35	2	1	23.1	593	2	85
+Mansoor Amjad	0	44	5	5	1	1	0	8	5	1	17
+Mansoor Rana	0	0	7.5	10	2	0	0	1	15	0	123
+Manzoor Akhtar	0	36.8	24.25	44	4	0	0	33.1	97	5	43
+Manzoor Elahi	0	43.52	22.45	50*	46	16	13	290.3	741	29	97
+Maqsood Rana	0	0	5	5	1	0	0	2	5	0	40
+Ishwar Maraj	0	0	19.6	53*	6	0	1	4.3	98	0	122
+Alester Maregwede	0	0	12.4	37	11		1	2	124	0	68
+Douglas A Marillier	1	41.17	18.16	100	41	7	4	262.2	672	30	8
+Aiden Kyle Markram	0	28	25.44	66	16	0	0	8	407	2	53
+Victor J Marks	0	25.8	13.57	44	24	28	3	303.2	285	44	139
+Geoffrey Robert Marsh	9	4	39.97	126*	115	0	6	1	4357	1	28
+Mitchell R Marsh	1	35.55	35.7	102*	49	6	9	283.2	1428	44	116
+Rodney William Marsh	0	0	20.08	66	76		15		1225	0	73
+Shaun Edward Marsh	7	0	42.27	151	62		2	18	2536	0	15
+Cecil A Marshall	0	0	5	8	2		0		10	0	60
+Hamish J H Marshall	1	0	27.43	101*	62		9	18	1454	0	134
+James A H Marshall	1	0	25	161	10		0		250	0	21
+Malcolm D Marshall	0	26.96	14.92	66	83	122	19	1195.5	955	157	106
+Xavier M Marshall	1	0	17.86	157*	24	0	3	1.3	375	0	77
+Anthony Martin	0	26.91	10	4*	6	5	5	74	10	11	17
+Christopher Stewart Martin	0	44.67	1.6	3	7	14	2	158	8	18	125
+Gary C Martin	0	47.5	7.75	16	4	2	0	22	31	2	47
+Jacob J Martin	0	0	22.57	39	8		1	6	158	0	93
+Peter J Martin	0	29.85	6.33	6	13	9	7	174.4	38	27	36
+Damien R Martyn	5	58.67	40.81	144*	182	2	51	132.2	5346	12	140
+Timycen Maruma	0	57.5	9.81	32	16	1	0	37.3	157	4	58
+Hamilton Masakadza	5	41.59	28.16	178*	203	5	4	304.2	5604	39	9
+Shingirai W Masakadza	0	35.64	21.25	45*	11	4	3	131.5	170	25	71
+Wellington Pedzisai Masakadza	0	34.95	5.89	15	10	8	1	143.1	53	21	134
+Adrian D Mascarenhas	0	48.77	22.27	52	13	6	2	137	245	13	24
+Mashrafe Bin Mortaza	0	31.71	14.02	51*	151	122	26	1708.1	1752	259	114
+Michael J Mason	0	33.03	8	13*	7	15	4	196.3	24	31	79
+Masood Iqbal	0	0	2	2	1		0		2	0	13
+Steve J Massiah	0	0	11.5	23	2		0		23	0	55
+Robert A L Massie	0	43	0	16*	1	5	1	30.3	16	3	143
+Prince S Masvaure	0	0	20	39	2	0	0	3	40	0	31
+Everton Matambanadzo	0	19.73	4	5*	5	1	3	49.3	8	11	108
+Angelo Davis Mathews	2	34.22	42.36	139*	173	54	46	845.1	5380	114	70
+Andrew W Mathieson	0	40	0	0*	1	0	1	4	0	1	11
+Stuart Matsikenyeri	0	48.63	22.02	90	110	2	9	153.2	2224	16	66
+Craig R Matthews	0	25	10.85	26	22	53	9	500.3	141	79	137
+Gregory Richard John Matthews	0	35.16	16.73	54	50	21	13	468	619	57	19
+Everton H Mattis	0	0	43	62	2		0	2	86	0	111
+Bryan M Mauricette	0	0	6.67	15	3	20	0	3/0/3	20	0	84
+Brandon Anesu Mavuta	0	44	13	20	5	0	1	39	52	5	15
+Tinotenda M K Mawoyo	0	0	8.29	15	7		0	2	58	0	129
+Donovan E S Maxwell	0	70	27.67	59	10	0	4	12	166	1	48
+Glenn James Maxwell	1	40.98	32.42	102	82	7	9	336.4	2367	46	99
+Timothy Brian Alexander May	0	45.44	9.75	15	12	17	8	417.2	39	39	37
+Matthew P Maynard	0	0	14.18	41	12		1	4	156	0	144
+Mazhar Hussain	0	0	25.57	70	7	0	0	8	179	0	62
+Mazharul Haque	0	0	3	3	1	0	0	0.4	3	0	7
+Mpumelelo Mbangwa	0	103.64	4.86	11	13	11	6	228.1	34	11	72
+Cameron McAuslan	0	0	17.5	27	2		0		35	0	131
+Andrew Robert McBrine	0	35.86	20.08	79	20	12	8	276.5	241	35	30
+William K McCallan	0	30.97	20.06	50*	28	11	10	300.4	361	39	115
+Neil F I McCallum	2	0	27.83	121*	42		6	13	1002	0	69
+Rory D McCann	0	0	11	18	5		1		44	0	11
+Graeme J McCarter	0	0	0	1*	1	0	1	8	1	0	59
+Barry J McCarthy	0	24.77	6.83	16*	15	7	3	207	82	48	136
+Mitchell J McClenaghan	0	28.21	27	34*	14	11	10	389.2	108	82	22
+James Alexander McCollum	0	0	0	0	1		0		0	0	107
+Richard B McCosker	0	0	22.86	95	14		0	3	320	0	76
+Obed Christopher McCoy	0	27.25	0	0*	1	0	1	14	0	4	16
+Brendon B McCullum	5	0	30.42	166	228		28	35	6083	0	124
+Nathan L McCullum	0	46.92	20.98	65	62	6	11	589.2	1070	63	43
+Rodney J McCurdy	0	31.25	8.25	13*	6	8	2	85.5	33	12	95
+Craig J McDermott	0	24.72	7.08	37	78	101	17	1243.3	432	203	38
+Paul E McEwan	0	58.83	13.6	41	15	2	0	70	204	6	146
+Neil C McGarrell	0	45.4	7.5	19	10	2	2	143.1	60	15	58
+Peter D McGlashan	0	0	63	56*	2		1		63	0	10
+Anthony McGrath	0	43.75	16.6	52	12	2	2	38	166	4	71
+Glenn D McGrath	0	22.02	3.83	11	68	279	38	2161.4	115	381	133
+Andrew J McKay	0	29.63	4	4*	10	7	7	154.2	12	27	25
+Clinton J McKay	0	24.37	9.05	30	31	38	10	494.1	190	97	111
+Brian J McKechnie	0	26.05	13.5	27	8	11	4	133.2	54	19	78
+Scott Stephen McKechnie	0	0	15.43	29	8		1	1	108	0	13
+Graham D McKenzie	0	11	0	0	0	0	0	7.4	0	2	52
+Neil D McKenzie	2	0	37.51	131*	55	0	10	7.4	1688	0	142
+Ryan  McLaren	0	27.3	18.65	71*	41	13	15	400.3	485	77	27
+Nixon A M McLean	0	37.59	12.08	50*	34	18	8	353.2	314	46	116
+Hamish McLeod	0	0	2.5	5	2		0		5	0	64
+Brian M McMillan	1	36.99	23.36	127	52	33	16	603.5	841	70	16
+Craig D McMillan	3	35.04	28.19	117	183	7	16	313.1	4707	49	129
+Ervin B McSweeney	0	0	8.11	18*	14		5		73	0	46
+Stuart C Meaker	0	55	1	1	2	1	0	19	2	2	92
+Mehidy Hasan Miraz	0	35.08	20.79	51	16	9	2	207.1	291	26	39
+Mehmood Quaraishy	0	31.33	20.5	19	3	0	1	18	41	3	140
+Vijay Mehra	0	0	18.4	43	6		1	1	92	0	59
+Mehrab Hossain	1	0	24.94	101	18	0	0	5	449	0	8
+Mehrab Hossain	0	53.5	17.25	54	16	0	0	42.1	276	4	70
+Praful S Mehta	0	0	12	12	1		0		12	0	135
+Mohammed A Meman	0	0	19	19	1	0	0	6.5	19	0	21
+Balapuwaduge Ajantha Winslow Mendis	0	21.87	8.17	21*	42	34	19	692.2	188	152	114
+Balapuwaduge Kusal Gimhan Mendis	1	0	26.87	102	55	0	2	3.2	1424	0	81
+Balapuwaduge Manukulasuriya Amith Jeevan Mendis	0	40.5	20.13	72	40	1	10	222.5	604	28	19
+Louis Rohan Duleep Mendis	0	0	23.49	80	74		9	14	1527	0	125
+Manimeldura C Mendis	0	0	0	3*	1		1	2	3	0	44
+Joe M Mennie	0	43.67	0.5	1	2	2	0	20	1	3	101
+Keegan O Meth	0	69.83	13.25	53	8	2	0	67.4	106	6	37
+Paras L Mhambrey	0	40	0	7*	1	1	1	21	7	3	142
+David A Miller	5	0	38.26	139	103		29	56	2831	0	57
+Geoffrey Miller	0	32.52	8.5	46	18	19	2	207	136	25	11
+Nikita O'Brien Miller	0	36.89	20.29	51	27	16	13	354.1	284	45	74
+Jonathan P Millmow	0	58	0	0*	1	1	1	45	0	4	136
+Kyle D Mills	0	27.02	15.63	54	101	127	34	1371.4	1047	240	29
+Adam F Milne	0	38.56	16.8	36	17	7	7	300.1	168	41	117
+Minhajul Abedin	0	39.31	18.88	68*	26	3	2	91	453	13	68
+Dean A Minors	0	0	26.56	68	20		2	3	478	0	14
+Solomon Farai Mire	1	61.86	21	112	40	0	0	69.3	840	7	61
+Mirwais Ashraf	0	30.22	14.33	52*	38	25	11	334.4	387	45	134
+Misbah-ul-Haq	0	0	43.41	96*	149	0	31	4	5122	0	20
+Amit Mishra	0	23.61	5.38	14	11	19	3	319.3	43	64	110
+Tanmay Mishra	0	12	34.18	72	40	0	7	1.3	1128	1	76
+Abhimanyu Mithun	0	67.67	17	24	3	1	0	30	51	3	16
+Hitesh S Modi	0	0	23.6	78*	56	1	9	3.1	1109	0	127
+Mohammad Akram	0	41.58	7	7*	9	6	7	164.5	14	19	49
+Mohammad Amir	0	31.58	19.56	73*	27	28	9	400.1	352	60	96
+Mohammad Ashraful	3	36.72	22.23	109	169	4	13	116.1	3468	18	41
+Mohammad Asif	0	33.13	3.78	6	16	29	7	323.3	34	46	121
+Mohammad Aslam	0	0	9.5	23	4		0		38	0	67
+Mohammad Boota	0	0	23.33	59*	7	0	1	2	140	0	9
+Mohammad Hafeez	11	37.5	32.99	140*	206	47	15	1244.5	6302	137	54
+Mohammad Hussain	0	42.08	30.8	31*	12	2	7	112	154	13	138
+Mohammad Iqbal	0	0	10.8	30	5		0		54	0	30
+Mohammad Irfan	0	30.71	4	12	33	31	21	518.1	48	83	115
+Mohammad Ishaq	0	0	24.5	51*	5		1	1	98	0	72
+Mohammad Kashif	0	45.56	0.33	1	3	4	0	75	1	9	14
+Mohammad Khalil	0	28.8	0	0*	1	0	1	24	0	5	59
+Mohammad Mithun Ali	0	0	34.64	63	13		2	5	381	0	142
+Mohammad Nabi	1	31.63	28.93	116	96	35	11	853	2459	115	23
+Mohammad Naveed	0	32.7	18.45	45	30	10	10	297	369	50	109
+Mohammad Nawaz	0	36.44	22.11	53	12	2	3	112.3	199	16	81
+Mohammad Rafique	0	37.91	13.38	77	106	63	17	1069	1191	125	18
+Mohammad Rizwan	0	0	27.88	75*	24		7	12	474	0	126
+Mohammad Saifuddin	0	53.29	29.17	50	7	4	1	70	175	7	45
+Mohammad Salim	0	0	9	9	1		0		9	0	98
+Mohammad Salman	0	0	11	19*	3		1		22	0	36
+Mohammad Sami	0	29.48	11.63	46	46	42	19	714	314	121	143
+Mohammad Shahzad	5	0	34.47	131*	77		3	1	2551	0	54
+Mohammad Shahzad	0	25.89	31.67	79	6	3	0	40	190	9	7
+Mohammad Talha	0	36.5	0	0	1	1	0	20.2	0	4	68
+Mohammad Tauqir	0	42.56	13.57	55	9	1	2	81.5	95	9	133
+Mohammad Wasim	0	0	23.61	76	25		2	9	543	0	26
+Mohammad Yousuf	15	1	41.72	141*	273	0	40	0.2	9720	1	113
+Mohammad Zahid	0	39.1	7.5	7*	4	8	2	85.2	15	10	80
+Dave Mohammed	0	23.5	0	0*	1	5	1	58.5	0	10	13
+Jason Nazimuddin Mohammed	0	0	23.96	91*	24	1	1	24.2	551	0	50
+Mohammed Nazir	0	52	0	2*	3	3	3	37	4	3	127
+Mohammed Qasim	0	35.5	18.8	41	5	2	0	20	94	2	35
+Mohammed Shami Ahmed	0	25.29	9.08	25	26	33	13	509.3	118	110	116
+Mohammed Sharif	0	42.4	13.25	13*	9	5	5	83.1	53	10	75
+Mohammed Siraj	0	0	0	0	0	0	0	10	0	0	10
+Debashish S Mohanty	0	29.16	5.6	18*	11	21	6	332.4	28	57	56
+Mohibullah Paak	0	0	0	0	0		0	2	0	0	139
+Mohsin Kamal	0	36.19	9	11*	6	4	3	146.5	27	21	23
+Mohsin Khan	2	5	26.81	117*	75	0	5	2	1877	1	107
+Moin Khan	0	0	23	72*	183		41		3266	0	69
+Moin-Ul-Atiq	1	0	39.8	105	5		0		199	0	14
+Geert-Maarten C Mol	0	37.33	12.5	14	4	1	2	27	25	3	123
+Hendrik J Mol	0	29.8	8.38	23	9	1	1	30.2	67	5	46
+Mominul Haque	0	27.14	22.28	60	26	1	1	39	557	7	93
+Preston L Mommsen	2	21.67	30.97	139*	42	0	6	22	1115	6	37
+Dinesh Mongia	1	40.79	27.95	159*	51	1	7	106.4	1230	14	146
+Nayan R Mongia	0	0	20.19	69	96		33		1272	0	62
+Moniruzzaman	0	0	0.5	1	2		0		1	0	9
+Thomas Masson Moody	0	38.73	23.29	89	64	31	12	466.1	1211	52	73
+John F Mooney	0	34.06	23.49	96	55	19	14	299.3	963	48	134
+Paul J K  Mooney	0	0	12	11*	3	0	2	14.3	12	0	22
+Peter Joseph Moor	0	0	19.42	52	39		3	4	699	0	115
+Kiran S More	0	0	13.09	42*	65		22		563	0	77
+Vani V Morea	0	0	26.08	65*	13		1	7	313	0	18
+Daniel W O Morgan	0	0	1	1	2		0		2	0	51
+Eoin J G Morgan	12	0	39.16	124*	203		29	74	6813	0	141
+Johannes A Morkel	0	37.98	23.7	97	43	13	10	345.3	782	50	28
+Morne Morkel	0	25.32	9.24	32*	47	47	18	960	268	188	112
+Christopher Henry Morris	0	40.43	19.7	62	23	5	3	252	394	35	68
+John E Morris	0	0	23.86	63*	8		1	2	167	0	11
+Daniel Kyle Morrison	0	27.54	9	20*	43	49	24	764.2	171	126	65
+John F M Morrison	0	24.88	21	55	15	1	3	47.1	252	8	136
+Morshed Ali Khan	0	42.5	0	2*	1	1	1	23	2	2	20
+Runako S Morton	2	0	33.76	110*	51	0	6	1	1519	0	104
+Mosaddeck Hossain	0	41.27	31	50*	20	1	9	90.2	341	11	79
+Ezra A Moseley	0	39.71	1.75	2*	6	2	2	55	7	7	15
+Mosharraf Hossain	0	36.75	6.5	8	5	1	1	33	26	4	129
+Jeffrey K Moss	0	0	7	7	1		0	2	7	0	48
+Martyn D Moxon	0	0	21.75	70	8		0	5	174	0	94
+Phenyo V Mpitsang	0	31.5	0	1*	1	1	1	10	1	2	38
+Christopher Bobby Mpofu	0	38.72	2.3	6	39	41	19	627.5	46	88	147
+Natsai M'shangwe	0	86.67	7.6	16	6	4	1	56	38	3	58
+Jehan Mubarak	0	47.5	22.71	72	37	0	6	21.3	704	2	7
+Mudassar Bukhari	0	28.59	17.17	71	34	31	4	339.2	515	56	70
+Mudassar Nazar	0	30.92	25.27	95	115	43	10	808.5	2653	111	132
+Tafadzwa V Mufambisi	0	0	9.17	21	6		0		55	0	24
+Muhammad Usman	0	0	25.76	80	23		2	7	541	0	116
+Mujahid Jamshed	0	6	13.5	23	3	1	1	4	27	1	75
+Mujeeb Ur Rahman	0	18.15	6.67	15	10	22	4	228	40	47	12
+Saradindu P Mukherjee	0	49	0	2*	1	2	1	29	2	2	54
+Saleem Mukuddem	0	32.7	23.64	57	18	16	4	160	331	23	138
+Jacob Mulder	0	31	0	15*	2	0	2	31	15	5	31
+Pieter Willem Adriaan Mulder	0	34.38	14.25	19*	7	0	3	47	57	8	109
+Ashif A Mulla	0	0	20.08	58	24		0	5	482	0	83
+Mohsin Mulla	0	0	1	1	1	2	0	10	1	0	15
+Alan D Mullally	0	27.43	5.73	20	25	48	10	449.5	86	63	122
+Carl T Mumba	0	0	3	2*	2	0	1	10.2	3	0	43
+Arachchige M N Munasinghe	0	36.5	4.33	8	4	3	1	36.1	13	4	91
+Eldeniya Medagedara Dilshan Yasika Munaweera	0	0	7.5	11	2		0	2	15	0	39
+Munir Dar	0	0	9	14	2	1	0	18	18	0	140
+Colin Munro	0	67.43	24.91	87	47	1	1	91	1146	7	58
+Henry G Munsey	0	0	29.31	55	16		3	9	381	0	8
+Tawanda Mupariwa	0	29.65	8.41	33	32	23	10	336.3	185	57	71
+Muttiah Muralitharan	0	23.08	6.81	33*	162	198	63	3135.1	674	534	134
+Bryan G Murgatroyd	0	0	15	52	6		0		90	0	27
+Brian A Murphy	0	38.97	8	20*	17	9	8	237	72	29	118
+David Murphy	0	0	11.6	20*	7		2		58	0	72
+David A Murray	0	0	9	35	7		2		45	0	14
+Darrin J Murray	0	0	3	3	1		0		3	0	55
+Deryck Lance Murray	0	0	24.58	61*	18		6		295	0	137
+Junior Randalph Murray	0	0	22.6	86	36		6	2	678	0	22
+Ryan Craig Murray	0	0	27	47	5		1		108	0	105
+Timothy James Murtagh	0	31	7.67	23*	30	36	9	402.3	161	58	78
+Tarisai Kenneth Musakanda	0	0	21.71	60	15	0	1	2	304	0	16
+Mushfiqur Rahim	6	0	34.43	144	187		31	2	5371	0	125
+Mushfiqur Rahman	0	51.74	16.36	49	25	19	3	222	360	19	46
+Mushtaq Ahmed	0	33.3	9.5	34*	76	51	34	1257.1	399	161	94
+Mushtaq Mohammad	0	0	34.83	55	9	0	3	7	209	0	40
+Mustafizur Rahman	0	21.66	9.5	18*	21	19	15	352.5	57	77	143
+Philip Mustard	0	0	23.3	83	10		0		233	0	57
+David T Mutendera	0	37.11	10	10	4	4	2	65	20	9	9
+Forster Mutizwa	0	0	31	79	15		2	1	403	0	73
+Tinotenda C Mutombodzi	0	46.33	12.44	27	10	0	1	51.5	112	6	134
+Richmond Mutumbami	0	0	20.44	74	29		2		552	0	23
+Blessing Muzarabani	0	40.72	2	7	15	4	7	131	16	18	117
+Taurai Muzarabani	0	37.43	3	5	7	3	3	53.5	12	7	68
+Waddington Mwayenga	0	157	0.5	1	2	2	0	21	1	1	12
+Stephanus J Myburgh	0	0	24.5	56	13		1	2	294	0	61
+Ganesh Mylvaganam	0	0	12	23	3		0	1	36	0	142
+Nadeem Ahmed	0	24.53	5.58	14	16	16	4	221.1	67	38	25
+Nadeem Ghauri	0	46	14	7*	3	4	2	57	14	5	110
+Nadeem Khan	0	0	2	2	1	0	0	16	2	0	81
+Naeem Ahmed	0	0	0	0*	1	0	1	10	0	0	17
+Naeem Ashraf	0	0	24	16	2	0	1	7	24	0	124
+Naeem Islam	0	40.2	27.08	84	51	9	15	290.3	975	35	44
+Naeemuddin Aslam	0	0	6	12	2		0	1	12	0	97
+Nafis Iqbal	0	0	19.31	58	16		0	2	309	0	39
+Mahendra V Nagamootoo	0	55.44	13.5	33	18	4	6	198.1	162	18	145
+John Nagenda	0	50	0	0	0	1	0	9	0	1	60
+Sudhir S Naik	0	0	19	20	2		0		38	0	8
+Naimuir Rahman	0	82.18	19.52	47	27	6	2	182.2	488	11	72
+Karun Kaladharan Nair	0	0	23	39	2		0		46	0	133
+Najaf Shah	0	0	0	0	1	1	0	10	0	0	22
+Najeeb Amar	0	57.33	12.67	21	4	3	1	40	38	3	115
+Najeeb Tarakai	0	0	5	5	1		0		5	0	77
+Najibullah Zadran	0	0	27.23	89*	47	0	7	5	1089	0	13
+Parbhu G Nana	0	116	9	8*	3	4	2	28.5	9	1	52
+Dirk P Nannes	0	20	1	1	1	1	0	7	1	1	137
+Alei Nao	0	33.46	42.5	46	10	8	8	93.1	85	13	29
+Sunil Philip Narine	0	26.47	11	36	45	35	12	590	363	92	114
+Naseer Malik	0	19.6	0	0*	1	5	1	30	0	5	70
+Brendan P Nash	0	44.8	26	39*	7	3	3	49	104	5	16
+Dion J Nash	0	40.97	15.6	42	53	37	13	569.2	624	64	125
+Nasim-Ul-Ghani	0	0	1	1	1		0		1	0	46
+Nasir Ahmed	0	0	12.5	11	4		2		25	0	91
+Nasir Aziz	0	85.67	27.33	60	3	1	0	44	82	3	37
+Nasir Hameed	0	0	0	0	1		0		0	0	144
+Nasir Hossain	1	41.17	29.11	100	52	4	8	209.2	1281	24	57
+Nasir Jamal Ahmadzai	0	0	27.08	53	14	0	1	1	352	0	6
+Nasir Jamshed	3	0	31.51	112	48		3	13	1418	0	71
+Nasir Javed	0	0	0	2*	1		1		2	0	132
+Naumanullah	0	0	5	5	1		0		5	0	25
+Naved Anjum	0	43	12.56	30	12	2	3	78.4	113	8	111
+Naved Latif	1	0	23.82	113	11	0	0	8	262	0	79
+Naved-ul-Hasan	0	29.28	15.88	33	51	25	18	577.4	524	110	15
+Naveen -ul-Haq	0	55.5	0	0*	1	0	1	18.2	0	2	124
+Mohamed N Nawaz	0	0	15.5	15*	3		1		31	0	49
+Nawroz Mangal	2	29.38	27.12	129	48	3	6	48.5	1139	8	97
+Surendra V Nayak	0	161	3	3	1	4	0	37	3	1	38
+H G Dharshana Nayanakanatha	0	41.5	3	2*	2	2	1	15.5	3	2	146
+Abhishek M Nayar	0	0	0	0*	1	0	1	3	0	0	61
+Mohammed Nazimuddin	0	0	13.36	47	11		0	1	147	0	8
+Nazmul Hossain	0	31.5	4.38	6*	21	23	13	274.5	35	44	52
+Nazmul Hossain Shanto	0	0	6.67	7	3		0	1	20	0	138
+Nazmul Islam	0	44.8	7	7	1	0	0	44	7	5	31
+Njabulo Ncube	0	23	0	0*	1	1	1	8.5	0	3	115
+James Douglas Sheahan Neesham	0	34.59	30.76	74	42	2	9	240.5	1015	44	69
+Neeyamur Rashid	0	66	5	4*	2	2	1	13	5	1	17
+Ashish Nehra	0	31.73	5.64	24	46	55	21	958.3	141	157	123
+Andre Nel	0	27.69	12.7	30*	22	58	12	633.3	127	106	43
+Johann D Nel	0	46.36	15.5	11*	10	10	8	121.4	31	14	94
+Michael Gertges Neser	0	60	4	6	2	1	0	16.4	8	2	37
+Tarun S Nethula	0	49.8	6	9*	3	3	1	44	12	5	141
+Christopher J Nevin	0	0	20.33	74	36		0	2	732	0	55
+Richard Ngarava	0	51.13	2.8	10	6	2	1	62.5	14	8	11
+Lungisani Ngidi	0	23.04	34	19*	6	9	5	107.4	34	26	76
+James O Ngoche	0	23.94	3.57	21*	10	11	3	117.2	25	17	133
+Shem O Ngoche	0	41.5	8.67	28	13	5	4	122.5	78	14	24
+Henry M Nicholls	1	0	35.48	124*	39		10	16	1029	0	112
+Robert J Nicol	2	32.9	30.84	146	21	1	2	56.3	586	10	78
+Ian A Nicolson	0	59	7	14	2	0	0	12	14	2	10
+Ruud G Nijman	0	10.33	0	0	0	0	0	8.1	0	3	58
+Ratnayake A P Nissanka	0	31.74	6.63	11	13	6	5	166.1	53	27	139
+Paul A Nixon	0	0	21.21	49	18		4		297	0	20
+Nizakat Khan	0	29.75	33.75	94	20	1	0	24.1	675	4	108
+Mluleki L Nkala	0	71.36	10.8	47	35	8	5	263.4	324	22	69
+Ashley A Noffke	0	46	0	0	0	0	0	9	0	1	15
+Noor Ali Zadran	1	0	25.89	114	45		1	15	1139	0	126
+Noor-ul-Haq	0	0	6	12	2		0	1	12	0	47
+Marcus J North	0	0	3	5	2	0	0	3	6	0	92
+Makhaya Ntini	0	24.66	8.65	42*	47	123	24	1447.5	199	266	36
+Ashley Renaldo Nurse	0	43.26	19.52	44	36	6	13	351.4	449	42	143
+Nurul Abedin	0	0	3.75	13	4		0		15	0	61
+Nurul Hasan	0	0	34	44	2		0		68	0	8
+John Nyumbu	0	43.41	4.6	18	14	3	4	140.4	46	17	69
+Alex A Obanda	0	0	30.37	96*	45		2	15	1306	0	131
+George H O'Brien	0	27	5.43	16	7	3	0	76	38	15	21
+Iain E O'Brien	0	34.86	0	3*	2	3	2	75.3	3	14	114
+Kevin Joseph O'Brien	2	31.93	30.89	142	118	29	15	681.3	3182	112	75
+Niall John O'Brien	1	0	28.05	109	101		9	9	2581	0	13
+Collins O Obuya	0	46.77	25.55	98*	89	8	9	303	2044	35	56
+David O Obuya	0	0	19.36	93	73		3	17	1355	0	142
+Shayne B O'Connor	0	30.35	3.43	8	13	10	6	247.5	24	46	27
+Nelson M Odhiambo	0	28	4.6	17	5	6	0	47	23	8	116
+Nehemiah N Odhiambo	0	36.86	12.75	66	53	26	9	475	561	71	64
+Simon P O'Donnell	0	28.72	25.35	74*	64	49	15	725	1242	108	17
+Thomas M Odoyo	1	29.9	23.5	111*	119	77	16	941.3	2420	145	128
+Edward O Odumbe	0	22.83	10.17	20	7	1	1	22.5	61	6	44
+Maurice O Odumbe	0	46.33	26.09	83	59	21	5	372.5	1409	39	97
+Naman V Ojha	0	0	1	1	1		0		1	0	38
+Pragyan P Ojha	0	31.05	23	16*	10	5	8	146	46	21	141
+Kerry J O'Keeffe	0	39.5	16	16*	2	3	1	22	16	2	58
+Christopher Middleton Old	0	22.2	18.78	51*	25	42	7	279.3	338	45	8
+Duanne Olivier	0	41.33	0	0	0	0	0	19	0	3	74
+Henry K Olonga	0	34.09	7.31	31	27	13	14	343.1	95	58	133
+Lucas  Oluoch	0	15.8	6	5*	2	1	1	16	6	5	20
+Ali H Omarshah	0	45.11	16.81	60*	28	13	2	179.3	437	18	112
+Peter J Ongondo	0	30.13	8.84	36	62	51	18	517	389	78	70
+Graham Onions	0	46.25	1	1	1	1	0	34	1	4	15
+Justin L Ontong	0	44	13.14	32	16	3	2	89.4	184	9	50
+Lamech N Onyango	0	37.73	13.09	34*	18	9	7	165.5	144	26	140
+Antony R M Opatha	0	36	9.67	18	3	1	0	42.1	29	5	23
+Jacob D P Oram	1	29.17	24.1	101*	116	93	15	1151.5	2434	173	107
+Henry Osinde	0	30.87	4.27	21*	28	25	13	282	64	45	78
+David R O'Sullivan	0	61.5	2	1*	2	2	1	21	2	2	17
+Elijah Otieno	0	42.14	4.9	11	17	6	7	159	49	22	125
+Francis N Otieno	0	0	4	8	4	0	0	1	16	0	41
+Kennedy O Otieno	2	0	23.44	144	87	0	1	1	2016	0	95
+Maurice A Ouma	0	0	20.85	61	77		5	5	1501	0	37
+Steven D Outerbridge	0	94	14.7	56	23	2	0	20	338	1	142
+Craig Overton	0	0	0	0	0	0	0	7	0	0	60
+Michael B Owens	0	0	0	0	1	0	0	8	0	0	11
+Timothy David Paine	1	0	27.81	111	35		3		890	0	67
+Steven J Palframan	0	0	13.75	28	4		0		55	0	133
+Mangesh Panchel	0	0	0	0	0	1	0	5	0	0	30
+Gyanendrakumar K Pandey	0	0	4	4*	2	1	1	13	4	0	116
+Manish Krishnanand Pandey	1	0	36.67	104*	18		6	5	440	0	75
+Chandrakant S Pandit	0	0	20.71	33*	23		9		290	0	14
+Hardik H Pandya	0	39.73	29.24	83	29	4	4	315.4	731	44	59
+Mudhsuden S Panesar	0	40.83	5.2	13	8	10	3	218	26	24	141
+Pankaj Singh	0	0	0	3*	1	0	1	7	3	0	26
+Rishabh Rajendra Pant	0	0	20.5	24	2		0	3	41	0	108
+Tinashe Panyangara	0	46.52	6.64	33	49	42	13	540.2	239	65	72
+Michael H W Papps	0	0	51.75	92*	6		2	1	207	0	17
+Jatin V Paranjpe	0	0	18	27	4		1	2	54	0	127
+Brenton A Parchment	0	0	17.43	48	7		0		122	0	49
+Joel S Paris	0	93	0	0	0	0	0	16	0	1	90
+Ghulam A Parkar	0	0	18.33	42	10		1	4	165	0	37
+John M Parker	0	10	12.4	66	20	0	0	2	248	1	143
+Matthew A Parker	0	27.25	9.83	22	8	6	2	69	59	12	56
+Norman M Parker	0	0	0	0	1		0	1	0	0	9
+Wayne Dillon Parnell	0	29.13	21.17	56	38	20	14	485.1	508	94	71
+Adam C Parore	1	0	25.69	108	161		32	5	3314	0	138
+Derek R Parry	0	23.55	15.25	32	5	2	1	55	61	11	22
+Stephen D Parry	0	23	0	0	0	2	0	19	0	4	105
+Parvez Ghulam Rasool Zargar	0	30	0	0	0	0	0	10	0	2	80
+Nelon T Pascal	0	0	0	0	1	0	0	4	0	0	13
+Leonard S Pascoe	0	20.11	9.75	15*	11	21	7	261.2	39	53	61
+Sudath P Pasqual	0	0	24	23*	2	0	1	4.4	24	0	136
+Ashish Patel	0	24.33	25	25	1	0	0	10	25	3	27
+Ashok K Patel	0	37.57	3	6	2	4	0	60	6	7	117
+Axar Rajeshbhai Patel	0	31.31	12.93	38	20	13	6	318	181	45	68
+Brijal J Patel	0	40.75	16.36	44	25	0	3	27.3	360	4	16
+Brijesh P Patel	0	0	30.38	82	9		1	1	243	0	129
+Dipak N Patel	0	50.24	11.75	71	63	30	10	541.5	623	45	47
+Hiral Patel	0	35.3	21.27	62	23	3	1	68.1	468	10	92
+Jitendra M Patel	0	0	1	2	3	0	0	15.1	3	0	38
+Jeetan S Patel	0	34.51	13.57	34	15	9	8	335.4	95	49	145
+Kalpesh A  Patel	0	0	1	1*	2	1	1	5	1	0	58
+Malhar L Patel	0	0	13.33	25	3		0		40	0	7
+Munaf M Patel	0	30.27	6.73	15	27	38	16	525.4	74	86	74
+Pathiv A Patel	0	0	23.74	95	34		3		736	0	133
+Rashid G M Patel	0	0	0	0	0	1	0	10	0	0	28
+Rakeep R Patel	0	67.5	20.03	92	35	0	4	28	621	2	114
+Samit R Patel	0	45.46	32.13	70*	22	4	7	197.5	482	24	76
+Dane Paterson	0	54.25	0	0	0	1	0	34.5	0	4	10
+Grant A Paterson	0	0	12.3	27	10		0	2	123	0	55
+Irfan K Pathan	0	29.72	23.39	83	87	51	21	975.5	1544	173	140
+Rayyankhan Pathan	0	25	2	2	1	0	0	6	2	2	21
+Yusuf K Pathan	2	41.36	27	123*	41	3	11	248.2	810	33	106
+Sachith Shanaka Pathirana	0	48	25.54	56	14	2	1	127.3	332	15	79
+Sandeep M Patil	0	39.27	24.51	84	42	9	1	144	1005	15	15
+Swapnil P Patil	0	0	26.3	99*	12		2		263	0	124
+Jason Patraj	0	38	10.5	20	2	0	0	15	21	2	43
+Bruce M W Patterson	0	0	3.33	10	3		0		10	0	94
+Balfour P Patterson	0	24.51	8.8	13*	20	37	15	508.2	44	90	39
+James L Pattinson	0	42.56	10.5	13	8	6	4	121.1	42	16	146
+Rohit Kumar Paudel	0	0	21.5	55	4		0	2	86	0	59
+Keemo Mandela Angus Paul	0	45.27	16.43	36	9	1	2	84.4	115	11	8
+Thelston R O Payne	0	0	31.5	60	4		0	4	126	0	70
+Stephen G Peall	0	84.75	6.5	21	15	5	1	150	91	8	132
+Gerald E Peckover	0	0	16.5	16*	3		1		33	0	25
+Andrew J Penn	0	201	11.5	15	3	1	1	26.3	23	1	111
+Angelo Kanishka Perera	0	0	4	7	2	0	0	4	8	0	77
+Kahawalage G Perera	0	0	0	0	0	0	0	2	0	0	16
+Mahawaduge Dilruwan Kamalaneth Perera	0	31.46	12.67	30	12	2	0	76	152	13	121
+Mathurage Don Kusal Janith Perera	4	0	29.5	135	81	0	5	3	2242	0	46
+Narangoda Liyanaarachchilage Thisara Chirantha Perera	1	31.2	21.12	140	115	25	16	872.4	2091	165	98
+Panagodage D R L Perera	0	43.16	1.6	4*	7	11	2	148	8	19	40
+Suresh A Perera	0	40.15	17.73	56*	13	2	2	96.3	195	13	143
+Veerasammy Permaul	0	33.88	6.33	10	4	0	1	55.1	19	8	58
+Nehemiah O Perry	0	39.15	26.5	52*	16	2	8	157.4	212	20	9
+Pervez Mir	0	25.67	13	18	3	2	1	19	26	3	76
+Alviro N Petersen	0	0	28	80	19	0	1	1	504	0	134
+Robin J Peterson	0	35.73	20.59	68	41	15	14	546.2	556	75	20
+Mark J Petrie	0	0	1.5	3	2		0		3	0	116
+Richard G Petrie	0	37.42	13	21	8	7	3	110	65	12	79
+Aaron M Phangiso	0	33.16	7.36	20	13	6	2	180.5	81	25	13
+Andile Lucky Phehlukwayo	0	29.23	31.33	69*	23	13	11	269	376	52	51
+Vernon D Philander	0	24.05	12.58	30*	19	20	7	213.1	151	41	137
+Iain L Philip	0	0	6.67	17	3		0	4	20	0	32
+Norbert Phillip	0	22	0	0	1	0	0	7	0	1	105
+Wayne B Phillips	0	0	24.34	75*	41		6		852	0	69
+Hemal S M Pieris	0	67.5	9.5	16	3	0	1	22	19	2	16
+Kevin P Pietersen	9	52.86	40.73	130	125	0	16	65.5	4440	7	126
+Arthur D J Pitcher	0	0	6.67	12	3	0	0	13.1	20	0	49
+Azeem R Pitcher	0	0	9	30	4		0	1	36	0	93
+Oliver L Pitcher	0	0	14.4	30	5	0	0	2.3	72	0	38
+Liam Edward Plunkett	0	30.66	19.47	56	45	14	15	604.3	584	116	144
+Patrick I Pocock	0	0	4	4	1	1	0	10	4	0	59
+Nosaina Pokana	0	0	2.25	5	4	2	0	32.2	9	0	7
+Keiron A Pollard	3	39.12	25.72	119	95	4	6	340.4	2289	50	75
+Victor Pollard	0	0	33.5	55	2		0	1	67	0	134
+Shaun M Pollock	1	24.51	26.46	130	205	313	72	2618.4	3519	393	23
+Ricky Thomas Ponting	30	34.67	42.04	164	365	0	39	25	13704	3	112
+Riaz H Poonawala	0	0	22	22	2		0	1	44	0	77
+Navdeep S Poonia	0	0	11.29	67	21		0	7	237	0	14
+Nicholas Pooran	0	0	0	0	1		0	1	0	0	54
+Graeme D Porter	0	11	3	3	1	5	0	18	3	3	138
+William Thomas Stuart Porterfield	11	0	31.55	139	121		3	59	3723	0	30
+Nic Pothas	0	0	24	24	1		0		24	0	115
+Ramesh R Powar	0	35.03	11.64	54	19	6	5	256	163	34	71
+Daren B Powell	0	31.54	5.36	48*	25	33	3	475	118	71	12
+Kieran Omar Akeem Powell	0	0	21.77	83	44		0	14	958	0	61
+Rovman Powell	1	81	23.93	101	31	0	3	40.5	670	3	136
+Ricardo L Powell	1	44.64	24.82	124	100	3	16	78.5	2085	11	19
+Andrew D Poynter	0	0	19.62	78	16		3	9	255	0	109
+Stuart W Poynter	0	0	14.75	36	16		4	3	177	0	80
+Manoj M Prabhakar	2	28.88	24.13	106	98	76	21	1060	1858	157	17
+Aththachchi Nuwan Pradeep Roshan Fernando	0	41.87	5.4	7	15	13	10	259.2	27	38	123
+Bapu Krishnarao Venkatesh Prasad	0	32.31	6.91	19	63	79	31	1354.5	221	196	47
+Kariyawasam Tirana Gamage Dhammika Prasad	0	30.5	21.5	31*	12	4	6	169.1	129	32	92
+Mannava S K Prasad	0	0	14.56	63	11		2		131	0	37
+Seekkuge Prasanna	0	55.22	12.38	95	37	9	3	324.1	421	32	143
+Dwaine Pretorius	0	26.75	16.83	50	7	5	1	134.2	101	24	56
+Raymond William Price	0	35.75	9.67	46	59	75	17	895.4	406	100	9
+Mark W Priest	0	73.75	10.3	24	14	5	4	125.2	103	8	74
+Ashwell Gavin Prince	0	0	35.1	89*	41	0	12	2	1018	0	131
+Christopher Pringle	0	23.87	8.77	34*	41	36	19	552.2	193	103	28
+Donald J Pringle	0	0	2.5	3	2	0	0	15	5	0	113
+Derek Raymond Pringle	0	38.11	23.61	49*	30	53	12	396.3	425	44	82
+Meyrick W Pringle	0	27.45	9.6	13*	8	12	3	145	48	22	11
+Matthew J Prior	0	0	24.19	87	62		9	2	1282	0	57
+Subasinghe Mudiyanselage Ashan Priyanjan	0	46.6	23.33	74	20	1	2	44.1	420	5	142
+Cheteshwar Arvind Pujara	0	0	10.2	27	5		0		51	0	22
+Yodhin Punja	0	0	1	1	1	0	0	6	1	0	107
+Karuppiahyage Ravindra Pushpakumara	0	49.21	9	14*	9	9	5	238.2	36	24	69
+Muthumudalige Pushpakumara	0	0	0	7*	1	0	1	5	7	0	16
+Pawuluge Malinda Pushpakumara	0	105	5.5	8	2	0	0	19	11	1	129
+Andrew G Puttick	0	0	0	0	1		0	1	0	0	42
+Andrew J Pycroft	0	0	17.35	61	19		2	6	295	0	97
+Milton R Pydanna	0	0	0	2*	1		1		2	0	39
+Qadeer Ahmed	0	58.67	3	4	4	1	2	65	6	6	147
+Qaiser Ali	0	26.4	15.25	70	17	0	1	30.2	244	5	59
+Qasim Omar	0	0	22.93	69	31		3	3	642	0	8
+Kagiso Rabada	0	26.97	15.23	26	23	34	10	528.1	198	98	72
+Carl Grau Rackemann	0	22.35	2.83	9*	18	51	6	465.1	34	82	134
+Neal V Radford	0	115	0	0*	3	4	2	58	0	2	21
+Clive T Radley	1	0	83.33	117*	4		1		250	0	112
+Raees Ahmadzai	0	0	29.33	39	4	0	1	4	88	0	74
+Rafiqul Alam	0	0	12	14	2		0		24	0	14
+Rafiqul Islam	0	0	0	0	1		0		0	0	60
+Rahat Ali	0	36.56	2.67	6*	7	1	4	113.1	8	18	140
+Rahmat Shah	3	34.17	36.51	114	51	2	2	69.2	1789	12	27
+Pipi Raho	0	16	0	0	0	0	0	7.3	0	2	116
+Kannaur Lokesh Rahul	1	0	35.22	100*	12		3	6	317	0	63
+Suresh Kumar Raina	5	50.31	35.31	116*	194	5	35	354.2	5615	36	17
+Edward C Rainsford	0	31.09	5.5	9*	23	33	13	317.5	55	45	123
+Lallit Narayan Rajbanshi	0	0	0	3*	2	0	2	7	5	0	43
+Rajin Saleh	1	30.6	23.93	108*	43	1	1	89.5	1005	15	91
+Chandrasekara Arachchilage Kasun Rajitha	0	46	0	0	0	0	0	15.5	0	2	36
+Lalchand S Rajput	0	0	3	8	4	0	1	7	9	0	145
+Sagi Lakshmi Venkatapathy Raju	0	31.97	4	8	16	16	8	461.4	32	63	56
+Woorkeri V Raman	1	85	23.73	114	27	2	1	27	617	2	9
+Champaka P H Ramanayake	0	30.13	10	26	35	43	14	477.2	210	68	74
+Ryan Ramdass	0	0	1	1	1		0		1	0	132
+Denesh Ramdin	2	0	25	169	110		22		2200	0	26
+Rameez Shahzad	2	0	53.15	121*	15	0	2	2	691	0	116
+Sadagopan Ramesh	0	38	28.09	82	24	0	1	6	646	1	79
+Ramiz Raja	9	0	32.09	119*	197	0	15	1	5841	0	14
+Dinanath Ramnarine	0	54.67	1.67	2	3	2	0	33.2	5	3	51
+Ravindranath Rampaul	0	29.35	12.48	86*	40	33	11	672.1	362	117	136
+Mark R Ramprakash	0	27	26.86	51	18	0	4	22	376	4	30
+Darren R Ramsammy	0	0	0	0	1		0		0	0	112
+Ramveer Rai	0	0	39	39	1		0		39	0	81
+Anura N Ranasinghe	0	140.5	21.86	51	8	3	1	54	153	2	17
+Sirimewan K Ranasinghe	0	32	18.33	41	3	0	0	21	55	3	124
+Arjuna Ranatunga	4	47.56	35.85	131*	255	21	47	785	7456	79	47
+Dammika Ranatunga	0	0	12.25	25	4		0	1	49	0	93
+Nishantha Ranatunga	0	82	0	0	1	0	0	17	0	1	40
+Sanjeeva Ranatunga	0	0	23	70	11		0	2	253	0	142
+Seth Hayden Arnold Rance	0	110	0	0	0	1	0	17.3	0	1	59
+Ujesh Ranchod	0	130	0	3*	1	3	1	29	3	1	8
+Derek W Randall	0	2	26.68	88	45	0	5	0.2	1067	1	71
+Randhir Singh	0	48	0	0	0	0	0	12	0	1	133
+Hewa Kaluhalamullage Suraj Randiv Kaluhalamulla	0	33.72	17.5	56	18	5	2	239.3	280	36	22
+William Boyd Rankin	0	27.53	6.27	18*	27	39	16	507.1	69	87	111
+Mohammad Raqibul Hasan	0	0	27.83	89	54		7	18	1308	0	77
+Raqibul Hasan	0	0	8.5	12	2	0	0	0.1	17	0	16
+Adil Usman Rashid	0	29.74	19.59	69	36	6	9	681.4	529	128	126
+Rashid Khan	0	14.61	22.16	60*	39	25	8	447.1	687	119	45
+Rashid Khan	0	46.15	13.75	17	15	33	7	235.4	110	20	94
+Rashid Latif	0	0	19.42	79	117		29		1709	0	39
+Rashid Zia	0	0	4.5	8	2	1	0	9.5	9	0	145
+Vikram S Rathore	0	0	27.57	54	7		0	4	193	0	60
+Nilantha L K Ratnayake	0	49	0	0	0	0	0	16.5	0	2	9
+Rumesh Joseph Ratnayake	0	36.16	16.54	33*	55	35	18	595.5	612	75	70
+Joseph Ravindran Ratnayeke	0	33.33	14.98	50	69	25	14	595.3	824	86	132
+Ajay Ratra	0	0	12.86	30	8		1		90	0	28
+Sanjay S Raul	0	27	4	8	2	1	0	6	8	1	114
+Damien Apa Ravu	0	0	2	5	4	0	1	25	6	0	78
+Peter W E Rawson	0	35.58	16	24*	8	10	3	95.1	80	12	14
+Ambati T Rayudu	3	41.33	49.24	124*	48	1	14	20.1	1674	3	56
+Raza Hasan	0	68	0	0	1	0	0	10	0	1	138
+Raza-ur-Rehman	0	128	45	88	5	1	0	20.2	225	1	31
+Vivek Razdan	0	77	11.5	18	3	0	1	14	23	1	107
+Christopher Mark Wells Read	0	0	17.65	30*	24		7		300	0	69
+Bharat Reddy	0	0	0	8*	2		2		11	0	11
+Aaron J Redmond	0	0	25.33	52	6		0	3	152	0	67
+Rodney E Redmond	0	0	3	3	1		0		3	0	135
+Ian R Redpath	0	0	9.2	24	5		0	2	46	0	24
+Darren J Reekers	1	33.54	25.32	104	19	5	0	85	481	13	116
+Dermot A Reeve	0	41	24.25	35	21	15	9	191.1	291	20	75
+Basant Regmi	0	29.25	3.25	12	4	0	0	29	13	4	13
+Bruce A Reid	0	34.97	3.77	10	21	53	8	541.4	49	63	54
+Charles A Reid	0	63	4	6	2	0	0	13	8	1	131
+John F Reid	0	0	27.52	88	24		1	5	633	0	19
+Richard B Reid	0	13	27.56	64	9	0	0	1.1	248	1	109
+Floyd L Reifer	0	0	14.63	40	8		0	3	117	0	83
+Paul R Reiffel	0	29.21	13.97	58	57	83	21	788.4	503	106	16
+Gavin J Rennie	0	70	20.48	76	38	1	7	30	635	2	127
+John A Rennie	0	44.09	12.2	27	26	15	11	312.3	183	34	48
+John B Reva	0	27.46	10.33	36	7	1	1	67.3	62	13	95
+Jonathan N Rhodes	2	0	35.12	121	220	0	51	2.2	5935	0	40
+Steven John Rhodes	0	0	17.83	56	8		2		107	0	142
+Clive E B Rice	0	57	13	14	2	0	0	23	26	2	63
+Austin C L Richards	0	0	2	2	1		0	1	2	0	7
+Clifton J Richards	0	0	11.85	50	16		3		154	0	72
+Dale M Richards	0	0	25.57	59	7		0	5	179	0	130
+Isaac Vivian Alexander Richards	11	35.83	47	189*	167	26	24	940	6721	118	25
+David J Richardson	0	0	19.73	53	77		33		868	0	115
+Edward J Richardson	0	27	12	12	1	0	0	11	12	2	78
+Jhye Avon Richardson	0	29.46	9.75	16	5	5	1	67	39	13	14
+Kane W Richardson	0	31.63	9	19	8	10	3	155.5	45	27	57
+Mark H Richardson	0	0	10.5	26	4		0	1	42	0	136
+Richard B Richardson	5	46	33.41	122	217	0	30	9.4	6248	1	29
+Michael J R Rindel	1	40.33	27.38	106	22	0	1	45	575	6	112
+Emmanuel B Ringera	0	0	0	0	0	4	0	10	0	0	83
+Harry P Rinke	0	34.13	17.72	72	18	2	0	46.1	319	8	11
+Michael J Rippon	0	16.7	23.67	51	4	4	1	42	71	10	66
+Gregory Michael Ritchie	0	0	27.4	84	42		7	9	959	0	134
+Stephen J Rixon	0	0	13.33	20*	6		3		40	0	18
+Chundangapoyil Puthiyapurayil Rizwan	0	0	30.5	45	2	0	0	0.4	61	0	107
+Rizwan Ahmed	0	0	0	0	0	0	0	4	0	0	69
+Rizwan Cheema	0	34.19	24.65	94	32	11	1	221.4	764	32	15
+Rizwan Latif	0	34.5	0	0	1	0	0	9	0	2	123
+Rizwan-Uz-Zaman	0	0	6.67	14	3		0	2	20	0	46
+Kemar A J Roach	0	29.05	13.8	34	52	47	32	661.1	276	114	91
+Andrew D G Roberts	0	30	16	16	1	0	0	7	16	1	36
+Anderson M E Roberts	0	20.36	10.04	37*	32	76	9	519.1	231	87	146
+Stuart J Roberts	0	0	0	1*	1	0	1	7	1	0	58
+Gary K Robertson	0	53.5	8.17	17	6	8	0	83	49	6	9
+Gavin R Robertson	0	53.75	15	15	7	1	4	99.3	45	8	74
+Jacobi Robinson	0	171	13.5	17	2	0	0	23	27	1	135
+Richard D Robinson	0	0	41	70	2		0		82	0	21
+Robert T Robinson	0	0	22.96	83	26		0	6	597	0	113
+Robiul Islam	0	58.5	0	0*	1	1	1	22.1	0	2	78
+Liam Nicholas Roche	0	78.5	2	4	2	1	0	23	4	2	17
+Barney G Rogers	0	53.5	31.87	84	15	0	0	54	478	6	53
+Glenn A Rogers	0	51.13	16.2	26	8	5	3	85.2	81	8	141
+Rohan Mustafa	1	35.29	23.78	109	27	12	0	210.3	642	28	27
+Rokhan Barakzai	0	22.5	0	0	0	1	0	10	0	2	108
+Tobias Skelton Roland-Jones	0	34	0	37*	1	2	1	7	37	1	70
+Irvine H Romaine	1	35.5	25.26	101	34	0	3	54.2	783	10	16
+Leon C Romero	0	52	0.5	1	2	0	0	4	1	1	125
+Luke Ronchi	1	0	23.68	170*	68		9		1397	0	47
+Graham R J Roope	0	0	21.63	44	8		0	2	173	0	96
+Joseph Edward Root	14	64.95	50.9	133*	119	2	19	223.4	5090	20	38
+Brian C Rose	0	0	49.5	54	2		0	1	99	0	147
+Franklyn A Rose	0	36.07	12.06	30	23	13	5	221	217	29	61
+Rilee Roscoe Rossouw	3	44	38.72	132	35	0	3	7.3	1239	1	8
+Lawrence G Rowe	0	0	17	60	8		0	2	136	0	73
+Jason Jonathan Roy	7	0	38.57	180	71		2	29	2661	0	135
+Rubel Hossain	0	32.84	4.73	17	49	25	23	713.4	123	122	20
+Jacobus A Rudolph	0	0	35.58	81	39	0	6	4	1174	0	113
+Rumman Raees	0	33.14	9	16	4	2	1	77.1	27	14	69
+David B Rundle	0	19	3	6	2	0	0	16	6	5	12
+Mark W Rushmere	0	0	19.5	35	4		0	1	78	0	57
+Andre Dwayne Russell	0	32.74	28.51	92*	44	13	9	362.4	998	65	138
+Robert Charles Russell	0	0	17.63	50	31		7		423	0	30
+Hamish D Rutherford	0	0	3.75	11	4		0	2	15	0	115
+Kenneth Robert Rutherford	2	32.3	29.65	108	115	0	9	64.5	3143	10	64
+Jesse Daniel Ryder	3	34.33	33.22	107	42	0	1	67.5	1362	12	18
+Hafiz Saad Nasim	0	0	49.5	77*	3	0	1	6	99	0	124
+Saadat Ali	0	14.5	30.67	78*	7	0	1	4.3	184	2	49
+Sabbir Rahman	1	104.33	26.35	102	51	0	5	46.2	1212	3	94
+Sadiq Mohammad	0	13	21.28	74	19	1	1	6.2	383	2	36
+Saeed Ajmal	0	22.4	7.04	33	70	50	24	990.3	324	184	143
+Saeed Anwar	20	31.83	39.22	194	244	3	19	40.2	8824	6	58
+Saeed Azad	0	0	16.25	31	4		0	2	65	0	9
+Saeed-Al-Saffar	0	0	0	0	0	0	0	3	0	0	69
+Sagar Pun	0	0	3	3	1		0		3	0	131
+Anil K Sah	0	0	12.5	21	2		0		25	0	26
+Wriddhiman Prasanta Saha	0	0	13.67	16	5		2		41	0	115
+Saiful Islam	0	42.67	18.5	22*	4	3	2	50.3	37	6	72
+Sajid Ali	0	0	10.83	28	12		0	1	130	0	13
+Sajjad Ahmed	0	0	7.5	11	2		0		15	0	62
+Sajjad Akbar	0	22.5	5	5	1	1	0	10	5	2	140
+Salahuddin Ahmed	0	62.25	12	12	5	0	3	41	24	4	21
+Saleem Altaf	0	30.2	25	21	2	2	1	41.1	25	5	110
+Saleem Elahi	4	0	36.72	135	47	0	4	1	1579	0	77
+Saleem Malik	5	33.25	32.89	102	256	10	38	583.1	7170	89	15
+Saleem Pervez	0	0	18	18	1		0		18	0	122
+Saleem Raza	0	59.67	26.5	84	6	2	0	32	159	3	44
+Saleem Yousuf	0	0	17.86	62	62		19		768	0	92
+Salim Jaffer	0	34.55	18	10*	13	18	11	316.4	36	40	36
+Ian D K Salisbury	0	35.4	7	5	2	1	1	31	7	5	143
+Salman Butt	8	0	36.82	136	78	0	4	11.3	2725	0	59
+Salman Faris	0	0	14.33	27	3		0		43	0	8
+Salman Farooq	0	0	0	0	0	0	0	6	0	0	70
+George Salmond	0	0	11.4	31	5		0	1	57	0	132
+Aavishkar M Salvi	0	30	2	4*	3	3	1	28.4	4	4	25
+Abdool M Samad	1	40.14	29.52	130	27	0	2	39.1	738	7	113
+Johanne A Samarasekera	0	59	31	47*	6	4	2	49	124	4	79
+Maitipage Athula Rohitha Samarasekera	0	0	22.81	76	39	3	2	56.2	844	0	13
+Dulip Prasamma Samaraweera	0	0	22.75	49	4		0	3	91	0	55
+Thilan Thusara Samaraweera	2	49.27	27.81	105*	42	2	11	117	862	11	139
+Wedagedara Sadeera Rashen Samarawickrama	0	0	22	54	6		0	1	132	0	31
+Sameer Zia	0	44	0	2*	1	0	1	10	2	1	109
+Sami Aslam	0	0	19.5	45	4		0		78	0	74
+Samiullah Khan	0	0	0	0	0	0	0	20	0	0	17
+Samiullah Shenwari	0	37.23	29.37	96	69	10	10	333.5	1733	44	126
+Samiur Rahman	0	0	2	4	2	1	0	10	4	0	48
+Darren J G Sammy	0	47.54	24.95	89	105	41	30	826	1871	81	91
+Marlon Nathaniel Samuels	10	46.37	32.98	133*	196	23	26	848.3	5606	89	38
+Robert G Samuels	0	0	18	36*	5		2	1	54	0	143
+Paththamperuma Arachchige Don Lakshan Rangika Sandakan	0	53.71	4.67	6	10	0	4	140.2	28	17	59
+Kevin T Sandher	0	31.61	6	12	10	5	4	116	36	18	8
+Balwinder S Sandhu	0	47.69	12.75	16*	7	15	3	185	51	16	76
+Gurinder S Sandhu	0	35.67	0	0	0	0	0	20	0	3	134
+Kumar C Sangakkara	25	0	41.99	169	380		41	19	14234	0	23
+Rahul L Sanghvi	0	39.9	4	8	2	1	0	83	8	10	115
+Mitchell Josef Santner	0	34.19	27.53	67	46	8	16	446.1	826	64	77
+Sanwar Hossain	0	32.7	11.6	52	27	1	2	63.5	290	10	16
+Saqib Ali	0	57	21	25*	5	0	1	10	84	1	51
+Saqlain Haider	0	0	14.5	28	4		0		58	0	137
+Saqlain Mushtaq	0	21.79	11.85	37*	98	66	38	1461.4	711	288	29
+Sarandeep Singh	0	60	15.67	19	4	1	1	43	47	3	111
+Sarfraz Ahmed	2	0	32.92	105	76	0	17	2	1942	0	80
+Sarfraz Nawaz	0	23.22	9.61	34*	31	49	8	395.4	221	63	14
+Pawan Sarraf	0	0	6	8	2		0		12	0	63
+Ramnaresh R Sarwan	5	36.63	42.68	120*	169	3	33	96.5	5804	16	141
+Abdur F Sattaur	0	0	6.67	13	3		0	2	20	0	26
+Sayed Ahmad Shirzad	0	0	0	0	0		0		0	0	110
+Marcelis M C Schewe	0	0	16.33	20	4		1		49	0	71
+Edgar Schiferli	0	31.5	10.06	41	22	16	6	215.4	161	32	12
+Reiout H Scholte	0	0	7.8	12	5		0		39	0	58
+Brett N Schultz	0	35	0	0	0	1	0	9	0	1	136
+Glenroy R Sealy	0	0	24.33	45	3	0	0	6	73	0	19
+Barry B Seebaran	0	130	4	4*	3	0	2	18	4	1	108
+Peter M Seelaar	0	29.77	9.62	34*	23	14	10	299.5	125	47	79
+Surendra Seeraj	0	0	0	13*	1		1		13	0	15
+Virender Sehwag	15	40.14	35.06	219	245	13	9	732	8273	96	124
+Tim Louis Seifert	0	0	16.5	22	2		0		33	0	47
+Thirumalai A P Sekar	0	25.6	0	0	0	0	0	26	0	5	93
+Keith F Semple	0	40.33	10.67	23	6	0	0	22	64	3	38
+Charith P Senanayake	0	0	18	27	7		0	2	126	0	142
+Senanayake Mudiyanselage Sachithra Madhushanka Senanayake	0	35.36	13.18	42	33	11	11	393	290	53	58
+Craig S Serjeant	0	0	24.33	46	3		0	1	73	0	7
+Ramesh K Sethi	0	100	18	30	3	1	0	20	54	1	73
+Shabbir Ahmed	0	36.12	1.67	2	11	26	5	273.4	10	33	135
+Shabir Noori	0	0	19.1	94	10		0	6	191	0	22
+Shadab Kabir	0	0	0	0	3		0	1	0	0	114
+Shadab Khan	0	27.74	29.4	54	16	6	6	271.1	294	47	76
+Shafiq Ahmed	0	0	13.67	29	3		0	1	41	0	14
+Shafiqullah	0	0	22.63	56	21		2	3	430	0	55
+Shafiuddin Ahmed	0	38.73	5.5	11	10	3	6	82.3	22	11	138
+Shafiul Islam	0	36.41	6.3	24*	31	24	11	390.2	126	63	31
+Kinchit D Shah	0	11.43	15.11	34*	10	0	1	18.2	136	7	107
+Owais A Shah	1	26.29	30.57	107*	66	1	6	32.1	1834	7	82
+Ravindu D Shah	1	0	27.89	113	55	0	1	10	1506	0	13
+Shahadat Hossain	0	45.6	7.9	16*	27	18	17	366.2	79	47	63
+Shaheedur Rahman	0	0	31	37	2		0		62	0	132
+Shaheen Shah Afridi	0	19	15	14*	4	4	3	75.5	15	19	19
+Shahid Afridi	6	34.51	23.58	124	369	76	27	2945	8064	395	112
+Shahid Anwar	0	0	37	37	1		0		37	0	78
+Shahid Mahboob	0	54.57	23.8	77	6	8	1	90	119	7	17
+Shahid Nazir	0	34.16	25	8	8	6	7	135	25	19	125
+Shahid Saeed	0	53	14.1	50	10	1	0	37	141	3	45
+Shahid Wasif	0	0	11.57	45	7		0	2	81	0	94
+Shahriar Hossain	0	0	19.05	95	19		0	5	362	0	37
+Shahriar Nafees	4	0	31.44	123*	75		5	13	2201	0	144
+Shahzad Khan	0	0	4	4	1		0		4	0	61
+Shahzaib Hasan	0	0	33.33	50	3		0		100	0	9
+Shaiman Anwar	1	41.33	31.63	106	36	0	1	17.4	1107	3	72
+Shakeel Ahmed	0	0	30.5	36	2		0		61	0	133
+Shakeel Khan	0	50	0	0	1	0	0	9	0	1	25
+Shakib Al Hasan	7	29.69	35.08	134*	183	81	24	1649.5	5577	247	115
+Tabraiz Shamsi	0	36.41	0	0*	3	4	2	114.3	0	17	70
+Aftabodeen Shamsuden	0	0	3	3	1	0	0	3	3	0	16
+Shamsur Rahman	0	0	26.6	96	10	0	0	1	266	0	57
+Madagamagamage Dasun Shanaka	0	31.29	21.8	66	16	0	1	36	327	7	139
+Vijay Shankar	0	0	45	45	1	0	0	19	45	0	23
+James Norman Knight Shannon	0	0	2	2	1		0		2	0	109
+Shapoor Zadran	0	35.88	6.7	17	27	34	17	322.3	67	43	83
+Sharafuddin Ashraf	0	34.5	8.83	21	9	2	3	99.2	53	12	15
+Safyaan M Sharif	0	26.26	14.07	34	25	18	10	287.5	211	54	121
+Shariful Haque	0	0	10	10	1	0	0	3	10	0	44
+Sharjeel Khan	1	0	32.48	152	25		0	6	812	0	95
+Ajay K Sharma	0	58.33	20.19	59*	27	5	6	190	424	15	38
+Chetan Sharma	1	34.87	24	101*	35	19	16	472.3	456	67	141
+Gopal Sharma	0	36.1	5.5	7	2	1	0	81	11	10	54
+Ishant Sharma	0	30.98	4.8	13	28	30	13	622.1	72	115	8
+Karn V Sharma	0	0	0	0	0	1	0	19	0	0	73
+Mohit Mahipal Sharma	0	32.9	7.75	11	9	12	5	186.5	31	31	135
+Parthasarathy H Sharma	0	0	10	14	2		0		20	0	29
+Rahul Sharma	0	0	5.5	10	2		0	1	11	0	114
+Rahul Sharma	0	29.5	1	1	1	0	0	34.2	1	6	77
+Rohit G Sharma	22	64.38	47.55	264	196	2	31	98.5	7845	8	14
+Sanjeev K Sharma	0	36.95	10	28	12	6	4	163.1	80	22	60
+Ravishankar J Shastri	4	36.05	29.05	109	128	56	21	1102.1	3108	129	141
+Timothy G Shaw	0	33.11	13	17*	6	3	4	84	26	9	27
+Andrew P Sheahan	0	0	25	50	3		0		75	0	108
+Shehzad Altaf	0	37	0	0	0	3	0	13	0	1	80
+Mohammad Sheikh	0	32.89	6.8	15*	15	1	5	129.4	68	19	17
+Mohammad Q Sheikh	0	0	10.5	23	6		0	2	63	0	123
+Vikrant Shetty	0	0	8	9	2		0		16	0	43
+Mthokozisi Shezi	0	8	0	0	0	2	0	6	0	1	93
+Irvine T Shillingford	0	0	15	24	2		0	2	30	0	37
+Sew Shivnarine	0	0	0	20*	1	0	1	3	20	0	146
+Shoaib Akhtar	0	24.98	8.95	43	84	99	40	1294	394	247	59
+Shoaib Malik	9	39.51	35.14	143	250	38	40	1320.5	7379	156	9
+Shoaib Mohammad	1	36.25	24.4	126*	58	2	6	153.1	1269	20	76
+D'Arcy John Matthew Short	0	0	27.67	47*	4	0	1	7	83	0	134
+Shubman Gill	0	0	8	9	2		0		16	0	24
+Laxmi R Shukla	0	94	9	13	2	0	0	19	18	1	112
+Kenneth Shuttleworth	0	29	7	7	1	0	0	7	7	1	75
+Shuvagata Hom	0	0	35	35*	3	0	1	2	70	0	14
+Lega Siaka	1	73	18.13	109	16	0	0	17	290	1	52
+Vusimuzi Sibanda	2	88.33	24.54	116	126	1	4	44.3	2994	3	141
+Peter M Siddle	0	43.71	10.33	10*	6	10	3	150.1	31	17	30
+James D Siddons	0	0	32	32	1		0		32	0	111
+Ryan J Sidebottom	0	35.83	13.3	24	18	12	8	212.5	133	29	69
+Navjot S Sidhu	6	0	37.08	134*	127	0	8	0.4	4413	0	12
+Sikandar Raza	3	37.72	34.4	141	85	16	13	412.2	2477	53	63
+Sikander Bakht	0	26.06	7.75	16*	11	16	7	210.5	31	33	135
+E H Shadeep N Silva	0	0	7	7	1	0	0	7	7	0	18
+Kelaniyage J Silva	0	0	0	1*	1	0	1	8	1	0	107
+Lindamlilage P C Silva	1	33	28.87	107*	62	1	7	7	1588	1	78
+Sampathawudage A R Silva	0	0	22.05	85	20		0		441	0	14
+Christopher E W Silverwood	0	40.67	4.25	12	4	0	0	51	17	6	127
+Simandeep Singh	0	0	0	0	1		0		0	0	49
+Simi Singh	0	26.09	15.9	45	11	3	1	78	159	11	91
+Lendl M P Simmons	2	172	31.58	122	65	0	3	26	1958	1	37
+Philip V Simmons	5	34.65	28.94	122	138	38	11	646.4	3675	83	146
+Eric O Simons	0	24.55	15.5	24	18	21	4	202	217	33	56
+Robert B Simpson	0	47.5	18	23	2	0	0	17	36	2	10
+Richard W Sims	0	0	31	24	2	0	1	22	31	0	75
+Matthew S Sinclair	2	0	28.35	118*	50		4	15	1304	0	134
+Rudra Pratap Singh	0	77	0	0	0	1	0	13.4	0	1	20
+Rudra Pratap Singh	0	33.96	10.4	23	20	31	10	427.3	104	69	117
+Rabindra Ramanarayan Singh	1	43.26	25.96	100	113	28	23	622.2	2336	69	71
+Vikram R Singh	0	0	8	8	1	0	0	12	8	0	17
+Tisse Appuhamilage Milinda Siriwardana	0	58.89	23.32	66	23	2	1	98.1	513	9	53
+Laxman Sivaramakrishnan	0	35.87	2.5	2*	4	5	2	126	5	15	140
+Skhawit Ali	0	0	11.5	28	4	0	0	8	46	0	28
+Wilfred N Slack	0	0	21.5	34	2		0		43	0	113
+Michael J Slater	0	0	24.07	73	42	1	1	2	987	0	79
+Gladstone C Small	0	33.48	6.53	18*	24	34	9	465.3	98	58	16
+Milton A Small	0	54	0	0	0	0	0	14	0	1	122
+Timothy T Smart	0	0	17	25	2		0	1	34	0	45
+Clay J Smith	0	0	16	52	12		0	3	192	0	98
+Colin J O Smith	0	0	19.64	59	25		3		432	0	38
+Christopher L Smith	0	14	27.25	70	4	0	0	6	109	2	144
+David M Smith	0	0	15	10*	2		1		15	0	62
+Dwayne R Smith	0	37.46	18.57	97	89	18	5	454.2	1560	61	8
+Devon S Smith	1	0	24.63	107	45	0	2	2.5	1059	0	69
+Graeme C Smith	10	52.83	37.98	141	194	0	10	171	6989	18	130
+Ian D S Smith	0	0	17.3	62*	77		16	1	1055	0	23
+Mclaren Smith	0	0	0	0	0	0	0	2	0	0	112
+Michael John Smith	0	0	14	31	5		0	1	70	0	77
+Michael Jonathon Smith	0	0	3.8	13	5		0		19	0	15
+Neil M K Smith	0	31.67	20	31	6	2	1	43.3	100	6	54
+Robin A Smith	4	0	39.02	167*	70		8	26	2419	0	136
+Ruaidhri A J Smith	0	97	10	10	1	0	0	15	10	1	29
+Stephen B Smith	2	0	39.14	117	24	0	2	1.1	861	0	116
+Steven P D Smith	8	34.48	41.84	164	94	1	12	174.2	3431	27	70
+Jeroen Smits	0	0	16.8	29*	19		9		168	0	14
+Jeremy N Snape	0	31	29.5	38	7	2	3	88.1	118	13	125
+Shane Snater	0	63	6	12	2	1	0	11.5	12	1	50
+Martin C Snedden	0	28.39	15.29	64	54	70	19	754.1	535	114	96
+Richard P Snell	0	35.77	16.1	63	28	25	8	349.1	322	44	41
+John A Snow	0	16.57	4.5	5*	4	11	2	87	9	14	122
+Garfield St Aubrun Sobers	0	31	0	0	1	3	0	10.3	0	1	68
+Inderbir S Sodhi	0	36.71	6.2	24	12	9	2	252	62	38	7
+Reetinder S Sodhi	0	73	25.45	67	14	3	3	77	280	5	71
+Sohag Gazi	0	32.82	15.33	30	16	12	4	153.1	184	22	138
+Sohaib Maqsood	0	42	31.96	89*	25	0	2	9	735	1	27
+Sohail Butt	0	39.5	8	6*	2	0	1	13	8	2	110
+Sohail Fazal	0	0	28	32	2	0	0	1	56	0	75
+Sohail Khan	0	33.17	5	7	6	4	1	111	25	18	13
+Sohail Tanvir	0	35.64	13.76	59	40	24	11	491.3	399	72	60
+Vikram S Solanki	2	105	26.76	106	46	0	5	18.3	1097	1	142
+Christopher B Sole	0	21.38	2.25	4	4	4	0	62.2	9	13	23
+Thomas Barclay Sole	0	33.91	10.33	20	3	7	0	65	31	11	104
+Eknath D Solkar	0	42.25	4.5	13	6	4	0	38	27	4	79
+Sujith B Somasunder	0	0	8	9	2		0		16	0	17
+Sompal Kami	0	19	36.5	61	6	5	2	50.1	146	13	123
+Chad A Soper	0	25.74	15.8	40	12	6	2	90.5	158	19	48
+Durand Soraine	0	31.33	3.5	6	4	0	0	18.5	14	3	93
+Max C Sorensen	0	32.5	20.83	31	8	4	2	90.3	125	16	36
+Soumya Sarkar	2	123	34.43	127*	40	0	3	22	1274	1	143
+Timothy G Southee	0	34.26	12.62	55	84	72	31	1161.1	669	184	62
+Craig M Spearman	0	0	18.72	86	50	0	0	0.3	936	0	8
+Barinder B Sran	0	38.43	0	0	0	2	0	50.2	0	7	74
+Laxman Sreekumar	0	0	15.25	28	4		0	1	61	0	133
+Shanthakumaran Sreesanth	0	33.44	4	10*	21	16	10	412.4	44	75	19
+Krishnamachari Srikkanth	4	25.64	29.01	123	145	3	4	118.4	4091	25	112
+Javagal Srinath	0	28.09	10.64	53	121	137	38	1989.1	883	315	68
+Tirumalai E Srinivasan	0	0	5	6	2		0		10	0	15
+Sridharan Sriram	0	30.44	13.5	57	7	1	1	54	81	9	52
+Keith R Stackpole	0	18	37.33	61	6	0	0	10.1	224	3	141
+Jan H Stander	0	27.67	11	22*	5	2	1	25	44	6	32
+Ian M Stanger	0	0	10	27	5	0	0	9	50	0	107
+Billy Stanlake	0	46.29	1.33	2	5	3	2	59	4	7	75
+Richard W Staple	0	38	2	4	2	0	0	10	4	2	11
+Mitchell Aaron Starc	0	21.45	12.73	52*	38	34	16	626.5	280	145	66
+Nick A Statham	0	0	2.33	7	3		0		7	0	137
+Martin P Stead	0	0	5	10	2	0	0	4.5	10	0	24
+Ryan D Steede	0	50.8	11.67	20	7	1	1	52	70	5	109
+David S Steele	0	0	8	8	1	0	0	1	8	0	80
+William F Stelling	0	25.77	30	44	11	10	5	116.3	180	22	15
+Graham B Stevenson	0	17.86	43	28*	4	3	3	32	43	7	125
+Alec J Stewart	4	0	31.6	116	162		14	11	4677	0	46
+Errol L R Stewart	0	0	15.25	23*	6		2		61	0	93
+Shanan L Stewart	0	0	6.5	14	4		0		26	0	39
+Dale W Steyn	0	25.92	9.36	60	51	71	12	1035.4	365	195	144
+Phillipus J R Steyn	0	0	4	4	1		0		4	0	58
+Derek A Stirling	0	34.5	7	13*	5	2	2	41	21	6	9
+Paul Robert Stirling	7	46.23	35.41	177	99	8	2	386.4	3435	40	72
+Marcus Peter Stoinis	1	45.68	42.2	146*	25	1	5	166.4	844	22	13
+Benjamin Andrew Stokes	3	40.68	36.63	102*	68	6	11	417.3	2088	63	59
+Lesley W Stokkers	0	0	0	15*	1		1	1	15	0	136
+Oliver Peter Stone	0	97	0	9*	1	0	1	16	9	1	24
+Leslie W Stott	0	16	0	0	0	1	0	12	0	3	109
+Bryan Colin Strang	0	37.35	5.11	18	26	40	8	415.4	92	46	67
+Paul A Strang	0	33.05	22.24	47	73	35	24	725.1	1090	96	11
+Andrew J Strauss	6	0	35.64	158	125	0	7	1	4205	0	50
+Heath H Streak	0	29.83	28.3	79*	159	113	55	1578	2943	239	130
+Gregory M Strydom	0	61	14.7	58	10	0	0	11	147	1	35
+Pieter C Strydom	0	103	9.6	34	8	0	3	42	48	2	122
+Reinhardt Strydom	0	63	13.83	37	6	0	0	8	83	1	76
+Anthony M Stuart	0	13.63	1	1	1	2	0	30	1	8	15
+Colin E L Stuart	0	25.63	0	3*	1	3	1	43	3	8	56
+Scott B Styris	4	35.32	32.49	141	161	39	23	1019	4483	137	142
+Murphy L Su'A	0	40.78	4.8	12*	7	6	2	77.1	24	9	28
+Subashis Roy	0	45	0	1*	1	1	1	10	1	1	114
+Ramchandra Sudhakar Rao	0	0	4	4	1		0	1	4	0	61
+Suhrawadi Shuvo	0	40.86	14	20*	10	7	3	127	98	14	17
+Anthony O Suji	0	55.95	12.97	67	46	12	7	215.5	506	21	125
+Martin A Suji	0	50.93	8.23	16*	52	48	22	492	247	43	43
+Sultan Zarawani	0	51.4	4.33	13	6	0	0	44	26	5	97
+Glen P Sulzberger	0	34	9	6*	2	0	1	22	9	3	38
+Shiraz Sumar	0	0	4	4	1		0		4	0	148
+Sunzamul Islam	0	15.8	19	19	1	0	0	25	19	5	58
+Zubin E Surkari	0	0	17.26	49	22		3	6	328	0	9
+Stephan J Swanepoel	0	0	8.6	23	5		0		43	0	52
+Graeme P Swann	0	27.77	13.89	34	48	25	12	634.5	500	104	133
+Michael R Swart	0	102	19.7	52	11	0	1	61	197	3	31
+Syed Maqsood	0	84	9	13	2	0	0	11	18	1	116
+Syed Rasel	0	33.62	4.76	15	27	41	10	442.5	81	61	71
+Patrick Leonard Symcox	0	38.36	16.93	61	54	25	13	665.1	694	72	14
+Andrew Symonds	6	37.26	39.75	156	161	30	33	989.1	5088	133	48
+Gerrie Synman	0	46.83	1.25	5	4	0	0	48	5	6	138
+Eric S Szwarczynski	0	0	29.78	98	40		3	6	1102	0	25
+Tabarak Dar	0	0	25.25	36	4	45	0	2/0/2	101	0	108
+Tahir Naqqash	0	36.47	15	61	23	15	9	266	210	34	68
+Tatenda Taibu	2	30.5	29.25	107*	137	1	21	14	3393	2	16
+Taijul Islam	0	30.2	10.5	11	2	2	0	37	21	5	126
+Alex R Tait	0	29.33	11.67	13*	5	0	2	20	35	3	45
+Shaun W Tait	0	23.56	12.5	11	7	11	5	281.2	25	62	101
+Talha Jubair	0	42.5	2.5	4*	5	2	3	34	5	6	40
+Tamim Iqbal	11	0	36.09	154	187	0	8	1	6460	0	145
+Tanbir Hayder	0	0	2.5	3	2	0	0	10	5	0	57
+Tanveer Ahmed	0	41.6	0	2*	4	1	4	38.1	4	5	10
+Tanvir Ahmed	0	41.5	18	18	1	0	0	10	18	2	63
+Tanvir Mehdi	0	72	0	0	1	0	0	11	0	1	135
+Tanwir Afzal	0	31.63	18.13	73	19	14	3	142	290	19	22
+Tapash Baisya	0	41.56	12	35*	41	18	13	434.4	336	59	111
+Tareq Aziz	0	32.62	26	11*	8	7	7	77.3	26	13	79
+Tariq Javed	0	0	5	8	3		0		15	0	12
+Taskin Ahmed	0	31.13	4.1	14	16	6	6	235.3	41	45	55
+Taslim Arif	0	0	14	24	2		0	1	28	0	140
+Taufeeq Umar	0	85	24	81*	22	0	1	12	504	1	27
+Tausif Ahmed	0	40.85	10.55	27*	25	32	14	541.4	116	55	104
+Christopher James Tavare	0	0	27.69	83*	28	0	2	2	720	0	73
+Bruce R Taylor	0	15.5	22	22	1	4	0	19	22	4	18
+Brendan R M Taylor	10	45.11	35.79	145*	187	0	15	66	6156	9	121
+Jerome E Taylor	0	29.53	8.42	43*	42	35	9	723.3	278	128	34
+Jonathan P Taylor	0	0	1	1	1	0	0	3	1	0	98
+James W A Taylor	1	0	42.24	101	26		5	7	887	0	37
+Leslie B Taylor	0	0	0	1*	1	3	1	14	1	0	146
+Luteru Ross Poutoa Lote Taylor	20	0	48.35	181*	203	0	37	7	8026	0	65
+Mark A Taylor	1	0	32.24	105	110	0	1	3	3514	0	8
+Peter L Taylor	0	28.25	19.86	54*	47	33	25	656.1	437	97	54
+Robert M L Taylor	0	30.85	14	46*	14	5	3	118.5	154	20	137
+Robert W Taylor	0	0	13	26*	17		7		130	0	29
+Roger Telemachus	0	27.95	6.08	29	15	23	3	319.4	73	56	113
+Ryan N ten Doeschate	5	24.13	67	119	32	18	9	263.2	1541	55	72
+Sachin R Tendulkar	49	44.48	44.83	200*	452	24	41	1342.2	18426	154	17
+Anura P B Tennekoon	0	0	34.25	59	4		0	3	137	0	128
+Daniel James ter Braak	0	0	20	39	2		0		40	0	47
+David J Terbrugge	0	26.25	5	5	2	2	1	21	5	4	91
+Sean P Terry	0	0	6.4	16	5		0	2	32	0	41
+Vinoo A B Tewarie	0	0	4	4	1		0		4	0	120
+Shardul Narendra Thakur	0	36.33	22	22*	2	0	1	35.5	22	6	63
+Warushavithana Upul Tharanga	15	0	34.17	174*	220		17	49	6936	0	6
+Juan Theron	0	14.42	5	5	1	0	0	32.2	5	12	58
+Hettige Don Rumesh Lahiru Thirimanne	4	31.33	34.66	139*	97	0	12	17.2	2946	3	143
+Devon C Thomas	0	5.5	14	37	19	0	2	1.1	238	2	26
+John G Thomas	0	48	1	1*	3	2	2	26	1	3	105
+Oshane Romaine Thomas	0	27.53	0	0*	3	0	1	57.1	0	15	78
+Ewen P Thompson	0	0	0	0	0	0	0	4	0	0	19
+Greg J Thompson	0	73	1	2	2	0	0	12	2	1	132
+Patterson I C Thompson	0	55	2	2	1	2	0	19	2	2	50
+Stuart Robert Thompson	0	40.83	16.29	39	15	1	1	93.1	228	12	96
+Alan L Thomson	0	22	0	0	0	2	0	8	0	1	39
+Jeffrey Robert Thomson	0	35.31	7.54	21	30	37	6	447	181	55	147
+Shane A Thomson	0	38.14	22.95	83	52	21	10	353.3	964	42	68
+Graham P Thorpe	0	48.5	37.19	89	77	1	13	20	2380	2	7
+Sanjayan Thuraisingam	0	23.46	6.43	13	9	5	2	70.1	45	13	53
+Magina Thilan Thushara Mirando Thushara	0	27.86	18.67	54*	27	17	6	279.2	392	50	134
+Lazaro O Tikolo	0	0	0	25*	2	0	2	8	36	0	30
+Stephen O Tikolo	3	34.2	29.05	111	130	24	12	669.2	3428	94	117
+Hashan Prasantha Tillakaratne	2	23.5	29.6	104	168	1	40	30	3789	6	80
+Donald T Tiripano	0	44.25	15.31	44	18	7	5	150.2	199	20	13
+Michael H Tissera	0	0	26	52	3		0		78	0	62
+Frederick John Titmus	0	17.67	11	11	1	0	0	7	11	3	139
+Manoj K Tiwary	1	30	26.09	104*	12	1	1	22	287	5	23
+Saurabh S Tiwary	0	0	0	37*	2		2	2	49	0	110
+Roger W Tolchard	0	0	0	0	0		0		0	0	75
+Gavin C Tonge	0	44.8	5	5	4	6	2	50	10	5	14
+Peter M Toohey	0	0	52.5	54*	4		2		105	0	127
+Reece J W Topley	0	25.63	7	6	5	6	4	77.1	7	16	44
+Athanasios J Traicos	0	51.95	11	19	17	15	9	254	88	19	99
+James Cullum Tredwell	0	27.77	11.64	30	25	18	11	350.4	163	60	36
+Christopher P Tremain	0	36.43	23	23*	3	0	2	40	23	7	145
+Christopher T Tremlett	0	47	7.14	19*	11	2	4	130.4	50	15	59
+Marcus E Trescothick	12	54.75	37.37	137	122	0	6	38.4	4335	4	11
+Glenn S Trimble	0	0	4	4	2	0	1	4	4	0	51
+Ian J L Trott	4	83	51.25	137	65	0	10	30.3	2819	2	136
+Rodney J Trott	0	25.75	21.67	48*	10	0	4	89.3	130	16	27
+Jamie O Troughton	0	0	9	20	5		1	1	36	0	112
+Gary B Troup	0	24.72	25.25	39	12	22	8	194.2	101	32	69
+Thandi Tshabalala	0	50.33	0	2*	1	2	1	25	2	3	9
+Lonwabo L Tsotsobe	0	24.97	7	16*	21	44	13	494	56	94	55
+Janeiro J Tucker	0	50.14	19.84	52	26	4	1	136.3	496	14	141
+Tamauri E Tucker	0	22.43	0	0	0	0	0	29	0	7	32
+Carl M Tuckett	0	20.5	0	0	0	0	0	8	0	2	115
+Alex Jeremy Tudor	0	34	9	6	2	1	1	21.1	9	4	79
+Daryl R Tuffey	0	32.13	9.52	36	52	67	21	722.1	295	110	17
+Philip Clive Roderick Tufnell	0	36.79	15	5*	10	12	9	170	15	19	124
+Alan Turner	1	0	41.17	101	6		0	3	247	0	46
+Ashton James Turner	0	0	21	21	1		0		21	0	103
+Glenn M Turner	3	0	47	171*	40	1	6	1	1598	0	37
+Tushar Imran	0	103	14.35	65	40	0	0	21	574	1	142
+Roger G Twose	1	58.75	38.81	103	81	0	11	45.2	2717	4	61
+Sudeep Tyagi	0	48	0	1*	1	4	1	27.3	1	3	8
+Andrew James Tye	0	32.67	14.25	19	7	1	3	64.3	57	12	68
+Shaun D Udal	0	44.44	11.67	11*	7	4	4	102	35	9	132
+Isuru Udana Tillakaratna	0	0	0	0	0	0	0	12	0	0	25
+Mahela L Udawatte	0	0	28.56	73	9		0		257	0	114
+Umair Ali	0	125	10	10	2	1	0	18	20	1	73
+Umar Akmal	2	0	34.59	102*	105		17	32	3044	0	16
+Umar Amin	0	0	18.07	59	16	0	1	7	271	0	123
+Umar Gul	0	29.35	9.72	39	65	69	18	1010.4	457	179	48
+Jaydev D Unadkat	0	26.13	0	0	0	5	0	52	0	8	92
+Derek L Underwood	0	22.94	5.89	17	13	24	4	211	53	32	38
+Kalutarage Eric A Upashantha	0	40.08	7	15	8	6	1	94	49	12	143
+Tony P Ura	1	0	29.88	151	17	0	0	1	508	0	57
+Usman Ghani	1	34	27.4	118	15	0	0	6.2	411	1	10
+Usman Limbada	0	0	18.9	50	11		1	4	189	0	65
+Usman Mushtaq	0	0	3	3	1	0	0	2	3	0	134
+Usman Salahuddin	0	0	6.5	8	2		0	1	13	0	20
+Usman Khan Shinwari	0	17.48	0	0	1	4	0	81	0	23	110
+Robin V Uthappa	0	0	25.94	86	42	0	6	0.2	934	0	76
+Prosper Utseya	0	46.91	16.74	68*	132	65	48	1428.3	1406	133	11
+Warnakulasuriya Patabendige Ushantha Joseph Chaminda Vaas	0	27.54	13.68	50*	220	277	72	2629.1	2025	400	59
+Aldesh V Vadher	0	0	27.8	73*	16		6	6	278	0	136
+Prashant S Vaidya	0	43.5	7.5	12	2	1	0	30.4	15	4	24
+Asadollah Vala	0	25	20.72	70	18	10	0	116	373	17	117
+John N Valentine	0	22	0	3*	2	5	2	19	3	3	70
+Daan L S van Bunge	0	29.91	21.1	80	31	1	1	55.1	633	11	13
+Hendrik Erasmus van der Dussen	0	0	120.5	93	4		2	4	241	0	53
+Timm van der Gugten	0	10.63	2	2	2	3	0	21	4	8	142
+Albert van der Merwe	0	29.36	3.75	8	6	2	2	72	15	11	29
+Roelof E van der Merwe	0	33	9.75	12	7	2	3	117.3	39	17	106
+Johannes J van der Wath	0	42.38	14.83	37*	8	2	2	87.4	89	13	79
+Martin van Jaarsveld	0	9	20.67	45	7	1	1	5.1	124	2	18
+Vaughn B van Jaarsveld	0	0	4.5	5	2		0	1	9	0	121
+Paul A van Meekeren	0	65.5	0	15*	3	2	3	26	30	2	35
+Maurits W A van Nierop	0	0	35	31*	2		1		35	0	97
+Klass-Jan J van Noortwijk	1	0	46	134*	9		2		322	0	40
+Robert F Van Oosterom	0	0	7	5*	3		2	2	7	0	144
+Burton O van Rooi	0	119	26	17	3	0	2	20	26	1	64
+Melt van Schoor	0	0	14.5	24	5		1		58	0	7
+Lucas P van Troost	0	70	15.78	40	20	0	2	41	284	4	69
+Rudolph J van Vuuren	0	37.25	8.67	14	5	5	2	50	26	8	134
+Morne N van Wyk	0	0	26.56	82	17		1	1	425	0	31
+Cornelius J P G Van Zyl	0	0	3	3*	2	2	1	18	3	0	116
+Robert H Vance	0	0	31	96	8		0	4	248	0	74
+Jeffrey Dexter Francis Vandersay	0	43	11.83	25	7	2	1	74.5	71	10	14
+Michael G Vandort	0	0	48	48	1		0		48	0	50
+Norman Vanua	0	23.21	16.67	35	11	4	2	113.4	150	24	138
+Hiren A Varaiya	0	30.12	12.1	34	39	40	18	491.5	254	68	21
+Jack N T Vare	0	0	10.13	28	9		1		81	0	102
+John C B Vaughan	0	0	10	29	3	1	0	11	30	0	67
+Justin T C Vaughan	0	34.93	18	33	16	7	7	116	162	15	10
+Michael P Vaughan	0	40.56	27.15	90*	83	2	10	132.4	1982	16	62
+Michael R J Veletta	0	0	32.27	68*	19		4	7	484	0	141
+Dillip B Vengsarkar	1	0	34.73	105	120	0	19	1	3508	0	23
+Srinivasaraghavan Venkataraghavan	0	108.4	10.8	26*	9	7	4	140	54	5	113
+Margasaghayam Venkataramana	0	18	0	0*	1	0	1	10	0	2	75
+Yalaka Venugopal Rao	0	0	24.22	61*	11		2	6	218	0	15
+Mark A Vermeulen	0	5	22.26	92	43	0	4	0.5	868	1	56
+Sharad Vesawkar	0	0	4	4	1		0		4	0	143
+Daniel L Vettori	0	31.72	17.33	83	187	99	57	2343.2	2253	305	26
+Murali Vijay	0	37	21.19	72	16	0	0	6	339	1	109
+Dirk P Viljoen	0	37.25	14.22	63*	43	7	7	345.5	512	44	68
+Ranganath Vinay Kumar	0	37.45	9.56	27*	13	19	4	239.2	86	38	12
+James M Vince	0	0	26.2	51	5		0	4	131	0	51
+Lou Vincent	3	25	27.11	172	99	1	10	3.2	2413	1	126
+Gundappa R Viswanath	0	0	19.95	75	23		1	3	439	0	36
+Sandanand Viswanath	0	0	9	23*	12		4		72	0	97
+Kasun Disi Kithuruwan Vithanage	0	0	15	27	6	0	1	2	75	0	81
+Brian V Vitori	0	35.91	7.82	20*	14	4	3	198.5	86	32	16
+Graham E Vivian	0	0	14	14	1		0		14	0	129
+Adam C Voges	1	46	45.79	112*	28	1	9	50.1	870	6	44
+Dudley M Vonhagt	0	0	8	8	1		0		8	0	94
+Matthew Scott Wade	1	0	25.75	100*	80		11		1777	0	39
+Ajit L Wadekar	0	0	36.5	67	2		0	1	73	0	147
+Kenneth J Wadsworth	1	0	28.67	104	10		1		258	0	57
+Wahab Riaz	0	34.34	13.7	54*	56	19	13	615.5	589	102	9
+Wahidul Gani	0	0	0	0	0	0	0	6	0	0	66
+Wajahatullah Wasti	0	23	23.27	84	15	0	0	9.1	349	3	137
+Brooke G K Walker	0	52.13	15.67	16*	7	3	4	73	47	8	30
+Matthew D J Walker	0	29.75	10	10	1	0	0	22	10	4	115
+Maxwell Henry Norman Walker	0	27.3	9.88	20	11	24	3	158	79	20	74
+Craig D Wallace	0	0	18.22	58	18		0	6	328	0	11
+Philo A Wallace	1	0	21.24	103	33		0	11	701	0	60
+Andrew C Waller	0	0	23.37	83*	38		3	10	818	0	139
+Malcolm Noel Waller	0	56.6	19.08	99*	72	0	6	111	1259	10	22
+Kerry P Walmsley	0	58.5	0	0	0	0	0	20	0	2	108
+Courtney A Walsh	0	30.48	6.98	30	79	185	33	1803.4	321	227	79
+Kevin Douglas Walters	0	68.25	28.5	59	24	3	6	49	513	4	19
+Riaan Walters	0	0	0	0	2		0		0	0	132
+Chadwick Antonio Kirkpatrick Walton	0	0	6.63	19	8		0	3	53	0	45
+Samuel Walusimbi	0	0	12.67	16	3		0		38	0	99
+Waqar Younis	0	23.84	10.31	37	139	143	45	2116.2	969	416	38
+Waqas Barkat	0	0	12.75	27	10	1	2	15	102	0	146
+Waqas Khan	0	0	16.75	35*	5		1		67	0	58
+Iain Wardlaw	0	28.78	3.5	7*	14	7	8	184.4	21	36	7
+Bandula Warnapura	0	39.5	15	77	12	2	0	69	180	8	52
+Basnayake S M Warnapura	0	0	11.67	30	3		0	3	35	0	131
+Khahakachchi P J Warnaweera	0	33.33	0	1*	3	3	3	49	1	6	28
+Shane K Warne	0	25.74	13.05	55	107	110	29	1773.4	1018	293	112
+David A Warner	14	0	43.43	179	104	0	4	1	4343	0	67
+Washington Sundar	0	65	0	0	0	0	0	10	0	1	15
+Wasim Akram	0	23.53	16.52	86	280	236	55	3031	3717	502	123
+Wasim Bari	0	0	17	34	26		13		221	0	49
+Wasim Haider	0	79	13	13	2	1	0	19	26	1	94
+Wasim Raja	0	32.71	22.34	60	45	10	10	169.4	782	21	37
+Atul S Wassan	0	25.73	8.25	16	6	0	2	71	33	11	142
+Seren Waters	0	0	20.95	74	20	0	0	3	419	0	62
+Steven L Watkin	0	27.57	2	4	2	2	0	36.5	4	7	8
+Michael Watkinson	0	0	0	0	0	0	0	9	0	0	71
+Bradley-John Watling	0	0	24.91	96*	25		2	6	573	0	140
+Graeme D Watson	0	14	11	11*	2	1	1	8	11	2	25
+Ryan R Watson	1	44	30.84	123*	35	3	4	95	956	12	110
+Shane R Watson	9	31.8	40.54	185*	169	37	27	1077.4	5757	168	78
+William Watson	0	30.36	7.82	21	24	47	13	541.5	86	74	14
+Mark R J Watt	0	31.5	16.25	31*	12	10	4	156.4	130	22	54
+David F Watts	1	0	28.65	101	35		1	7	974	0	129
+Mark Edward Waugh	18	34.56	39.35	173	236	11	20	614.3	8500	85	32
+Stephen Rodger Waugh	3	34.67	32.91	120*	288	56	58	1480.3	7569	195	116
+Peter N Webb	0	0	9.5	10*	5		1		38	0	65
+Richard J Webb	0	26.25	0	6*	1	1	1	26.5	6	4	9
+Ajith P Weerakkody	0	0	2	2	1	0	0	6	2	0	67
+Dharshanapriya Sandun Weerakkody	0	0	24.33	58	3		0	2	73	0	138
+Sajeewa Weerakoon	0	49	0	0	0	0	0	10	0	1	21
+Kaushalya Weeraratne	0	64.17	20	41	9	6	1	80	160	6	102
+Uda Walawwe Mahim Bandaralage Chanaka Asanga Welegedara	0	28.87	4	2*	3	5	2	76.1	4	15	76
+Dirk M Wellham	0	0	25.27	97	17		2	8	379	0	12
+Alan P Wells	0	0	15	15	1		0		15	0	55
+Colin M Wells	0	0	11	17	2		0		22	0	144
+Vincent J Wells	0	23.63	20.14	39	7	3	0	36.4	141	8	27
+Steven R Welsh	0	0	21	32	3	0	1	20	42	0	113
+Dominic S Wesonga	0	14	20.33	33	4	0	1	7	61	2	74
+Kepler Christoffel Wessels	1	37	34.36	107	105	2	7	124.5	3367	18	16
+Regan M West	0	31	30.5	29*	4	8	2	74.3	61	9	127
+Berend A Westdijk	0	195	0.5	1*	3	0	1	26	1	1	43
+Mithra De S Wettimuny	0	0	2	2	1		0		2	0	95
+Sidath Wettimuny	0	70	24.56	86*	33	0	1	9.3	786	1	38
+Sunil R D Wettimuny	0	0	68	67	3		1		136	0	146
+Alexander G Wharf	0	23.78	9.5	9	5	10	3	97.2	19	18	59
+Karl Whatham	0	0	18	18	1		0		18	0	6
+Davenell F Whatmore	0	0	2	2	1		0		2	0	69
+Bradley Thomas James Wheal	0	21.58	5.33	14	6	9	3	96.3	16	19	140
+Ben Matthew Wheeler	0	39.38	0	39*	4	3	4	51.3	58	8	23
+Roger K Whelan	0	49.5	2.5	5	2	0	0	15	5	2	115
+John J Whitaker	0	0	48	44*	2		1	1	48	0	70
+Andrew R White	0	27.52	18.05	79	46	3	3	144.5	776	25	13
+Craig White	0	26.55	15.78	57*	41	25	5	394	568	65	63
+Cameron L White	2	29.25	33.97	105	77	2	16	55.1	2072	12	137
+David J White	0	0	12.33	15	3		0	1	37	0	30
+Michael R Whitney	0	27.15	6.67	9*	13	43	7	351	40	46	118
+Andrew Richard Whittall	0	50.02	7.64	29	35	17	13	514.1	168	45	81
+Guy J Whittall	0	39.56	22.54	83	142	18	22	676.4	2705	88	15
+Stuart Gordon Whittingham	0	24.86	6	3*	3	2	2	33.5	6	7	50
+Ranasinghe P A H Wickramaratne	0	0	2	3	2		0		4	0	134
+Gallage Pramodya Wickramasinghe	0	39.64	8.6	32	64	49	24	953.2	344	109	28
+Anguppulige Gamini Dayantha Wickremasinghe	0	0	2	2	1		0		2	0	106
+Julien M Wiener	0	0	20	50	7	0	0	4	140	0	76
+David Wiese	0	35.11	20.6	41*	6	0	1	49	103	9	10
+Kapila I W Wijegunawardene	0	39.44	2.86	8*	12	8	5	197.4	20	25	60
+Roger G C E Wijesuriya	0	35.88	18	12*	3	1	2	52	18	8	143
+David J Willey	0	34.73	18.92	50	25	14	12	294.3	246	48	25
+Peter Willey	0	50.69	23.39	64	24	9	1	171.5	538	13	111
+Brad A Williams	0	23.26	13.5	13*	6	19	4	200.3	27	35	68
+David Williams	0	0	9.19	32*	23		7		147	0	17
+Henry S Williams	0	25.33	8	7	2	2	1	54.5	8	9	124
+Kesrick Omari Kenal Williams	0	32.56	19	16*	5	0	4	55	19	9	41
+Laurie R Williams	0	30.89	11.27	41	13	2	2	109.5	124	18	99
+Stuart C Williams	1	52	32.37	105*	55	0	6	8	1586	1	37
+Sean C Williams	2	50.13	33.28	129*	118	21	16	612	3395	60	148
+John Greig Williamson	0	0	5.5	10	2		0		11	0	58
+Kane S Williamson	11	37.17	45.91	145*	133	2	12	239.3	5555	35	8
+Robert George Dylan Willis	0	24.6	10.38	24	22	97	14	592.1	83	80	52
+Charl M Willoughby	0	74	0	0	2	2	0	28	0	2	133
+Gary Craig Wilson	1	0	24.07	113	93		11	28	1974	0	31
+Jeffrey W Wilson	0	65	20.6	44*	6	0	1	40.2	103	4	117
+Paul Wilson	0	34.62	1.33	2	5	6	2	93.4	4	13	74
+Paul J Wiseman	0	30.67	22.5	16	7	0	5	75	45	12	19
+Craig B Wishart	2	0	23.23	172*	82	0	8	2	1719	0	128
+Warren A Wisneski	0	0	10	6	2	0	1	19	10	0	45
+Christopher Roger Woakes	0	31.36	26.64	95*	57	32	18	654	1039	117	92
+Barry Wood	0	24.89	31.4	78*	12	12	2	68	314	9	39
+Graeme M Wood	3	0	33.62	114*	77		11	17	2219	0	144
+Mark A Wood	0	46.9	9	13	13	11	8	331.1	45	40	63
+Ashley J Woodcock	0	0	53	53	1		0		53	0	7
+Luke J Woodcock	0	51.67	14	11	2	0	1	27.2	14	3	70
+Roger D Woolley	0	0	31	16	3		2		31	0	135
+Robert A Woolmer	0	28.89	5.25	9	4	3	0	53.3	21	9	22
+George H Worker	0	0	34	58	10	0	2	1	272	0	108
+Daniel J Worrall	0	171	0	6*	1	0	1	26.2	6	1	76
+Craig M Wright	0	22.86	16	37	18	15	3	143.3	240	29	15
+John G Wright	1	0	26.47	101	148	1	1	4	3891	0	57
+Kevin J Wright	0	0	14.5	23	2		0		29	0	142
+Luke J Wright	0	58.93	20.2	52	39	2	4	173	707	15	29
+Mandy Yachad	0	0	31	31	1		0	1	31	0	115
+Jayant Yadav	0	8	0	1*	1	0	1	4	1	1	81
+Jai P Yadav	0	54.33	20.25	69	7	4	3	66	81	6	16
+Nandlal S Yadav	0	28.5	0	1*	2	3	2	55	1	8	124
+Umeshkumar Tilak Yadav	0	33.63	7.9	18*	24	23	14	593	79	106	48
+Vijay Yadav	0	0	11.8	34*	12		2		118	0	103
+Graham N Yallop	0	39.67	39.19	66*	27	0	6	23	823	3	40
+Yamin Ahmadzai	0	45	3	3*	2	2	1	18	3	2	146
+Bruce Yardley	0	18.57	14.5	28	4	5	0	33	58	7	62
+Michael H Yardy	0	51.19	20.38	60*	24	7	8	222	326	21	9
+Yashpal Sharma	0	199	28.48	89	40	0	9	33.3	883	1	53
+Yasir Arafat	0	93.25	14.8	27	8	2	3	69	74	4	131
+Yasir Hameed	3	0	36.87	127*	56	0	1	3	2028	0	34
+Yasir Shah	0	42.47	17	32*	9	3	3	158.3	102	19	117
+Yograj Singh	0	46.5	0.5	1	4	4	2	40.4	1	4	77
+Tinu Yohannan	0	24.4	0	5*	2	1	2	20	7	5	18
+Bryan A Young	0	0	24.53	74	73		5	22	1668	0	123
+Bradley E Young	0	251	15.5	18	3	0	1	39	31	1	50
+Craig Alexander Young	0	20.85	5	11*	6	4	2	109.3	20	27	95
+Mohammad Younis Ahmed	0	0	42	58	2		0	1	84	0	36
+Younis Khan	7	96	31.25	144	255	1	23	47.2	7249	3	145
+Yunus Badat	0	0	0.5	1	2		0		1	0	58
+Yuvraj Singh	14	38.68	36.56	150	278	18	40	841.2	8701	111	11
+Zafar Gohar	0	27	15	15	1	0	0	10	15	2	51
+Zafar Iqbal	0	45.67	8	18	6	2	0	33	48	3	136
+Syed Zaheer Abbas Kirmani	7	31.86	47.63	123	60	2	6	46.4	2572	7	27
+Zaheer Maqsood	0	29	0	8*	2	0	2	20	13	4	111
+Zahid Ahmed	0	20.33	3	3*	2	1	1	16	3	3	69
+Zahid Fazal	0	0	23.2	98*	18		3	2	348	0	14
+Zahid Hussain	0	47	9	7*	2	1	1	20	9	2	58
+Zahid Razzak	0	0	4.67	6	3		0		14	0	139
+Zahid Shah	0	16.33	0	6*	2	1	2	20	11	6	24
+Zahoor Elahi	0	0	22.85	86	14		1	2	297	0	116
+Zahoor Khan	0	20.24	6.6	16	8	4	3	89.1	33	25	73
+Zain Abbas	0	56	0	26*	1	0	1	6	26	1	13
+Zakir Hasan	0	0	0	0	1	0	0	6	0	0	65
+Zakir Khan	0	30.88	27	11*	5	4	4	107.4	27	16	132
+Zakiullah Zaki	0	0	0	3*	1	0	1	4	3	0	19
+Zameer Zahir	0	17.5	0	3*	1	0	1	5	3	2	109
+Adam Zampa	0	37.07	7.46	22	17	3	4	291.4	97	44	79
+Zeeshan Siddiqi	0	0	25	43	2		0		50	0	17
+Andris K Zesers	0	74	0	8*	2	1	2	15	10	1	122
+Cephas Zhuwawo	0	0	17.11	45	9	0	0	3.1	154	0	46
+Ziaur Rahman	0	30.1	11.27	41	11	1	0	65	124	10	101
+Timothy J Zoehrer	0	0	10.83	50	15		3		130	0	37
+Monde Zondeki	0	45.82	4	3*	3	8	2	93	4	11	147
+Khayelihle Zondo	0	0	35.5	54	5		1	1	142	0	66
+Demuni Nuwan Tharanga Zoysa	0	29.75	13.19	47*	47	61	21	709.5	343	108	7
+Bastiaan Zuiderent	0	0	23.87	77*	56		10	26	1098	0	52
+Zulfiqar Ali	0	41.5	19.5	30	3	3	1	35	39	4	139
+Zulfiqar Babar	0	61.5	17.5	14*	5	1	3	49	35	4	32
+Zulqarnain Haider	0	0	24	19*	4		2		48	0	118
+Zulquarnain	0	0	6	11*	6		3		18	0	80
